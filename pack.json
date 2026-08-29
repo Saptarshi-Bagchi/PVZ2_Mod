@@ -1,0 +1,11 @@
+{
+  "uuid": "2143bada-0de6-4b92-b066-55ff25739025",
+  "name": "PVZ2 Reimagined",
+  "version": "0.1.0",
+  "priority": 100,
+  "description": "A reimagined Plants vs. Zombies 2 experience for Gardendless.",
+  "author": "blazi",
+  "packFormatVersion": 1,
+  "gameVersion": "0.7.1",
+  "gpNextVersion": ">=1.0.0"
+}
