@@ -1,0 +1,1110 @@
+{
+  "BASE_PRIZES": [
+    {
+      "PrizeParam": "coin",
+      "StackLevel": 0,
+      "Count": 1000,
+      "Weight": 12
+    },
+    {
+      "PrizeParam": "coin",
+      "StackLevel": 1,
+      "Count": 4000,
+      "Weight": 4
+    },
+    {
+      "PrizeParam": "gem",
+      "StackLevel": 0,
+      "Count": 3,
+      "Weight": 4
+    },
+    {
+      "PrizeParam": "ticket",
+      "StackLevel": 0,
+      "Count": 150,
+      "Weight": 4
+    },
+    {
+      "PrizeParam": "gem",
+      "StackLevel": 1,
+      "Count": 10,
+      "Weight": 1
+    },
+    {
+      "PrizeParam": "sprout",
+      "StackLevel": 0,
+      "Count": 3,
+      "Weight": 4
+    },
+    {
+      "PrizeParam": "sprout",
+      "StackLevel": 1,
+      "Count": 10,
+      "Weight": 1
+    }
+  ],
+  "EVENTS": {
+    "Default": {
+      "PinataType": "default",
+      "DefaultIconLeft": "pinata",
+      "DefaultIconRight": "",
+      "DefaultBG": "default",
+      "DefaultBG_Mini": "default_mini",
+      "ExtraPinataPrize": [],
+      "DefaultTitle": {
+        "en": "Piñata Party Is On! 🎉",
+        "zh": "彩陶盛宴火热进行！🎉"
+      },
+      "DefaultTitleFolded": {
+        "en": "Piñata Party",
+        "zh": "彩陶盛宴"
+      },
+      "DefaultDescription": {
+        "en": "Try special limited-time level for today!",
+        "zh": "尝试今天的限时关卡！"
+      },
+      "Levels": {
+        "lod_0": {
+          "IconLeft": "pinata",
+          "IconRight": "",
+          "BG": "default",
+          "BG_Mini": "default_mini",
+          "Title": {
+            "en": "Piñata Party Is On! 🎉",
+            "zh": "彩陶盛宴火热进行！🎉"
+          },
+          "TitleFolded": {
+            "en": "Piñata Party",
+            "zh": "彩陶盛宴"
+          },
+          "Description": {
+            "en": "Try special limited-time level for today!",
+            "zh": "尝试今天的限时关卡！"
+          }
+        },
+        "lod_1": {},
+        "lod_2": {},
+        "lod_3": {},
+        "lod_4": {},
+        "lod_5": {},
+        "lod_6": {},
+        "lod_7": {},
+        "lod_8": {},
+        "lod_9": {},
+        "lod_10": {},
+        "lod_11": {},
+        "lod_12": {},
+        "lod_13": {},
+        "lod_14": {},
+        "lod_15": {},
+        "lod_16": {},
+        "lod_17": {},
+        "lod_18": {},
+        "lod_19": {},
+        "lod_20": {
+          "PinataType": "twist",
+          "BG": "twist",
+          "Description": {
+            "en": "Make good use of the Puff-shrooms' Plant Food effect along with Cherry Bombs to keep zombies away from your house!",
+            "zh": "利用小喷菇的叶绿素效果，配合樱桃炸弹，尽可能让僵尸远离你的家！"
+          }
+        },
+        "lod_21": {},
+        "lod_22": {},
+        "lod_23": {},
+        "lod_24": {},
+        "lod_25": {},
+        "lod_26": {},
+        "lod_27": {},
+        "lod_28": {},
+        "lod_29": {},
+        "lod_30": {},
+        "lod_31": {},
+        "lod_32": {},
+        "lod_33": {},
+        "lod_34": {},
+        "lod_35": {},
+        "lod_36": {},
+        "lod_37": {},
+        "lod_38": {},
+        "lod_39": {},
+        "lod_40": {},
+        "lod_41": {},
+        "lod_42": {},
+        "lod_43": {},
+        "lod_44": {},
+        "lod_45": {},
+        "lod_46": {},
+        "lod_47": {},
+        "lod_48": {},
+        "lod_49": {},
+        "lod_50": {},
+        "lod_51": {},
+        "lod_52": {},
+        "lod_53": {},
+        "lod_54": {},
+        "lod_55": {},
+        "lod_56": {},
+        "lod_57": {},
+        "lod_58": {},
+        "lod_59": {},
+        "lod_60": {},
+        "lod_61": {},
+        "lod_62": {},
+        "lod_63": {},
+        "lod_64": {},
+        "lod_65": {},
+        "lod_66": {},
+        "lod_67": {},
+        "lod_68": {},
+        "lod_69": {},
+        "lod_70": {},
+        "lod_71": {},
+        "lod_72": {},
+        "lod_73": {},
+        "lod_74": {},
+        "lod_75": {},
+        "lod_76": {},
+        "lod_77": {},
+        "lod_78": {},
+        "lod_79": {},
+        "lod_80": {},
+        "lod_81": {},
+        "lod_82": {},
+        "lod_83": {},
+        "lod_84": {},
+        "lod_85": {},
+        "lod_86": {},
+        "lod_87": {},
+        "lod_88": {},
+        "lod_89": {},
+        "lod_90": {},
+        "lod_91": {},
+        "lod_92": {},
+        "lod_93": {},
+        "lod_94": {},
+        "lod_95": {},
+        "lod_96": {},
+        "lod_97": {},
+        "lod_98": {},
+        "lod_99": {},
+        "lod_100": {},
+        "lod_101": {},
+        "lod_102": {},
+        "lod_103": {},
+        "lod_104": {},
+        "lod_105": {},
+        "lod_106": {},
+        "lod_107": {},
+        "lod_108": {},
+        "lod_109": {},
+        "lod_110": {},
+        "lod_111": {},
+        "lod_112": {},
+        "lod_113": {},
+        "lod_114": {},
+        "lod_115": {},
+        "lod_116": {},
+        "lod_117": {},
+        "lod_118": {},
+        "lod_119": {},
+        "lod_120": {},
+        "lod_121": {},
+        "lod_122": {},
+        "lod_123": {},
+        "lod_124": {},
+        "lod_125": {},
+        "lod_126": {},
+        "lod_127": {},
+        "lod_128": {},
+        "lod_129": {},
+        "lod_130": {},
+        "lod_131": {},
+        "lod_132": {
+          "IconLeft": "wasabiwhip",
+          "BG": "default",
+          "Description": {
+            "en": "Is the lawn full of ice? No worries! Wasabi Whips will warm us up!",
+            "zh": "场地被冰封了？不用担心，炙热山葵要为我们暖暖身子！"
+          }
+        },
+        "lod_133": {},
+        "lod_134": {},
+        "lod_135": {},
+        "lod_136": {},
+        "lod_137": {},
+        "lod_138": {},
+        "lod_139": {},
+        "lod_140": {},
+        "lod_141": {},
+        "lod_142": {},
+        "lod_143": {},
+        "lod_144": {},
+        "lod_145": {},
+        "lod_146": {},
+        "lod_147": {},
+        "lod_148": {},
+        "lod_149": {},
+        "lod_150": {
+          "BG": "twist",
+          "PinataType": "twist",
+          "IconLeft": "heroes_greenshadow",
+          "Title": {
+            "en": "The Green Shadow Is Here!",
+            "zh": "绿影侠来袭！"
+          },
+          "Description": {
+            "en": "She comes from PvZ: Heroes!",
+            "zh": "她来自《植物大战僵尸：英雄》！"
+          }
+        },
+        "lod_151": {},
+        "lod_152": {},
+        "lod_153": {},
+        "lod_154": {},
+        "lod_155": {},
+        "lod_156": {},
+        "lod_157": {},
+        "lod_158": {},
+        "lod_159": {},
+        "lod_160": {},
+        "lod_161": {},
+        "lod_162": {},
+        "lod_163": {},
+        "lod_164": {},
+        "lod_165": {},
+        "lod_166": {},
+        "lod_167": {},
+        "lod_168": {},
+        "lod_169": {},
+        "lod_170": {},
+        "lod_171": {},
+        "lod_172": {},
+        "lod_173": {},
+        "lod_174": {},
+        "lod_175": {},
+        "lod_176": {},
+        "lod_177": {},
+        "lod_178": {},
+        "lod_179": {},
+        "lod_180": {},
+        "lod_181": {},
+        "lod_182": {},
+        "lod_183": {},
+        "lod_184": {},
+        "lod_185": {},
+        "lod_186": {},
+        "lod_187": {},
+        "lod_188": {},
+        "lod_189": {},
+        "lod_190": {},
+        "lod_191": {},
+        "lod_192": {},
+        "lod_193": {},
+        "lod_194": {},
+        "lod_195": {},
+        "lod_196": {},
+        "lod_197": {},
+        "lod_198": {},
+        "lod_199": {},
+        "lod_200": {},
+        "lod_201": {},
+        "lod_202": {},
+        "lod_203": {},
+        "lod_204": {},
+        "lod_205": {},
+        "lod_206": {},
+        "lod_207": {},
+        "lod_208": {},
+        "lod_209": {},
+        "lod_210": {},
+        "lod_211": {},
+        "lod_212": {},
+        "lod_213": {},
+        "lod_214": {
+          "BG": "twist",
+          "PinataType": "twist",
+          "IconLeft": "heroes_grassknuckles",
+          "Title": {
+            "en": "The Grass Knuckles Is Here!",
+            "zh": "拳王菜来袭！"
+          },
+          "Description": {
+            "en": "He comes from PvZ: Heroes!",
+            "zh": "他来自《植物大战僵尸：英雄》！"
+          }
+        },
+        "lod_215": {},
+        "lod_216": {
+          "Title": {
+            "en": "Big Trouble Little Zombie!",
+            "zh": "小僵尸，大麻烦！"
+          }
+        },
+        "lod_217": {
+          "IconLeft": "firepeashooter",
+          "IconRight": "bobsled",
+          "Description": {
+            "en": "Thaw the ice trails with fire peas from Fire Peashooters!",
+            "zh": "利用火焰豌豆的火球，融化烦人的冰道！"
+          }
+        },
+        "lod_218": {},
+        "lod_219": {
+          "IconLeft": "turnip",
+          "IconRight": "excavator",
+          "Description": {
+            "en": "Immovable like a mountain!",
+            "zh": "根深蒂固，不动如山！"
+          }
+        },
+        "lod_220": {},
+        "lod_221": {},
+        "lod_222": {},
+        "lod_223": {
+          "Description": {
+            "en": "Try keeping'em in the same lane! That'll help.",
+            "zh": "试着让他们待在同一行，这样好多了！"
+          }
+        },
+        "lod_224": {},
+        "lod_225": {},
+        "lod_226": {
+          "BG": "twist",
+          "PinataType": "twist"
+        },
+        "lod_227": {},
+        "lod_228": {
+          "BG": "twist",
+          "PinataType": "twist"
+        },
+        "lod_229": {},
+        "lod_230": {},
+        "lod_231": {
+          "BG": "twist",
+          "PinataType": "twist",
+          "Description": {
+            "en": "Make sure your ship doesn't get sunk!",
+            "zh": "保证你的船不被击沉！"
+          }
+        },
+        "lod_232": {},
+        "lod_233": {
+          "Description": {
+            "en": "Keep reflecting — don't take any rests!",
+            "zh": "弹来弹去，不要休息！"
+          }
+        },
+        "lod_234": {},
+        "lod_235": {},
+        "lod_236": {},
+        "lod_237": {},
+        "lod_238": {},
+        "lod_239": {
+          "BG": "twist",
+          "PinataType": "twist",
+          "Description": {
+            "en": "Today's party will be fierce — but no worry!",
+            "zh": "今天的攻势将会十分猛烈，但是不必担心！"
+          }
+        },
+        "lod_240": {},
+        "lod_241": {},
+        "lod_242": {},
+        "lod_243": {},
+        "lod_244": {},
+        "lod_245": {
+          "BG": "twist",
+          "PinataType": "twist",
+          "Description": {
+            "en": "They may have pumped up their muscles, but they're still zombies through and through!",
+            "zh": "僵尸练大了体格，但说到底还是僵尸！"
+          }
+        },
+        "lod_246": {},
+        "lod_247": {},
+        "lod_248": {},
+        "lod_249": {},
+        "lod_250": {},
+        "lod_251": {
+          "IconLeft": "wasabiwhip"
+        },
+        "lod_252": {},
+        "lod_253": {},
+        "lod_254": {},
+        "lod_255": {},
+        "lod_256": {},
+        "lod_257": {
+          "BG": "twist",
+          "PinataType": "twist"
+        },
+        "lod_258": {},
+        "lod_259": {},
+        "lod_260": {},
+        "lod_261": {},
+        "lod_262": {},
+        "lod_263": {},
+        "lod_264": {},
+        "lod_265": {},
+        "lod_266": {},
+        "lod_267": {}
+      }
+    },
+    "Birthday": {
+      "PinataType": "birthday",
+      "DefaultIconLeft": "box_0",
+      "DefaultIconRight": "birthday_zombies",
+      "DefaultBG": "birthday",
+      "DefaultBG_Mini": "birthday_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "5.11",
+        "5.12",
+        "5.13",
+        "5.14",
+        "5.15",
+        "5.16",
+        "5.17",
+        "5.18",
+        "5.19",
+        "5.20",
+        "5.21",
+        "5.22",
+        "5.23",
+        "5.24"
+      ],
+      "DefaultTitle": {
+        "en": "Happy Birthday to PvZ!",
+        "zh": "植物大战僵尸生日快乐！"
+      },
+      "DefaultTitleFolded": {
+        "en": "Happy Birthday!",
+        "zh": "生日快乐！"
+      },
+      "DefaultDescription": {
+        "en": "Have you had your cakes?",
+        "zh": "你吃了你的蛋糕了吗？"
+      },
+      "Levels": {
+        "lod_birthday_0": {},
+        "lod_birthday_1": {},
+        "lod_birthday_2": {},
+        "lod_birthday_3": {},
+        "lod_birthday_4": {},
+        "lod_birthday_5": {},
+        "lod_birthday_6": {},
+        "lod_birthday_7": {},
+        "lod_birthday_8": {},
+        "lod_birthday_9": {},
+        "lod_birthday_10": {},
+        "lod_birthday_11": {},
+        "lod_birthday_12": {},
+        "lod_birthday_13": {},
+        "lod_birthday_14": {},
+        "lod_birthday_15": {},
+        "lod_birthday_16": {},
+        "lod_birthday_17": {},
+        "lod_birthday_18": {},
+        "lod_birthday_19": {},
+        "lod_birthday_20": {},
+        "lod_birthday_21": {},
+        "lod_birthday_22": {},
+        "lod_birthday_23": {},
+        "lod_birthday_24": {},
+        "lod_birthday_25": {},
+        "lod_birthday_26": {},
+        "lod_birthday_27": {},
+        "lod_birthday_28": {},
+        "lod_birthday_29": {}
+      }
+    },
+    "AprilFools": {
+      "PinataType": "default",
+      "DefaultIconLeft": "pinata",
+      "DefaultIconRight": "",
+      "DefaultBG": "spring",
+      "DefaultBG_Mini": "default_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "4.1"
+      ],
+      "DefaultTitle": {
+        "en": "April Fools!",
+        "zh": "愚人节快乐！"
+      },
+      "DefaultTitleFolded": {
+        "en": "April Fools!",
+        "zh": "愚人节快乐！"
+      },
+      "DefaultDescription": {
+        "en": "Use powerful plants to chase away the bunnies on your lawn!",
+        "zh": "用强大的植物赶走草坪上的小兔子吧！"
+      },
+      "Levels": {
+        "lod_april_fools_0": {},
+        "lod_april_fools_1": {
+          "Description": {
+            "en": "The zombies always walks towards your house.",
+            "zh": "僵尸总是朝着你的房子走。"
+          }
+        },
+        "lod_april_fools_2": {}
+      }
+    },
+    "Easter": {
+      "PinataType": "default",
+      "DefaultIconLeft": "pinata",
+      "DefaultIconRight": "",
+      "DefaultBG": "spring",
+      "DefaultBG_Mini": "default_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "3.29",
+        "3.30",
+        "3.31",
+        "4.2",
+        "4.3",
+        "4.4"
+      ],
+      "DefaultTitle": {
+        "en": "The Springening!",
+        "zh": "春意盎然！"
+      },
+      "DefaultTitleFolded": {
+        "en": "The Springening!",
+        "zh": "春意盎然！"
+      },
+      "DefaultDescription": {
+        "en": "Celebrate The Springening with friends!",
+        "zh": "和植物伙伴一起庆祝春季的到来！"
+      },
+      "Levels": {
+        "lod_easter_0": {},
+        "lod_easter_1": {},
+        "lod_easter_2": {},
+        "lod_easter_3": {},
+        "lod_easter_4": {},
+        "lod_easter_5": {},
+        "lod_easter_6": {},
+        "lod_easter_7": {},
+        "lod_easter_8": {},
+        "lod_easter_9": {},
+        "lod_easter_10": {},
+        "lod_easter_11": {},
+        "lod_easter_12": {},
+        "lod_easter_13": {},
+        "lod_easter_14": {},
+        "lod_easter_15": {},
+        "lod_easter_16": {}
+      }
+    },
+    "Feastivus_Before": {
+      "PinataType": "feastivus",
+      "DefaultIconLeft": "pinata",
+      "DefaultIconRight": "",
+      "DefaultBG": "feastivus_0",
+      "DefaultBG_Mini": "feastivus_0_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "12.18",
+        "12.19",
+        "12.20",
+        "12.21",
+        "12.22",
+        "12.23"
+      ],
+      "DefaultTitle": {
+        "en": "Feastivus Eve is approaching!",
+        "zh": "平安夜将至！"
+      },
+      "DefaultTitleFolded": {
+        "en": "Feastivus Eve",
+        "zh": "平安夜"
+      },
+      "DefaultDescription": {
+        "en": "Celebrate The Feastivus!",
+        "zh": "庆祝圣诞的到来！"
+      },
+      "Levels": {
+        "lod_feastivus_0": {},
+        "lod_feastivus_1": {},
+        "lod_feastivus_2": {},
+        "lod_feastivus_3": {},
+        "lod_feastivus_4": {},
+        "lod_feastivus_9": {},
+        "lod_feastivus_12": {},
+        "lod_feastivus_14": {},
+        "lod_feastivus_15": {},
+        "lod_feastivus_19": {}
+      }
+    },
+    "Feastivus_Eve": {
+      "PinataType": "feastivus",
+      "DefaultIconLeft": "pinata",
+      "DefaultIconRight": "",
+      "DefaultBG": "feastivus_2",
+      "DefaultBG_Mini": "feastivus_2_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "12.24"
+      ],
+      "DefaultTitle": {
+        "en": "Merry Feastivus Eve!",
+        "zh": "平安夜快乐！"
+      },
+      "DefaultTitleFolded": {
+        "en": "Feastivus Eve",
+        "zh": "平安夜"
+      },
+      "DefaultDescription": {
+        "en": "Celebrate The Feastivus!",
+        "zh": "庆祝圣诞的到来！"
+      },
+      "Levels": {
+        "lod_feastivus_17": {},
+        "lod_feastivus_20": {}
+      }
+    },
+    "Feastivus": {
+      "PinataType": "feastivus",
+      "DefaultIconLeft": "pinata",
+      "DefaultIconRight": "",
+      "DefaultBG": "feastivus_1",
+      "DefaultBG_Mini": "feastivus_1_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "12.25"
+      ],
+      "DefaultTitle": {
+        "en": "Merry Feastivus!",
+        "zh": "圣诞快乐！"
+      },
+      "DefaultTitleFolded": {
+        "en": "Feastivus",
+        "zh": "圣诞节"
+      },
+      "DefaultDescription": {
+        "en": "Celebrate The Feastivus!",
+        "zh": "庆祝圣诞的到来！"
+      },
+      "Levels": {
+        "lod_feastivus_18": {},
+        "lod_feastivus_21": {}
+      }
+    },
+    "Feastivus_After": {
+      "PinataType": "feastivus",
+      "DefaultIconLeft": "pinata",
+      "DefaultIconRight": "",
+      "DefaultBG": "feastivus_2",
+      "DefaultBG_Mini": "feastivus_2_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "12.26",
+        "12.27",
+        "12.28",
+        "12.29",
+        "12.30",
+        "1.1",
+        "1.2"
+      ],
+      "DefaultTitle": {
+        "en": "Merry Feastivus!",
+        "zh": "圣诞快乐！"
+      },
+      "DefaultTitleFolded": {
+        "en": "Feastivus",
+        "zh": "圣诞节"
+      },
+      "DefaultDescription": {
+        "en": "Celebrate The Feastivus!",
+        "zh": "庆祝圣诞的到来！"
+      },
+      "Levels": {
+        "lod_feastivus_5": {},
+        "lod_feastivus_6": {},
+        "lod_feastivus_7": {},
+        "lod_feastivus_8": {},
+        "lod_feastivus_10": {},
+        "lod_feastivus_11": {},
+        "lod_feastivus_12": {},
+        "lod_feastivus_13": {},
+        "lod_feastivus_16": {}
+      }
+    },
+    "Foodfight": {
+      "PinataType": "default",
+      "DefaultIconLeft": "pinata",
+      "DefaultIconRight": "",
+      "DefaultBG": "falls",
+      "DefaultBG_Mini": "falls_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "11.27",
+        "11.28",
+        "11.29",
+        "11.30",
+        "11.31",
+        "12.1",
+        "12.2"
+      ],
+      "DefaultTitle": {
+        "en": "FOOD FIGHT!",
+        "zh": "食物大战！"
+      },
+      "DefaultTitleFolded": {
+        "en": "Food Fight",
+        "zh": "食物大战"
+      },
+      "DefaultDescription": {
+        "en": "Did someone say Food Fight?!",
+        "zh": "刚刚有人在喊“食物大战”吗？"
+      },
+      "Levels": {
+        "lod_foodfight_0": {},
+        "lod_foodfight_1": {},
+        "lod_foodfight_2": {},
+        "lod_foodfight_3": {},
+        "lod_foodfight_4": {},
+        "lod_foodfight_5": {},
+        "lod_foodfight_6": {},
+        "lod_foodfight_7": {},
+        "lod_foodfight_8": {},
+        "lod_foodfight_9": {}
+      }
+    },
+    "Halloween": {
+      "PinataType": "halloween",
+      "DefaultIconLeft": "pinata",
+      "DefaultIconRight": "halloween_pinata",
+      "DefaultBG": "halloween",
+      "DefaultBG_Mini": "default_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "10.22",
+        "10.23",
+        "10.24",
+        "10.25",
+        "10.26"
+      ],
+      "DefaultTitle": {
+        "en": "Lawn of Doom!",
+        "zh": "万圣节快乐！"
+      },
+      "DefaultTitleFolded": {
+        "en": "Lawn of Doom",
+        "zh": "万圣夜"
+      },
+      "DefaultDescription": {
+        "en": "It's a costume spooktacular!",
+        "zh": "这是一场盛大的万圣节变装秀！"
+      },
+      "Levels": {
+        "lod_halloween_0": {},
+        "lod_halloween_1": {},
+        "lod_halloween_2": {},
+        "lod_halloween_3": {},
+        "lod_halloween_4": {},
+        "lod_halloween_5": {},
+        "lod_halloween_6": {}
+      }
+    },
+    "Harvest": {
+      "PinataType": "default",
+      "DefaultIconLeft": "harvest",
+      "DefaultIconRight": "",
+      "DefaultBG": "farm",
+      "DefaultBG_Mini": "default_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "9.15",
+        "9.16",
+        "9.17",
+        "9.18",
+        "9.19",
+        "9.20",
+        "9.21"
+      ],
+      "DefaultTitle": {
+        "en": "Harvest Festival!",
+        "zh": "丰收节！"
+      },
+      "DefaultTitleFolded": {
+        "en": "Harvest Festival",
+        "zh": "丰收节"
+      },
+      "DefaultDescription": {
+        "en": "Time to harvest your crops and protect your lawn from the onslaught of zombies.",
+        "zh": "是时候收割你的作物，并保护你的草坪免受僵尸的猛攻了。"
+      },
+      "Levels": {
+        "lod_harvest_0": {},
+        "lod_harvest_1": {},
+        "lod_harvest_2": {},
+        "lod_harvest_3": {},
+        "lod_harvest_4": {},
+        "lod_harvest_5": {},
+        "lod_harvest_6": {},
+        "lod_harvest_7": {},
+        "lod_harvest_8": {},
+        "lod_harvest_9": {},
+        "lod_harvest_10": {},
+        "lod_harvest_11": {},
+        "lod_harvest_12": {},
+        "lod_harvest_13": {},
+        "lod_harvest_14": {},
+        "lod_harvest_15": {},
+        "lod_harvest_16": {},
+        "lod_harvest_17": {},
+        "lod_harvest_18": {},
+        "lod_harvest_19": {}
+      }
+    },
+    "Lunar": {
+      "PinataType": "default",
+      "DefaultIconLeft": "",
+      "DefaultIconRight": "",
+      "DefaultBG": "halloween",
+      "DefaultBG_Mini": "default_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "12.26.lunar",
+        "12.27.lunar",
+        "12.28.lunar",
+        "1.1.lunar",
+        "1.2.lunar",
+        "1.3.lunar",
+        "1.4.lunar",
+        "1.5.lunar"
+      ],
+      "DefaultTitle": {
+        "en": "Happy Spring Festival!",
+        "zh": "春节快乐！"
+      },
+      "DefaultTitleFolded": {
+        "en": "Spring Festival",
+        "zh": "春节"
+      },
+      "DefaultDescription": {
+        "en": "CRACKLES! Soak in the festive Spring Festival atmosphere.",
+        "zh": "噼里啪啦，感受喜庆的春节氛围。"
+      },
+      "Levels": {
+        "lod_lunar_0": {},
+        "lod_lunar_1": {},
+        "lod_lunar_2": {},
+        "lod_lunar_3": {},
+        "lod_lunar_4": {},
+        "lod_lunar_5": {},
+        "lod_lunar_6": {},
+        "lod_lunar_7": {},
+        "lod_lunar_8": {},
+        "lod_lunar_9": {},
+        "lod_lunar_10": {},
+        "lod_lunar_11": {},
+        "lod_lunar_12": {},
+        "lod_lunar_13": {},
+        "lod_lunar_14": {},
+        "lod_lunar_15": {}
+      }
+    },
+    "Lunar_Eve": {
+      "PinataType": "default",
+      "DefaultIconLeft": "pinata",
+      "DefaultIconRight": "",
+      "DefaultBG": "halloween",
+      "DefaultBG_Mini": "default_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "12.29.lunar"
+      ],
+      "DefaultTitle": {
+        "en": "Lunar New Year's Eve!",
+        "zh": "除夕快乐！"
+      },
+      "DefaultTitleFolded": {
+        "en": "Lunar New Year's Eve",
+        "zh": "除夕"
+      },
+      "DefaultDescription": {
+        "en": "CRACKLES! Soak in the festive Spring Festival atmosphere.",
+        "zh": "噼里啪啦，感受喜庆的春节氛围。"
+      },
+      "Levels": {
+        "lod_lunar_14": {}
+      }
+    },
+    "Sportzball": {
+      "PinataType": "default",
+      "DefaultIconLeft": "pinata",
+      "DefaultIconRight": "",
+      "DefaultBG": "grass",
+      "DefaultBG_Mini": "default_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "8.4",
+        "8.5",
+        "8.6",
+        "8.7",
+        "8.8",
+        "8.9",
+        "8.10"
+      ],
+      "DefaultTitle": {
+        "en": "Lawnbowl!",
+        "zh": "在前院滚球！"
+      },
+      "DefaultTitleFolded": {
+        "en": "Lawnbowl",
+        "zh": "滚球"
+      },
+      "DefaultDescription": {
+        "en": "What a mess it is on your lawn! Clean it up ASAP!",
+        "zh": "快清理一下乱七八糟的草坪！"
+      },
+      "Levels": {
+        "lod_sportzball_0": {},
+        "lod_sportzball_1": {},
+        "lod_sportzball_2": {},
+        "lod_sportzball_3": {},
+        "lod_sportzball_4": {},
+        "lod_sportzball_5": {},
+        "lod_sportzball_6": {},
+        "lod_sportzball_7": {},
+        "lod_sportzball_8": {},
+        "lod_sportzball_9": {},
+        "lod_sportzball_10": {},
+        "lod_sportzball_11": {},
+        "lod_sportzball_12": {},
+        "lod_sportzball_13": {},
+        "lod_sportzball_14": {},
+        "lod_sportzball_15": {},
+        "lod_sportzball_16": {},
+        "lod_sportzball_17": {},
+        "lod_sportzball_18": {},
+        "lod_sportzball_19": {}
+      }
+    },
+    "Stpatrick": {
+      "PinataType": "default",
+      "DefaultIconLeft": "stpatrick_coins",
+      "DefaultIconRight": "",
+      "DefaultBG": "paddy",
+      "DefaultBG_Mini": "default_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "3.15",
+        "3.16",
+        "3.17",
+        "3.18",
+        "3.19"
+      ],
+      "DefaultTitle": {
+        "en": "Luck O' the Zombie",
+        "zh": "僵尸的幸运日"
+      },
+      "DefaultTitleFolded": {
+        "en": "Luck O' the Zombie",
+        "zh": "僵尸幸运日"
+      },
+      "DefaultDescription": {
+        "en": "Why do zombies get all the luck?!",
+        "zh": "为什么要让僵尸夺走所有的好运？！"
+      },
+      "Levels": {
+        "lod_stpatrick_0": {},
+        "lod_stpatrick_1": {},
+        "lod_stpatrick_2": {},
+        "lod_stpatrick_3": {},
+        "lod_stpatrick_4": {},
+        "lod_stpatrick_5": {},
+        "lod_stpatrick_6": {},
+        "lod_stpatrick_7": {}
+      }
+    },
+    "Summer": {
+      "PinataType": "summer",
+      "DefaultIconLeft": "pinata",
+      "DefaultIconRight": "summer_armor2",
+      "DefaultBG": "summer",
+      "DefaultBG_Mini": "default_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "7.26",
+        "7.27",
+        "7.28",
+        "7.29",
+        "7.30"
+      ],
+      "DefaultTitle": {
+        "en": "Summer Nights",
+        "zh": "仲夏夜"
+      },
+      "DefaultTitleFolded": {
+        "en": "Summer Nights",
+        "zh": "仲夏夜"
+      },
+      "DefaultDescription": {
+        "en": "Let off some fireworks!",
+        "zh": "去放一些烟花！"
+      },
+      "Levels": {
+        "lod_summer_0": {},
+        "lod_summer_1": {},
+        "lod_summer_2": {},
+        "lod_summer_3": {},
+        "lod_summer_4": {},
+        "lod_summer_5": {},
+        "lod_summer_6": {}
+      }
+    },
+    "Valentines": {
+      "PinataType": "default",
+      "DefaultIconLeft": "box_1",
+      "DefaultIconRight": "valentines_flag",
+      "DefaultBG": "valentines",
+      "DefaultBG_Mini": "valentines_mini",
+      "ExtraPinataPrize": [],
+      "Dates": [
+        "2.14",
+        "2.15",
+        "2.16",
+        "2.17",
+        "2.18"
+      ],
+      "DefaultTitle": {
+        "en": "Valenbrainz",
+        "zh": "情尸节"
+      },
+      "DefaultTitleFolded": {
+        "en": "Valenbrainz",
+        "zh": "情尸节"
+      },
+      "DefaultDescription": {
+        "en": "Let off some fireworks!",
+        "zh": "去放一些烟花！"
+      },
+      "Levels": {
+        "lod_valentines_0": {},
+        "lod_valentines_1": {},
+        "lod_valentines_2": {},
+        "lod_valentines_3": {},
+        "lod_valentines_4": {},
+        "lod_valentines_5": {},
+        "lod_valentines_6": {},
+        "lod_valentines_7": {
+          "Title": {
+            "en": "Think Carefully!",
+            "zh": "仔细思考！"
+          },
+          "Description": {
+            "en": "Use Apple Mortar to line them up as much as possible.",
+            "zh": "尽可能利用苹果迫击炮使他们对齐。"
+          }
+        },
+        "lod_valentines_8": {},
+        "lod_valentines_9": {}
+      }
+    }
+  }
+}

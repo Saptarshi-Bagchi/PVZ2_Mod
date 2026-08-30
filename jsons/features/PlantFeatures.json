@@ -10,7 +10,8 @@
       "ALMANAC": "RTID(peashooter@PlantAlmanac)",
       "PROPS": "RTID(peashooter@PlantProps)",
       "NAME": {
-        "en": "Peashooter"
+        "en": "Peashooter",
+        "zh": "豌豆射手"
       },
       "TAGS": [
         "plant"
@@ -33,7 +34,8 @@
       "ALMANAC": "RTID(sunflower@PlantAlmanac)",
       "PROPS": "RTID(sunflower@PlantProps)",
       "NAME": {
-        "en": "Sunflower"
+        "en": "Sunflower",
+        "zh": "向日葵"
       },
       "TAGS": [
         "plant",
@@ -57,7 +59,8 @@
       "ALMANAC": "RTID(wallnut@PlantAlmanac)",
       "PROPS": "RTID(wallnut@PlantProps)",
       "NAME": {
-        "en": "Wall-nut"
+        "en": "Wall-nut",
+        "zh": "坚果墙"
       },
       "TAGS": [
         "plant"
@@ -80,7 +83,8 @@
       "ALMANAC": "RTID(potatomine@PlantAlmanac)",
       "PROPS": "RTID(potatomine@PlantProps)",
       "NAME": {
-        "en": "Potato Mine"
+        "en": "Potato Mine",
+        "zh": "土豆地雷"
       },
       "TAGS": [
         "potatomine",
@@ -104,7 +108,8 @@
       "ALMANAC": "RTID(cabbagepult@PlantAlmanac)",
       "PROPS": "RTID(cabbagepult@PlantProps)",
       "NAME": {
-        "en": "Cabbage-pult"
+        "en": "Cabbage-pult",
+        "zh": "卷心菜投手"
       },
       "TAGS": [
         "plant"
@@ -127,7 +132,8 @@
       "ALMANAC": "RTID(bloomerang@PlantAlmanac)",
       "PROPS": "RTID(bloomerang@PlantProps)",
       "NAME": {
-        "en": "Bloomerang"
+        "en": "Bloomerang",
+        "zh": "回旋镖射手"
       },
       "TAGS": [
         "plant"
@@ -150,7 +156,8 @@
       "ALMANAC": "RTID(iceburg@PlantAlmanac)",
       "PROPS": "RTID(iceburg@PlantProps)",
       "NAME": {
-        "en": "Iceberg Lettuce"
+        "en": "Iceberg Lettuce",
+        "zh": "冰冻生菜"
       },
       "TAGS": [
         "plant",
@@ -175,7 +182,8 @@
       "ALMANAC": "RTID(bonkchoy@PlantAlmanac)",
       "PROPS": "RTID(bonkchoy@PlantProps)",
       "NAME": {
-        "en": "Bonk Choy"
+        "en": "Bonk Choy",
+        "zh": "菜问"
       },
       "TAGS": [
         "plant"
@@ -198,7 +206,8 @@
       "ALMANAC": "RTID(repeater@PlantAlmanac)",
       "PROPS": "RTID(repeater@PlantProps)",
       "NAME": {
-        "en": "Repeater"
+        "en": "Repeater",
+        "zh": "双重射手"
       },
       "TAGS": [
         "plant"
@@ -221,7 +230,8 @@
       "ALMANAC": "RTID(megagatling@PlantAlmanac)",
       "PROPS": "RTID(megagatling@PlantProps)",
       "NAME": {
-        "en": "Mega Gatling Pea"
+        "en": "Mega Gatling Pea",
+        "zh": "超级机枪射手"
       },
       "TAGS": [
         "plant"
@@ -244,7 +254,8 @@
       "ALMANAC": "RTID(scaredyshroom@PlantAlmanac)",
       "PROPS": "RTID(scaredyshroom@PlantProps)",
       "NAME": {
-        "en": "Scaredy Shroom"
+        "en": "Scaredy Shroom",
+        "zh": "胆小菇"
       },
       "TAGS": [
         "plant"
@@ -267,7 +278,8 @@
       "ALMANAC": "RTID(fumeshroom@PlantAlmanac)",
       "PROPS": "RTID(fumeshroom@PlantProps)",
       "NAME": {
-        "en": "Fume-shroom"
+        "en": "Fume-shroom",
+        "zh": "大喷菇"
       },
       "TAGS": [
         "plant"
@@ -290,7 +302,8 @@
       "ALMANAC": "RTID(gravebuster@PlantAlmanac)",
       "PROPS": "RTID(gravebuster@PlantProps)",
       "NAME": {
-        "en": "Grave Buster"
+        "en": "Grave Buster",
+        "zh": "噬碑藤"
       },
       "TAGS": [
         "gravebuster",
@@ -315,7 +328,8 @@
       "ALMANAC": "RTID(pumpkin@PlantAlmanac)",
       "PROPS": "RTID(pumpkin@PlantProps)",
       "NAME": {
-        "en": "Pumpkin"
+        "en": "Pumpkin",
+        "zh": "南瓜头"
       },
       "TAGS": [
         "vine"
@@ -338,7 +352,8 @@
       "ALMANAC": "RTID(pvine@PlantAlmanac)",
       "PROPS": "RTID(pvine@PlantProps)",
       "NAME": {
-        "en": "Pea Vine"
+        "en": "Pea Vine",
+        "zh": "豌豆藤蔓"
       },
       "TAGS": [
         "vine"
@@ -361,7 +376,8 @@
       "ALMANAC": "RTID(floawerPot@PlantAlmanac)",
       "PROPS": "RTID(floawerPot@PlantProps)",
       "NAME": {
-        "en": "Floawer Pot"
+        "en": "Floawer Pot",
+        "zh": "飞天花盆"
       },
       "TAGS": [
         "floawerPot"
@@ -385,7 +401,8 @@
       "ALMANAC": "RTID(firepeashooter@PlantAlmanac)",
       "PROPS": "RTID(firepeashooter@PlantProps)",
       "NAME": {
-        "en": "Fire Peashooter"
+        "en": "Fire Peashooter",
+        "zh": "火焰豌豆"
       },
       "TAGS": [
         "plant"
@@ -408,7 +425,8 @@
       "ALMANAC": "RTID(threepeater@PlantAlmanac)",
       "PROPS": "RTID(threepeater@PlantProps)",
       "NAME": {
-        "en": "Threepeater"
+        "en": "Threepeater",
+        "zh": "三线射手"
       },
       "TAGS": [
         "plant"
@@ -431,7 +449,8 @@
       "ALMANAC": "RTID(primalpeashooter@PlantAlmanac)",
       "PROPS": "RTID(primalpeashooter@PlantProps)",
       "NAME": {
-        "en": "Primal Peashooter"
+        "en": "Primal Peashooter",
+        "zh": "原始豌豆射手"
       },
       "TAGS": [
         "plant"
@@ -454,7 +473,8 @@
       "ALMANAC": "RTID(xshot@PlantAlmanac)",
       "PROPS": "RTID(xshot@PlantProps)",
       "NAME": {
-        "en": "Rotobaga"
+        "en": "Rotobaga",
+        "zh": "旋转芜菁"
       },
       "TAGS": [
         "fly"
@@ -477,7 +497,8 @@
       "ALMANAC": "RTID(homingthistle@PlantAlmanac)",
       "PROPS": "RTID(homingthistle@PlantProps)",
       "NAME": {
-        "en": "Homing Thistle"
+        "en": "Homing Thistle",
+        "zh": "导向蓟"
       },
       "TAGS": [
         "plant"
@@ -500,7 +521,8 @@
       "ALMANAC": "RTID(starfruit@PlantAlmanac)",
       "PROPS": "RTID(starfruit@PlantProps)",
       "NAME": {
-        "en": "Starfruit"
+        "en": "Starfruit",
+        "zh": "星星果"
       },
       "TAGS": [
         "plant"
@@ -523,7 +545,8 @@
       "ALMANAC": "RTID(shootingstarfruit@PlantAlmanac)",
       "PROPS": "RTID(shootingstarfruit@PlantProps)",
       "NAME": {
-        "en": "Shooting Starfruit"
+        "en": "Shooting Starfruit",
+        "zh": "流星果"
       },
       "TAGS": [
         "fly"
@@ -546,7 +569,8 @@
       "ALMANAC": "RTID(lilypad@PlantAlmanac)",
       "PROPS": "RTID(lilypad@PlantProps)",
       "NAME": {
-        "en": "Lily Pad"
+        "en": "Lily Pad",
+        "zh": "莲叶"
       },
       "TAGS": [
         "lilypad"
@@ -570,7 +594,8 @@
       "ALMANAC": "RTID(sunshroom@PlantAlmanac)",
       "PROPS": "RTID(sunshroom@PlantProps)",
       "NAME": {
-        "en": "Sun-shroom"
+        "en": "Sun-shroom",
+        "zh": "阳光菇"
       },
       "TAGS": [
         "plant",
@@ -594,7 +619,8 @@
       "ALMANAC": "RTID(twinsunflower@PlantAlmanac)",
       "PROPS": "RTID(twinsunflower@PlantProps)",
       "NAME": {
-        "en": "Twin Sunflower"
+        "en": "Twin Sunflower",
+        "zh": "双胞向日葵"
       },
       "TAGS": [
         "plant",
@@ -618,7 +644,8 @@
       "ALMANAC": "RTID(dragonbruit@PlantAlmanac)",
       "PROPS": "RTID(dragonbruit@PlantProps)",
       "NAME": {
-        "en": "Dragon Bruit"
+        "en": "Dragon Bruit",
+        "zh": "暴君火龙果"
       },
       "TAGS": [
         "plant"
@@ -644,7 +671,8 @@
       "ALMANAC": "RTID(moonflower@PlantAlmanac)",
       "PROPS": "RTID(moonflower@PlantProps)",
       "NAME": {
-        "en": "Moonflower"
+        "en": "Moonflower",
+        "zh": "月光花"
       },
       "TAGS": [
         "plant"
@@ -667,7 +695,8 @@
       "ALMANAC": "RTID(snowpea@PlantAlmanac)",
       "PROPS": "RTID(snowpea@PlantProps)",
       "NAME": {
-        "en": "Snow Pea"
+        "en": "Snow Pea",
+        "zh": "寒冰射手"
       },
       "TAGS": [
         "plant"
@@ -690,7 +719,8 @@
       "ALMANAC": "RTID(lightningreed@PlantAlmanac)",
       "PROPS": "RTID(lightningreed@PlantProps)",
       "NAME": {
-        "en": "Lightning Reed"
+        "en": "Lightning Reed",
+        "zh": "闪电芦苇"
       },
       "TAGS": [
         "plant"
@@ -713,7 +743,8 @@
       "ALMANAC": "RTID(kernelpult@PlantAlmanac)",
       "PROPS": "RTID(kernelpult@PlantProps)",
       "NAME": {
-        "en": "Kernel-pult"
+        "en": "Kernel-pult",
+        "zh": "玉米投手"
       },
       "TAGS": [
         "plant"
@@ -736,7 +767,8 @@
       "ALMANAC": "RTID(meteorflower@PlantAlmanac)",
       "PROPS": "RTID(meteorflower@PlantProps)",
       "NAME": {
-        "en": "Meteor Flower"
+        "en": "Meteor Flower",
+        "zh": "流星花"
       },
       "TAGS": [
         "plant"
@@ -759,7 +791,8 @@
       "ALMANAC": "RTID(springbean@PlantAlmanac)",
       "PROPS": "RTID(springbean@PlantProps)",
       "NAME": {
-        "en": "Spring Bean"
+        "en": "Spring Bean",
+        "zh": "弹簧豆"
       },
       "TAGS": [
         "plant"
@@ -782,7 +815,8 @@
       "ALMANAC": "RTID(umbrellaleaf@PlantAlmanac)",
       "PROPS": "RTID(umbrellaleaf@PlantProps)",
       "NAME": {
-        "en": "Umbrella Leaf"
+        "en": "Umbrella Leaf",
+        "zh": "伞叶"
       },
       "TAGS": [
         "plant"
@@ -805,7 +839,8 @@
       "ALMANAC": "RTID(melonpult@PlantAlmanac)",
       "PROPS": "RTID(melonpult@PlantProps)",
       "NAME": {
-        "en": "Melon-pult"
+        "en": "Melon-pult",
+        "zh": "西瓜投手"
       },
       "TAGS": [
         "plant"
@@ -828,7 +863,8 @@
       "ALMANAC": "RTID(wintermelon@PlantAlmanac)",
       "PROPS": "RTID(wintermelon@PlantProps)",
       "NAME": {
-        "en": "Winter Melon"
+        "en": "Winter Melon",
+        "zh": "冰西瓜"
       },
       "TAGS": [
         "plant"
@@ -851,7 +887,8 @@
       "ALMANAC": "RTID(blover@PlantAlmanac)",
       "PROPS": "RTID(blover@PlantProps)",
       "NAME": {
-        "en": "Blover"
+        "en": "Blover",
+        "zh": "三叶草"
       },
       "TAGS": [
         "plant",
@@ -876,7 +913,8 @@
       "ALMANAC": "RTID(spikeweed@PlantAlmanac)",
       "PROPS": "RTID(spikeweed@PlantProps)",
       "NAME": {
-        "en": "Spikeweed"
+        "en": "Spikeweed",
+        "zh": "地刺"
       },
       "TAGS": [
         "spikeweed"
@@ -899,7 +937,8 @@
       "ALMANAC": "RTID(spikerock@PlantAlmanac)",
       "PROPS": "RTID(spikerock@PlantProps)",
       "NAME": {
-        "en": "Spikerock"
+        "en": "Spikerock",
+        "zh": "钢地刺"
       },
       "TAGS": [
         "spikeweed",
@@ -923,7 +962,8 @@
       "ALMANAC": "RTID(chomper@PlantAlmanac)",
       "PROPS": "RTID(chomper@PlantProps)",
       "NAME": {
-        "en": "Chomper"
+        "en": "Chomper",
+        "zh": "大嘴花"
       },
       "TAGS": [
         "plant"
@@ -946,7 +986,8 @@
       "ALMANAC": "RTID(glaciershroom@PlantAlmanac)",
       "PROPS": "RTID(glaciershroom@PlantProps)",
       "NAME": {
-        "en": "Ice-shroom"
+        "en": "Ice-shroom",
+        "zh": "寒冰菇"
       },
       "TAGS": [
         "plant"
@@ -969,7 +1010,8 @@
       "ALMANAC": "RTID(primalwallnut@PlantAlmanac)",
       "PROPS": "RTID(primalwallnut@PlantProps)",
       "NAME": {
-        "en": "Primal Wall-nut"
+        "en": "Primal Wall-nut",
+        "zh": "原始坚果墙"
       },
       "TAGS": [
         "plant"
@@ -992,7 +1034,8 @@
       "ALMANAC": "RTID(buttercup@PlantAlmanac)",
       "PROPS": "RTID(buttercup@PlantProps)",
       "NAME": {
-        "en": "Buttercup"
+        "en": "Buttercup",
+        "zh": "黄油毛茛"
       },
       "TAGS": [
         "plant"
@@ -1015,7 +1058,8 @@
       "ALMANAC": "RTID(banana@PlantAlmanac)",
       "PROPS": "RTID(banana@PlantProps)",
       "NAME": {
-        "en": "Banana Launcher"
+        "en": "Banana Launcher",
+        "zh": "香蕉火箭炮"
       },
       "TAGS": [
         "plant"
@@ -1038,7 +1082,8 @@
       "ALMANAC": "RTID(missiletoe@PlantAlmanac)",
       "PROPS": "RTID(missiletoe@PlantProps)",
       "NAME": {
-        "en": "Missile Toe"
+        "en": "Missile Toe",
+        "zh": "槲寄冰仙子"
       },
       "TAGS": [
         "plant"
@@ -1061,7 +1106,8 @@
       "ALMANAC": "RTID(cherry_bomb@PlantAlmanac)",
       "PROPS": "RTID(cherry_bomb@PlantProps)",
       "NAME": {
-        "en": "Cherry Bomb"
+        "en": "Cherry Bomb",
+        "zh": "樱桃炸弹"
       },
       "TAGS": [
         "plant",
@@ -1086,7 +1132,8 @@
       "ALMANAC": "RTID(doomshroom@PlantAlmanac)",
       "PROPS": "RTID(doomshroom@PlantProps)",
       "NAME": {
-        "en": "Doom-shroom"
+        "en": "Doom-shroom",
+        "zh": "毁灭菇"
       },
       "TAGS": [
         "plant",
@@ -1111,7 +1158,8 @@
       "ALMANAC": "RTID(cranjelly@PlantAlmanac)",
       "PROPS": "RTID(cranjelly@PlantProps)",
       "NAME": {
-        "en": "Cran Jelly"
+        "en": "Cran Jelly",
+        "zh": "果冻蔓越莓"
       },
       "TAGS": [
         "plant",
@@ -1137,7 +1185,8 @@
       "ALMANAC": "RTID(dragonbabybruit@PlantAlmanac)",
       "PROPS": "RTID(dragonbabybruit@PlantProps)",
       "NAME": {
-        "en": "Baby Dragon Bruit"
+        "en": "Baby Dragon Bruit",
+        "zh": "小暴君火龙果"
       },
       "TAGS": [
         "plant"
@@ -1160,7 +1209,8 @@
       "ALMANAC": "RTID(torchwood@PlantAlmanac)",
       "PROPS": "RTID(torchwood@PlantProps)",
       "NAME": {
-        "en": "Torchwood"
+        "en": "Torchwood",
+        "zh": "火炬树桩"
       },
       "TAGS": [
         "plant"
@@ -1183,7 +1233,8 @@
       "ALMANAC": "RTID(jalapeno@PlantAlmanac)",
       "PROPS": "RTID(jalapeno@PlantProps)",
       "NAME": {
-        "en": "Jalapeno"
+        "en": "Jalapeno",
+        "zh": "火爆辣椒"
       },
       "TAGS": [
         "plant",
@@ -1208,7 +1259,8 @@
       "ALMANAC": "RTID(puffshroom@PlantAlmanac)",
       "PROPS": "RTID(puffshroom@PlantProps)",
       "NAME": {
-        "en": "Puff-shroom"
+        "en": "Puff-shroom",
+        "zh": "小喷菇"
       },
       "TAGS": [
         "plant",
@@ -1232,7 +1284,8 @@
       "ALMANAC": "RTID(gloomvine@PlantAlmanac)",
       "PROPS": "RTID(gloomvine@PlantProps)",
       "NAME": {
-        "en": "Gloom Vine"
+        "en": "Gloom Vine",
+        "zh": "忧郁藤蔓"
       },
       "TAGS": [
         "vine"
@@ -1255,7 +1308,8 @@
       "ALMANAC": "RTID(vamporcini@PlantAlmanac)",
       "PROPS": "RTID(vamporcini@PlantProps)",
       "NAME": {
-        "en": "Vamporcini"
+        "en": "Vamporcini",
+        "zh": "吸血牛肝菌"
       },
       "TAGS": [
         "plant"
@@ -1278,7 +1332,8 @@
       "ALMANAC": "RTID(primalpotatomine@PlantAlmanac)",
       "PROPS": "RTID(primalpotatomine@PlantProps)",
       "NAME": {
-        "en": "Primal Potato Mine"
+        "en": "Primal Potato Mine",
+        "zh": "原始土豆地雷"
       },
       "TAGS": [
         "potatomine",
@@ -1302,7 +1357,8 @@
       "ALMANAC": "RTID(cactus@PlantAlmanac)",
       "PROPS": "RTID(cactus@PlantProps)",
       "NAME": {
-        "en": "Cactus"
+        "en": "Cactus",
+        "zh": "仙人掌"
       },
       "TAGS": [
         "potatomine"
@@ -1325,7 +1381,8 @@
       "ALMANAC": "RTID(powerlily@PlantAlmanac)",
       "PROPS": "RTID(powerlily@PlantProps)",
       "NAME": {
-        "en": "Power Lily"
+        "en": "Power Lily",
+        "zh": "能量花"
       },
       "TAGS": [
         "plant",
@@ -1351,7 +1408,8 @@
       "ALMANAC": "RTID(coconutcannon@PlantAlmanac)",
       "PROPS": "RTID(coconutcannon@PlantProps)",
       "NAME": {
-        "en": "Coconut Cannon"
+        "en": "Coconut Cannon",
+        "zh": "椰子加农炮"
       },
       "TAGS": [
         "plant"
@@ -1374,7 +1432,8 @@
       "ALMANAC": "RTID(peapod@PlantAlmanac)",
       "PROPS": "RTID(peapod@PlantProps)",
       "NAME": {
-        "en": "Pea Pod"
+        "en": "Pea Pod",
+        "zh": "豌豆荚"
       },
       "TAGS": [
         "plant"
@@ -1397,7 +1456,8 @@
       "ALMANAC": "RTID(snapdragon@PlantAlmanac)",
       "PROPS": "RTID(snapdragon@PlantProps)",
       "NAME": {
-        "en": "Snapdragon"
+        "en": "Snapdragon",
+        "zh": "火龙草"
       },
       "TAGS": [
         "plant"
@@ -1420,7 +1480,8 @@
       "ALMANAC": "RTID(gatling@PlantAlmanac)",
       "PROPS": "RTID(gatling@PlantProps)",
       "NAME": {
-        "en": "Gatling Pea"
+        "en": "Gatling Pea",
+        "zh": "机枪射手"
       },
       "TAGS": [
         "plant"
@@ -1443,7 +1504,8 @@
       "ALMANAC": "RTID(splitpea@PlantAlmanac)",
       "PROPS": "RTID(splitpea@PlantProps)",
       "NAME": {
-        "en": "Split Pea"
+        "en": "Split Pea",
+        "zh": "裂荚射手"
       },
       "TAGS": [
         "plant"
@@ -1466,7 +1528,8 @@
       "ALMANAC": "RTID(chilibean@PlantAlmanac)",
       "PROPS": "RTID(chilibean@PlantProps)",
       "NAME": {
-        "en": "Chili Bean"
+        "en": "Chili Bean",
+        "zh": "巴豆"
       },
       "TAGS": [
         "plant",
@@ -1490,7 +1553,8 @@
       "ALMANAC": "RTID(tallnut@PlantAlmanac)",
       "PROPS": "RTID(tallnut@PlantProps)",
       "NAME": {
-        "en": "Tall-nut"
+        "en": "Tall-nut",
+        "zh": "高坚果"
       },
       "TAGS": [
         "amphibious"
@@ -1513,7 +1577,8 @@
       "ALMANAC": "RTID(hurrikale@PlantAlmanac)",
       "PROPS": "RTID(hurrikale@PlantProps)",
       "NAME": {
-        "en": "Hurrikale"
+        "en": "Hurrikale",
+        "zh": "飓风甘蓝"
       },
       "TAGS": [
         "plant",
@@ -1538,7 +1603,8 @@
       "ALMANAC": "RTID(stallia@PlantAlmanac)",
       "PROPS": "RTID(stallia@PlantProps)",
       "NAME": {
-        "en": "Stallia"
+        "en": "Stallia",
+        "zh": "大丽菊"
       },
       "TAGS": [
         "plant",
@@ -1562,7 +1628,8 @@
       "ALMANAC": "RTID(electricpeashooter@PlantAlmanac)",
       "PROPS": "RTID(electricpeashooter@PlantProps)",
       "NAME": {
-        "en": "Electric Peashooter"
+        "en": "Electric Peashooter",
+        "zh": "电能豌豆"
       },
       "TAGS": [
         "plant"
@@ -1585,7 +1652,8 @@
       "ALMANAC": "RTID(squash@PlantAlmanac)",
       "PROPS": "RTID(squash@PlantProps)",
       "NAME": {
-        "en": "Squash"
+        "en": "Squash",
+        "zh": "倭瓜"
       },
       "TAGS": [
         "plant",
@@ -1609,7 +1677,8 @@
       "ALMANAC": "RTID(gloomshroom@PlantAlmanac)",
       "PROPS": "RTID(gloomshroom@PlantProps)",
       "NAME": {
-        "en": "Gloom-shroom"
+        "en": "Gloom-shroom",
+        "zh": "忧郁菇"
       },
       "TAGS": [
         "plant"
@@ -1632,7 +1701,8 @@
       "ALMANAC": "RTID(magnifyinggrass@PlantAlmanac)",
       "PROPS": "RTID(magnifyinggrass@PlantProps)",
       "NAME": {
-        "en": "Magnifying Grass"
+        "en": "Magnifying Grass",
+        "zh": "棱镜草"
       },
       "TAGS": [
         "plant"
@@ -1655,7 +1725,8 @@
       "ALMANAC": "RTID(celerystalker@PlantAlmanac)",
       "PROPS": "RTID(celerystalker@PlantProps)",
       "NAME": {
-        "en": "Celery Stalker"
+        "en": "Celery Stalker",
+        "zh": "潜伏芹菜"
       },
       "TAGS": [
         "potatomine"
@@ -1678,7 +1749,8 @@
       "ALMANAC": "RTID(sapfling@PlantAlmanac)",
       "PROPS": "RTID(sapfling@PlantProps)",
       "NAME": {
-        "en": "Sap-fling"
+        "en": "Sap-fling",
+        "zh": "树脂投手"
       },
       "TAGS": [
         "plant"
@@ -1701,7 +1773,8 @@
       "ALMANAC": "RTID(parsnip@PlantAlmanac)",
       "PROPS": "RTID(parsnip@PlantProps)",
       "NAME": {
-        "en": "Parsnip"
+        "en": "Parsnip",
+        "zh": "防风草"
       },
       "TAGS": [
         "plant"
@@ -1724,7 +1797,8 @@
       "ALMANAC": "RTID(explodeonut@PlantAlmanac)",
       "PROPS": "RTID(explodeonut@PlantProps)",
       "NAME": {
-        "en": "Explode-O-Nut"
+        "en": "Explode-O-Nut",
+        "zh": "爆炸坚果"
       },
       "TAGS": [
         "plant"
@@ -1747,7 +1821,8 @@
       "ALMANAC": "RTID(grapeshot@PlantAlmanac)",
       "PROPS": "RTID(grapeshot@PlantProps)",
       "NAME": {
-        "en": "Grapeshot"
+        "en": "Grapeshot",
+        "zh": "爆裂葡萄"
       },
       "TAGS": [
         "plant",
@@ -1772,7 +1847,8 @@
       "ALMANAC": "RTID(plantern@PlantAlmanac)",
       "PROPS": "RTID(plantern@PlantProps)",
       "NAME": {
-        "en": "Plantern"
+        "en": "Plantern",
+        "zh": "路灯花"
       },
       "TAGS": [
         "plant"
@@ -1795,7 +1871,8 @@
       "ALMANAC": "RTID(peach@PlantAlmanac)",
       "PROPS": "RTID(peach@PlantProps)",
       "NAME": {
-        "en": "Heavenly Peach"
+        "en": "Heavenly Peach",
+        "zh": "仙桃"
       },
       "TAGS": [
         "plant"
@@ -1818,7 +1895,8 @@
       "ALMANAC": "RTID(jackolantern@PlantAlmanac)",
       "PROPS": "RTID(jackolantern@PlantProps)",
       "NAME": {
-        "en": "Jack O' Lantern"
+        "en": "Jack O' Lantern",
+        "zh": "杰克南瓜"
       },
       "TAGS": [
         "plant"
@@ -1841,7 +1919,8 @@
       "ALMANAC": "RTID(dandelion@PlantAlmanac)",
       "PROPS": "RTID(dandelion@PlantProps)",
       "NAME": {
-        "en": "Dandelion"
+        "en": "Dandelion",
+        "zh": "蒲公英"
       },
       "TAGS": [
         "plant"
@@ -1864,7 +1943,8 @@
       "ALMANAC": "RTID(chardguard@PlantAlmanac)",
       "PROPS": "RTID(chardguard@PlantProps)",
       "NAME": {
-        "en": "Chard Guard"
+        "en": "Chard Guard",
+        "zh": "甜菜护卫"
       },
       "TAGS": [
         "plant"
@@ -1887,7 +1967,8 @@
       "ALMANAC": "RTID(hypnoshroom@PlantAlmanac)",
       "PROPS": "RTID(hypnoshroom@PlantProps)",
       "NAME": {
-        "en": "Hypno-shroom"
+        "en": "Hypno-shroom",
+        "zh": "魅惑菇"
       },
       "TAGS": [
         "plant",
@@ -1911,7 +1992,8 @@
       "ALMANAC": "RTID(electriccurrant@PlantAlmanac)",
       "PROPS": "RTID(electriccurrant@PlantProps)",
       "NAME": {
-        "en": "Electric Currant"
+        "en": "Electric Currant",
+        "zh": "电流醋栗"
       },
       "TAGS": [
         "plant"
@@ -1934,7 +2016,8 @@
       "ALMANAC": "RTID(escaperoot@PlantAlmanac)",
       "PROPS": "RTID(escaperoot@PlantProps)",
       "NAME": {
-        "en": "Escape Root"
+        "en": "Escape Root",
+        "zh": "逃脱树根"
       },
       "TAGS": [
         "potatomine",
@@ -1958,7 +2041,8 @@
       "ALMANAC": "RTID(imitater@PlantAlmanac)",
       "PROPS": "RTID(imitater@PlantProps)",
       "NAME": {
-        "en": "Imitater"
+        "en": "Imitater",
+        "zh": "模仿者"
       },
       "TAGS": [
         "imitater",
@@ -1983,7 +2067,8 @@
       "ALMANAC": "RTID(shadowshroom@PlantAlmanac)",
       "PROPS": "RTID(shadowshroom@PlantProps)",
       "NAME": {
-        "en": "Shadow-shroom"
+        "en": "Shadow-shroom",
+        "zh": "毒影菇"
       },
       "TAGS": [
         "plant",
@@ -2007,7 +2092,8 @@
       "ALMANAC": "RTID(magnetshroom@PlantAlmanac)",
       "PROPS": "RTID(magnetshroom@PlantProps)",
       "NAME": {
-        "en": "Magnet-shroom"
+        "en": "Magnet-shroom",
+        "zh": "磁力菇"
       },
       "TAGS": [
         "plant"
@@ -2030,7 +2116,8 @@
       "ALMANAC": "RTID(turnip@PlantAlmanac)",
       "PROPS": "RTID(turnip@PlantProps)",
       "NAME": {
-        "en": "Resistant Radish"
+        "en": "Resistant Radish",
+        "zh": "白萝卜"
       },
       "TAGS": [
         "potatomine"
@@ -2053,7 +2140,8 @@
       "ALMANAC": "RTID(empea@PlantAlmanac)",
       "PROPS": "RTID(empea@PlantProps)",
       "NAME": {
-        "en": "E.M. Peach"
+        "en": "E.M. Peach",
+        "zh": "脉冲黄桃"
       },
       "TAGS": [
         "plant",
@@ -2078,7 +2166,8 @@
       "ALMANAC": "RTID(citron@PlantAlmanac)",
       "PROPS": "RTID(citron@PlantProps)",
       "NAME": {
-        "en": "Citron"
+        "en": "Citron",
+        "zh": "充能柚子"
       },
       "TAGS": [
         "plant"
@@ -2101,7 +2190,8 @@
       "ALMANAC": "RTID(laser_bean@PlantAlmanac)",
       "PROPS": "RTID(laser_bean@PlantProps)",
       "NAME": {
-        "en": "Laser Bean"
+        "en": "Laser Bean",
+        "zh": "激光豆"
       },
       "TAGS": [
         "plant"
@@ -2124,7 +2214,8 @@
       "ALMANAC": "RTID(solartomato@PlantAlmanac)",
       "PROPS": "RTID(solartomato@PlantProps)",
       "NAME": {
-        "en": "Solar Tomato"
+        "en": "Solar Tomato",
+        "zh": "阳光番茄"
       },
       "TAGS": [
         "plant",
@@ -2150,7 +2241,8 @@
       "ALMANAC": "RTID(powerplant_alpha@PlantAlmanac)",
       "PROPS": "RTID(powerplant_alpha@PlantProps)",
       "NAME": {
-        "en": "Tile Turnip"
+        "en": "Tile Turnip",
+        "zh": "瓷砖萝卜"
       },
       "TAGS": [
         "powertile",
@@ -2176,7 +2268,8 @@
       "ALMANAC": "RTID(powerplant_beta@PlantAlmanac)",
       "PROPS": "RTID(powerplant_beta@PlantProps)",
       "NAME": {
-        "en": "Tile Turnip"
+        "en": "Tile Turnip",
+        "zh": "瓷砖萝卜"
       },
       "TAGS": [
         "powertile",
@@ -2202,7 +2295,8 @@
       "ALMANAC": "RTID(powerplant_gamma@PlantAlmanac)",
       "PROPS": "RTID(powerplant_gamma@PlantProps)",
       "NAME": {
-        "en": "Tile Turnip"
+        "en": "Tile Turnip",
+        "zh": "瓷砖萝卜"
       },
       "TAGS": [
         "powertile",
@@ -2228,7 +2322,8 @@
       "ALMANAC": "RTID(powerplant_delta@PlantAlmanac)",
       "PROPS": "RTID(powerplant_delta@PlantProps)",
       "NAME": {
-        "en": "Tile Turnip"
+        "en": "Tile Turnip",
+        "zh": "瓷砖萝卜"
       },
       "TAGS": [
         "powertile",
@@ -2254,7 +2349,8 @@
       "ALMANAC": "RTID(powerplant_epsilon@PlantAlmanac)",
       "PROPS": "RTID(powerplant_epsilon@PlantProps)",
       "NAME": {
-        "en": "Tile Turnip"
+        "en": "Tile Turnip",
+        "zh": "瓷砖萝卜"
       },
       "TAGS": [
         "powertile",
@@ -2280,7 +2376,8 @@
       "ALMANAC": "RTID(holonut@PlantAlmanac)",
       "PROPS": "RTID(holonut@PlantProps)",
       "NAME": {
-        "en": "Infi-nut"
+        "en": "Infi-nut",
+        "zh": "全息坚果"
       },
       "TAGS": [
         "plant"
@@ -2303,7 +2400,8 @@
       "ALMANAC": "RTID(powerplant@PlantAlmanac)",
       "PROPS": "RTID(powerplant_epsilon@PlantProps)",
       "NAME": {
-        "en": "Tile Turnip"
+        "en": "Tile Turnip",
+        "zh": "瓷砖萝卜"
       },
       "TAGS": [
         "powertile",
@@ -2336,7 +2434,8 @@
       "ALMANAC": "RTID(marigold@PlantAlmanac)",
       "PROPS": "RTID(marigold@PlantProps)",
       "NAME": {
-        "en": "Marigold"
+        "en": "Marigold",
+        "zh": "金盏花"
       },
       "TAGS": [
         "plant"
@@ -2368,7 +2467,8 @@
       "ALMANAC": "RTID(marigold_red@PlantAlmanac)",
       "PROPS": "RTID(marigold_red@PlantProps)",
       "NAME": {
-        "en": "Red Marigold"
+        "en": "Red Marigold",
+        "zh": "火红金盏花"
       },
       "TAGS": [
         "plant"
@@ -2391,7 +2491,8 @@
       "ALMANAC": "RTID(marigold_orange@PlantAlmanac)",
       "PROPS": "RTID(marigold_orange@PlantProps)",
       "NAME": {
-        "en": "Orange Marigold"
+        "en": "Orange Marigold",
+        "zh": "爆裂金盏花"
       },
       "TAGS": [
         "plant"
@@ -2414,7 +2515,8 @@
       "ALMANAC": "RTID(marigold_yellow@PlantAlmanac)",
       "PROPS": "RTID(marigold_yellow@PlantProps)",
       "NAME": {
-        "en": "Yellow Marigold"
+        "en": "Yellow Marigold",
+        "zh": "耀黄金盏花"
       },
       "TAGS": [
         "plant",
@@ -2438,7 +2540,8 @@
       "ALMANAC": "RTID(marigold_green@PlantAlmanac)",
       "PROPS": "RTID(marigold_green@PlantProps)",
       "NAME": {
-        "en": "Green Marigold"
+        "en": "Green Marigold",
+        "zh": "豌豆金盏花"
       },
       "TAGS": [
         "plant"
@@ -2461,7 +2564,8 @@
       "ALMANAC": "RTID(marigold_blue@PlantAlmanac)",
       "PROPS": "RTID(marigold_blue@PlantProps)",
       "NAME": {
-        "en": "Blue Marigold"
+        "en": "Blue Marigold",
+        "zh": "冰蓝金盏花"
       },
       "TAGS": [
         "plant"
@@ -2484,7 +2588,8 @@
       "ALMANAC": "RTID(marigold_pink@PlantAlmanac)",
       "PROPS": "RTID(marigold_pink@PlantProps)",
       "NAME": {
-        "en": "Pink Marigold"
+        "en": "Pink Marigold",
+        "zh": "魔力金盏花"
       },
       "TAGS": [
         "plant"
@@ -2507,7 +2612,8 @@
       "ALMANAC": "RTID(marigold_purple@PlantAlmanac)",
       "PROPS": "RTID(marigold_purple@PlantProps)",
       "NAME": {
-        "en": "Purple Marigold"
+        "en": "Purple Marigold",
+        "zh": "紫毒金盏花"
       },
       "TAGS": [
         "plant"
@@ -2530,7 +2636,8 @@
       "ALMANAC": "RTID(applemortar@PlantAlmanac)",
       "PROPS": "RTID(applemortar@PlantProps)",
       "NAME": {
-        "en": "Apple Mortar"
+        "en": "Apple Mortar",
+        "zh": "苹果迫击炮"
       },
       "TAGS": [
         "plant"
@@ -2553,7 +2660,8 @@
       "ALMANAC": "RTID(redstinger@PlantAlmanac)",
       "PROPS": "RTID(redstinger@PlantProps)",
       "NAME": {
-        "en": "Red Stinger"
+        "en": "Red Stinger",
+        "zh": "红针花"
       },
       "TAGS": [
         "plant"
@@ -2576,7 +2684,8 @@
       "ALMANAC": "RTID(skyshooter@PlantAlmanac)",
       "PROPS": "RTID(skyshooter@PlantProps)",
       "NAME": {
-        "en": "Skyshooter"
+        "en": "Skyshooter",
+        "zh": "飞天射手"
       },
       "TAGS": [
         "fly"
@@ -2599,7 +2708,8 @@
       "ALMANAC": "RTID(sunbean@PlantAlmanac)",
       "PROPS": "RTID(sunbean@PlantProps)",
       "NAME": {
-        "en": "Sun Bean"
+        "en": "Sun Bean",
+        "zh": "阳光豆"
       },
       "TAGS": [
         "plant",
@@ -2624,7 +2734,8 @@
       "ALMANAC": "RTID(peanut@PlantAlmanac)",
       "PROPS": "RTID(peanut@PlantProps)",
       "NAME": {
-        "en": "Pea-nut"
+        "en": "Pea-nut",
+        "zh": "花生"
       },
       "TAGS": [
         "plant"
@@ -2647,7 +2758,8 @@
       "ALMANAC": "RTID(zombiepotion_speed@PlantAlmanac)",
       "PROPS": "RTID(zombiepotion_speed@PlantProps)",
       "NAME": {
-        "en": "Potion of Speed"
+        "en": "Potion of Speed",
+        "zh": "速度药水"
       },
       "TAGS": [
         "potion"
@@ -2671,7 +2783,8 @@
       "ALMANAC": "RTID(zombiepotion_toughness@PlantAlmanac)",
       "PROPS": "RTID(zombiepotion_toughness@PlantProps)",
       "NAME": {
-        "en": "Potion of Toughness"
+        "en": "Potion of Toughness",
+        "zh": "健壮药水"
       },
       "TAGS": [
         "potion"
@@ -2695,7 +2808,8 @@
       "ALMANAC": "RTID(zombiepotion_invisibility@PlantAlmanac)",
       "PROPS": "RTID(zombiepotion_invisibility@PlantProps)",
       "NAME": {
-        "en": "Potion of Invisibility"
+        "en": "Potion of Invisibility",
+        "zh": "隐身药水"
       },
       "TAGS": [
         "potion"
@@ -2719,7 +2833,8 @@
       "ALMANAC": "RTID(tanglekelp@PlantAlmanac)",
       "PROPS": "RTID(tanglekelp@PlantProps)",
       "NAME": {
-        "en": "Tangle Kelp"
+        "en": "Tangle Kelp",
+        "zh": "缠绕水草"
       },
       "TAGS": [
         "aquatic",
@@ -2745,7 +2860,8 @@
       "ALMANAC": "RTID(bowlingbulb@PlantAlmanac)",
       "PROPS": "RTID(bowlingbulb@PlantProps)",
       "NAME": {
-        "en": "Bowling Bulb"
+        "en": "Bowling Bulb",
+        "zh": "保龄泡泡"
       },
       "TAGS": [
         "plant"
@@ -2780,7 +2896,8 @@
       "ALMANAC": "RTID(empty@PlantAlmanac)",
       "PROPS": "RTID(tool_projectile_bowlingbulb1@PlantProps)",
       "NAME": {
-        "en": "Aquamarine Bowling"
+        "en": "Aquamarine Bowling",
+        "zh": "青色保龄球"
       },
       "TAGS": [
         "plant",
@@ -2805,7 +2922,8 @@
       "ALMANAC": "RTID(tool_projectile_bowlingbulb2@PlantAlmanac)",
       "PROPS": "RTID(tool_projectile_bowlingbulb2@PlantProps)",
       "NAME": {
-        "en": "Blue Bowling"
+        "en": "Blue Bowling",
+        "zh": "蓝色保龄球"
       },
       "TAGS": [
         "plant",
@@ -2830,7 +2948,8 @@
       "ALMANAC": "RTID(empty@PlantAlmanac)",
       "PROPS": "RTID(tool_projectile_bowlingbulb3@PlantProps)",
       "NAME": {
-        "en": "Orange Bowling"
+        "en": "Orange Bowling",
+        "zh": "橙色保龄球"
       },
       "TAGS": [
         "plant",
@@ -2855,7 +2974,8 @@
       "ALMANAC": "RTID(empty@PlantAlmanac)",
       "PROPS": "RTID(tool_projectile_bowlingbulb_explode@PlantProps)",
       "NAME": {
-        "en": "Charged Bowling"
+        "en": "Charged Bowling",
+        "zh": "充能保龄球"
       },
       "TAGS": [
         "plant",
@@ -2880,7 +3000,8 @@
       "ALMANAC": "RTID(guacodile@PlantAlmanac)",
       "PROPS": "RTID(guacodile@PlantProps)",
       "NAME": {
-        "en": "Guacodile"
+        "en": "Guacodile",
+        "zh": "鳄梨"
       },
       "TAGS": [
         "amphibious",
@@ -2904,7 +3025,8 @@
       "ALMANAC": "RTID(empty@PlantAlmanac)",
       "PROPS": "RTID(tool_projectile_bowling_wallnut@PlantProps)",
       "NAME": {
-        "en": "Bowling Wall-nut"
+        "en": "Bowling Wall-nut",
+        "zh": "坚果保龄球"
       },
       "TAGS": [
         "plant",
@@ -2929,7 +3051,8 @@
       "COSTUME": 0,
       "PROPS": "RTID(tool_projectile_bowling_explodeonut@PlantProps)",
       "NAME": {
-        "en": "Bowling Explode-O-Nut"
+        "en": "Bowling Explode-O-Nut",
+        "zh": "爆炸坚果保龄球"
       },
       "TAGS": [
         "plant",
@@ -2954,7 +3077,8 @@
       "ALMANAC": "RTID(empty@PlantAlmanac)",
       "PROPS": "RTID(tool_projectile_bowling_holonut@PlantProps)",
       "NAME": {
-        "en": "Bowling Infi-nut"
+        "en": "Bowling Infi-nut",
+        "zh": "全息坚果保龄球"
       },
       "TAGS": [
         "plant",
@@ -2979,7 +3103,8 @@
       "ALMANAC": "RTID(empty@PlantAlmanac)",
       "PROPS": "RTID(tool_projectile_bowling_primalwallnut@PlantProps)",
       "NAME": {
-        "en": "Bowling Primal Wall-nut"
+        "en": "Bowling Primal Wall-nut",
+        "zh": "原始坚果保龄球"
       },
       "TAGS": [
         "plant",
@@ -3004,7 +3129,8 @@
       "ALMANAC": "RTID(empty@PlantAlmanac)",
       "PROPS": "RTID(tool_projectile_bowlingbulb_iceburg@PlantProps)",
       "NAME": {
-        "en": "Iceberg Bowling"
+        "en": "Iceberg Bowling",
+        "zh": "冰冻保龄球"
       },
       "TAGS": [
         "plant",
@@ -3029,7 +3155,8 @@
       "ALMANAC": "RTID(empty@PlantAlmanac)",
       "PROPS": "RTID(tool_projectile_bowling_tallnut@PlantProps)",
       "NAME": {
-        "en": "Bowling Tall-nut"
+        "en": "Bowling Tall-nut",
+        "zh": "高坚果保龄球"
       },
       "TAGS": [
         "plant",
@@ -3054,7 +3181,8 @@
       "ALMANAC": "RTID(ghostpepper@PlantAlmanac)",
       "PROPS": "RTID(ghostpepper@PlantProps)",
       "NAME": {
-        "en": "Ghost Pepper"
+        "en": "Ghost Pepper",
+        "zh": "幽灵辣椒"
       },
       "TAGS": [
         "fly",
@@ -3078,7 +3206,8 @@
       "ALMANAC": "RTID(sweetpotato@PlantAlmanac)",
       "PROPS": "RTID(sweetpotato@PlantProps)",
       "NAME": {
-        "en": "Sweet Potato"
+        "en": "Sweet Potato",
+        "zh": "甜薯"
       },
       "TAGS": [
         "plant"
@@ -3101,7 +3230,8 @@
       "ALMANAC": "RTID(pepperpult@PlantAlmanac)",
       "PROPS": "RTID(pepperpult@PlantProps)",
       "NAME": {
-        "en": "Pepper-pult"
+        "en": "Pepper-pult",
+        "zh": "甜椒投手"
       },
       "TAGS": [
         "plant"
@@ -3124,7 +3254,8 @@
       "ALMANAC": "RTID(hotpotato@PlantAlmanac)",
       "PROPS": "RTID(hotpotato@PlantProps)",
       "NAME": {
-        "en": "Hot Potato"
+        "en": "Hot Potato",
+        "zh": "烤马铃薯"
       },
       "TAGS": [
         "hotpotato",
@@ -3148,7 +3279,8 @@
       "ALMANAC": "RTID(stunion@PlantAlmanac)",
       "PROPS": "RTID(stunion@PlantProps)",
       "NAME": {
-        "en": "Stunion"
+        "en": "Stunion",
+        "zh": "眩晕洋葱"
       },
       "TAGS": [
         "plant",
@@ -3172,7 +3304,8 @@
       "ALMANAC": "RTID(goldleaf@PlantAlmanac)",
       "PROPS": "RTID(goldleaf@PlantProps)",
       "NAME": {
-        "en": "Gold Leaf"
+        "en": "Gold Leaf",
+        "zh": "黄金叶"
       },
       "TAGS": [
         "tile",
@@ -3199,7 +3332,8 @@
       "ALMANAC": "RTID(akee@PlantAlmanac)",
       "PROPS": "RTID(akee@PlantProps)",
       "NAME": {
-        "en": "A.K.E.E."
+        "en": "A.K.E.E.",
+        "zh": "AKEE"
       },
       "TAGS": [
         "plant"
@@ -3222,7 +3356,8 @@
       "ALMANAC": "RTID(endurian@PlantAlmanac)",
       "PROPS": "RTID(endurian@PlantProps)",
       "NAME": {
-        "en": "Endurian"
+        "en": "Endurian",
+        "zh": "榴莲"
       },
       "TAGS": [
         "plant"
@@ -3245,7 +3380,8 @@
       "ALMANAC": "RTID(toadstool@PlantAlmanac)",
       "PROPS": "RTID(toadstool@PlantProps)",
       "NAME": {
-        "en": "Toadstool"
+        "en": "Toadstool",
+        "zh": "金蟾菇"
       },
       "TAGS": [
         "plant",
@@ -3269,7 +3405,8 @@
       "ALMANAC": "RTID(lavaguava@PlantAlmanac)",
       "PROPS": "RTID(lavaguava@PlantProps)",
       "NAME": {
-        "en": "Lava Guava"
+        "en": "Lava Guava",
+        "zh": "岩浆番石榴"
       },
       "TAGS": [
         "plant",
@@ -3293,7 +3430,8 @@
       "ALMANAC": "RTID(phatbeet@PlantAlmanac)",
       "PROPS": "RTID(phatbeet@PlantProps)",
       "NAME": {
-        "en": "Phat Beet"
+        "en": "Phat Beet",
+        "zh": "魔音甜菜"
       },
       "TAGS": [
         "plant"
@@ -3316,7 +3454,8 @@
       "ALMANAC": "RTID(strawburst@PlantAlmanac)",
       "PROPS": "RTID(strawburst@PlantProps)",
       "NAME": {
-        "en": "Strawburst"
+        "en": "Strawburst",
+        "zh": "爆浆草莓"
       },
       "TAGS": [
         "plant"
@@ -3339,7 +3478,8 @@
       "ALMANAC": "RTID(thymewarp@PlantAlmanac)",
       "PROPS": "RTID(thymewarp@PlantProps)",
       "NAME": {
-        "en": "Thyme Warp"
+        "en": "Thyme Warp",
+        "zh": "逆时草"
       },
       "TAGS": [
         "plant",
@@ -3365,7 +3505,8 @@
       "ALMANAC": "RTID(phatbeet_rhythm@PlantAlmanac)",
       "PROPS": "RTID(phatbeet_rhythm@PlantProps)",
       "NAME": {
-        "en": "Rhythm Phat Beet"
+        "en": "Rhythm Phat Beet",
+        "zh": "音游甜菜"
       },
       "TAGS": [
         "plant"
@@ -3388,7 +3529,8 @@
       "ALMANAC": "RTID(seashroom@PlantAlmanac)",
       "PROPS": "RTID(seashroom@PlantProps)",
       "NAME": {
-        "en": "Sea-shroom"
+        "en": "Sea-shroom",
+        "zh": "海蘑菇"
       },
       "TAGS": [
         "amphibious",
@@ -3412,7 +3554,8 @@
       "ALMANAC": "RTID(garlic@PlantAlmanac)",
       "PROPS": "RTID(garlic@PlantProps)",
       "NAME": {
-        "en": "Garlic"
+        "en": "Garlic",
+        "zh": "大蒜"
       },
       "TAGS": [
         "plant"
@@ -3435,7 +3578,8 @@
       "ALMANAC": "RTID(electricblueberry@PlantAlmanac)",
       "PROPS": "RTID(electricblueberry@PlantProps)",
       "NAME": {
-        "en": "Electric Blueberry"
+        "en": "Electric Blueberry",
+        "zh": "闪电蓝莓"
       },
       "TAGS": [
         "plant"
@@ -3458,7 +3602,8 @@
       "ALMANAC": "RTID(sporeshroom@PlantAlmanac)",
       "PROPS": "RTID(sporeshroom@PlantProps)",
       "NAME": {
-        "en": "Spore-shroom"
+        "en": "Spore-shroom",
+        "zh": "孢子菇"
       },
       "TAGS": [
         "plant",
@@ -3482,7 +3627,8 @@
       "ALMANAC": "RTID(intensivecarrot@PlantAlmanac)",
       "PROPS": "RTID(intensivecarrot@PlantProps)",
       "NAME": {
-        "en": "Intensive Carrot"
+        "en": "Intensive Carrot",
+        "zh": "复活萝卜"
       },
       "TAGS": [
         "deadPlant",
@@ -3506,7 +3652,8 @@
       "ALMANAC": "RTID(primalsunflower@PlantAlmanac)",
       "PROPS": "RTID(primalsunflower@PlantProps)",
       "NAME": {
-        "en": "Primal Sunflower"
+        "en": "Primal Sunflower",
+        "zh": "原始向日葵"
       },
       "TAGS": [
         "plant",
@@ -3530,7 +3677,8 @@
       "ALMANAC": "RTID(moonbean@PlantAlmanac)",
       "PROPS": "RTID(moonbean@PlantProps)",
       "NAME": {
-        "en": "Moon Bean"
+        "en": "Moon Bean",
+        "zh": "月亮豆"
       },
       "TAGS": [
         "fly",
@@ -3555,7 +3703,8 @@
       "ALMANAC": "RTID(coldsnapdragon@PlantAlmanac)",
       "PROPS": "RTID(coldsnapdragon@PlantProps)",
       "NAME": {
-        "en": "Cold Snapdragon"
+        "en": "Cold Snapdragon",
+        "zh": "冰龙草"
       },
       "TAGS": [
         "plant"
@@ -3578,7 +3727,8 @@
       "ALMANAC": "RTID(nightshade@PlantAlmanac)",
       "PROPS": "RTID(nightshade@PlantProps)",
       "NAME": {
-        "en": "Nightshade"
+        "en": "Nightshade",
+        "zh": "暗影龙葵"
       },
       "TAGS": [
         "plant"
@@ -3601,7 +3751,8 @@
       "ALMANAC": "RTID(dusklobber@PlantAlmanac)",
       "PROPS": "RTID(dusklobber@PlantProps)",
       "NAME": {
-        "en": "Dusk Lobber"
+        "en": "Dusk Lobber",
+        "zh": "幽暮投手"
       },
       "TAGS": [
         "plant"
@@ -3624,7 +3775,8 @@
       "ALMANAC": "RTID(grimrose@PlantAlmanac)",
       "PROPS": "RTID(grimrose@PlantProps)",
       "NAME": {
-        "en": "Grimrose"
+        "en": "Grimrose",
+        "zh": "暗樱草"
       },
       "TAGS": [
         "plant",
@@ -3648,7 +3800,8 @@
       "ALMANAC": "RTID(goldbloom@PlantAlmanac)",
       "PROPS": "RTID(goldbloom@PlantProps)",
       "NAME": {
-        "en": "Gold Bloom"
+        "en": "Gold Bloom",
+        "zh": "黄金蓓蕾"
       },
       "TAGS": [
         "plant",
@@ -3674,7 +3827,8 @@
       "ALMANAC": "RTID(bloominghearts@PlantAlmanac)",
       "PROPS": "RTID(bloominghearts@PlantProps)",
       "NAME": {
-        "en": "Blooming Heart"
+        "en": "Blooming Heart",
+        "zh": "心蕊"
       },
       "TAGS": [
         "plant"
@@ -3697,7 +3851,8 @@
       "ALMANAC": "RTID(shrinkingviolet@PlantAlmanac)",
       "PROPS": "RTID(shrinkingviolet@PlantProps)",
       "NAME": {
-        "en": "Shrinking Violet"
+        "en": "Shrinking Violet",
+        "zh": "畏缩紫罗兰"
       },
       "TAGS": [
         "plant",
@@ -3721,7 +3876,8 @@
       "ALMANAC": "RTID(hotdate@PlantAlmanac)",
       "PROPS": "RTID(hotdate@PlantProps)",
       "NAME": {
-        "en": "Hot Date"
+        "en": "Hot Date",
+        "zh": "热辣海枣"
       },
       "TAGS": [
         "plant",
@@ -3745,7 +3901,8 @@
       "ALMANAC": "RTID(firegourd@PlantAlmanac)",
       "PROPS": "RTID(firegourd@PlantProps)",
       "NAME": {
-        "en": "Fire Gourd"
+        "en": "Fire Gourd",
+        "zh": "火葫芦"
       },
       "TAGS": [
         "plant"
@@ -3768,7 +3925,8 @@
       "ALMANAC": "RTID(bambooshoot@PlantAlmanac)",
       "PROPS": "RTID(bambooshoot@PlantProps)",
       "NAME": {
-        "en": "Bamboo Shoot"
+        "en": "Bamboo Shoot",
+        "zh": "竹笋"
       },
       "TAGS": [
         "potatomine"
@@ -3791,7 +3949,8 @@
       "ALMANAC": "RTID(snowdrop@PlantAlmanac)",
       "PROPS": "RTID(snowdrop@PlantProps)",
       "NAME": {
-        "en": "Snowdrop"
+        "en": "Snowdrop",
+        "zh": "雪滴花"
       },
       "TAGS": [
         "plant"
@@ -3814,7 +3973,8 @@
       "ALMANAC": "RTID(lychee@PlantAlmanac)",
       "PROPS": "RTID(lychee@PlantProps)",
       "NAME": {
-        "en": "Lychee"
+        "en": "Lychee",
+        "zh": "荔枝"
       },
       "TAGS": [
         "plant"
@@ -3837,7 +3997,8 @@
       "ALMANAC": "RTID(perfumeshroom@PlantAlmanac)",
       "PROPS": "RTID(perfumeshroom@PlantProps)",
       "NAME": {
-        "en": "Perfume-shroom"
+        "en": "Perfume-shroom",
+        "zh": "香水菇"
       },
       "TAGS": [
         "plant",
@@ -3863,7 +4024,8 @@
       "ALMANAC": "RTID(solarsage@PlantAlmanac)",
       "PROPS": "RTID(solarsage@PlantProps)",
       "NAME": {
-        "en": "Solar Sage"
+        "en": "Solar Sage",
+        "zh": "阳光鼠尾草"
       },
       "TAGS": [
         "sunProducer",
@@ -3888,7 +4050,8 @@
       "ALMANAC": "RTID(bamboozle@PlantAlmanac)",
       "PROPS": "RTID(bamboozle@PlantProps)",
       "NAME": {
-        "en": "Bamboozle"
+        "en": "Bamboozle",
+        "zh": "整人竹"
       },
       "TAGS": [
         "plant"
@@ -3914,7 +4077,8 @@
       "ALMANAC": "RTID(empty@PlantAlmanac)",
       "PROPS": "RTID(bamboobusket@PlantProps)",
       "NAME": {
-        "en": "Bamboo Busket"
+        "en": "Bamboo Busket",
+        "zh": "竹篮"
       },
       "TAGS": [
         "vine"
@@ -3937,7 +4101,8 @@
       "ALMANAC": "RTID(cantaloupe@PlantAlmanac)",
       "PROPS": "RTID(cantaloupe@PlantProps)",
       "NAME": {
-        "en": "Cantaloupe-pult"
+        "en": "Cantaloupe-pult",
+        "zh": "哈密瓜投手"
       },
       "TAGS": [
         "plant"
@@ -3960,7 +4125,8 @@
       "ALMANAC": "RTID(iceweed@PlantAlmanac)",
       "PROPS": "RTID(iceweed@PlantProps)",
       "NAME": {
-        "en": "Iceweed"
+        "en": "Iceweed",
+        "zh": "冰地刺"
       },
       "TAGS": [
         "spikeweed"
@@ -3983,7 +4149,8 @@
       "ALMANAC": "RTID(pinkstarfruit@PlantAlmanac)",
       "PROPS": "RTID(pinkstarfruit@PlantProps)",
       "NAME": {
-        "en": "Angel Starfruit"
+        "en": "Angel Starfruit",
+        "zh": "天使星星果"
       },
       "TAGS": [
         "plant"
@@ -4006,7 +4173,8 @@
       "ALMANAC": "RTID(icebloom@PlantAlmanac)",
       "PROPS": "RTID(icebloom@PlantProps)",
       "NAME": {
-        "en": "Ice Bloom"
+        "en": "Ice Bloom",
+        "zh": "寒冰蓓蕾"
       },
       "TAGS": [
         "plant",
@@ -4031,7 +4199,8 @@
       "ALMANAC": "RTID(zoybeanpod@PlantAlmanac)",
       "PROPS": "RTID(zoybeanpod@PlantProps)",
       "NAME": {
-        "en": "Zoybean Pod"
+        "en": "Zoybean Pod",
+        "zh": "豆腐尸荚"
       },
       "TAGS": [
         "plant"
@@ -4054,7 +4223,8 @@
       "ALMANAC": "RTID(empty@PlantAlmanac)",
       "PROPS": "RTID(atombomb@PlantProps)",
       "NAME": {
-        "en": "Atomic Bombegranate"
+        "en": "Atomic Bombegranate",
+        "zh": "原子石榴弹"
       },
       "TAGS": [
         "plant",
@@ -4078,7 +4248,8 @@
       "ALMANAC": "RTID(empty@PlantAlmanac)",
       "PROPS": "RTID(seedling@PlantProps)",
       "NAME": {
-        "en": "Seedling"
+        "en": "Seedling",
+        "zh": "小种子"
       },
       "TAGS": [
         "plant",
@@ -4102,7 +4273,8 @@
       "ALMANAC": "RTID(pyrevine@PlantAlmanac)",
       "PROPS": "RTID(pyrevine@PlantProps)",
       "NAME": {
-        "en": "Pyre Vine"
+        "en": "Pyre Vine",
+        "zh": "柴火藤蔓"
       },
       "TAGS": [
         "vine"
@@ -4125,7 +4297,8 @@
       "ALMANAC": "RTID(shinevine@PlantAlmanac)",
       "PROPS": "RTID(shinevine@PlantProps)",
       "NAME": {
-        "en": "Shine Vine"
+        "en": "Shine Vine",
+        "zh": "闪耀藤蔓"
       },
       "TAGS": [
         "vine",
@@ -4149,7 +4322,8 @@
       "ALMANAC": "RTID(atombomb@PlantAlmanac)",
       "PROPS": "RTID(seedling@PlantProps)",
       "NAME": {
-        "en": "Atomic Bombegranate"
+        "en": "Atomic Bombegranate",
+        "zh": "原子石榴弹"
       },
       "TAGS": [
         "plant",
@@ -4177,7 +4351,8 @@
       "ALMANAC": "RTID(hollyknight@PlantAlmanac)",
       "PROPS": "RTID(hollyknight@PlantProps)",
       "NAME": {
-        "en": "Holly Knight"
+        "en": "Holly Knight",
+        "zh": "冬青骑士"
       },
       "TAGS": [
         "plant"
@@ -4204,7 +4379,8 @@
       "ALMANAC": "RTID(empty@PlantAlmanac)",
       "PROPS": "RTID(hollybarrierleaf@PlantProps)",
       "NAME": {
-        "en": "Holly Barrier Leaf"
+        "en": "Holly Barrier Leaf",
+        "zh": "冬青骑士障碍"
       },
       "TAGS": [
         "amphibious"
@@ -4227,7 +4403,8 @@
       "ALMANAC": "RTID(empty@PlantAlmanac)",
       "PROPS": "RTID(hollybarrierleafplantfood@PlantProps)",
       "NAME": {
-        "en": "Plantfood Holly Barrier Leaf"
+        "en": "Plantfood Holly Barrier Leaf",
+        "zh": "叶绿素冬青骑士障碍"
       },
       "TAGS": [
         "amphibious"
@@ -4250,7 +4427,8 @@
       "ALMANAC": "RTID(aloe@PlantAlmanac)",
       "PROPS": "RTID(aloe@PlantProps)",
       "NAME": {
-        "en": "Aloe"
+        "en": "Aloe",
+        "zh": "芦荟"
       },
       "TAGS": [
         "plant"
@@ -4273,7 +4451,8 @@
       "ALMANAC": "RTID(caulipower@PlantAlmanac)",
       "PROPS": "RTID(caulipower@PlantProps)",
       "NAME": {
-        "en": "Caulipower"
+        "en": "Caulipower",
+        "zh": "超能花菜"
       },
       "TAGS": [
         "fly"
@@ -4296,7 +4475,8 @@
       "ALMANAC": "RTID(gumnut@PlantAlmanac)",
       "PROPS": "RTID(gumnut@PlantProps)",
       "NAME": {
-        "en": "Gumnut"
+        "en": "Gumnut",
+        "zh": "香果胶"
       },
       "TAGS": [
         "plant",
@@ -4320,7 +4500,8 @@
       "ALMANAC": "RTID(reinforcemint@PlantAlmanac)",
       "PROPS": "RTID(reinforcemint@PlantProps)",
       "NAME": {
-        "en": "Reinforce-mint"
+        "en": "Reinforce-mint",
+        "zh": "防御薄荷"
       },
       "TAGS": [
         "plant",
@@ -4347,7 +4528,8 @@
       "ALMANAC": "RTID(enlightenmint@PlantAlmanac)",
       "PROPS": "RTID(enlightenmint@PlantProps)",
       "NAME": {
-        "en": "Enlighten-mint"
+        "en": "Enlighten-mint",
+        "zh": "启明薄荷"
       },
       "TAGS": [
         "fly",
@@ -4375,7 +4557,8 @@
       "ALMANAC": "RTID(wintermint@PlantAlmanac)",
       "PROPS": "RTID(wintermint@PlantProps)",
       "NAME": {
-        "en": "Winter-mint"
+        "en": "Winter-mint",
+        "zh": "寒冻薄荷"
       },
       "TAGS": [
         "plant",
@@ -4402,7 +4585,8 @@
       "ALMANAC": "RTID(spearmint@PlantAlmanac)",
       "PROPS": "RTID(spearmint@PlantProps)",
       "NAME": {
-        "en": "Spear-mint"
+        "en": "Spear-mint",
+        "zh": "穿刺薄荷"
       },
       "TAGS": [
         "plant",
@@ -4429,7 +4613,8 @@
       "ALMANAC": "RTID(appeasemint@PlantAlmanac)",
       "PROPS": "RTID(appeasemint@PlantProps)",
       "NAME": {
-        "en": "Appease-mint"
+        "en": "Appease-mint",
+        "zh": "平射薄荷"
       },
       "TAGS": [
         "plant",
@@ -4456,7 +4641,8 @@
       "ALMANAC": "RTID(enforcemint@PlantAlmanac)",
       "PROPS": "RTID(enforcemint@PlantProps)",
       "NAME": {
-        "en": "Enforce-mint"
+        "en": "Enforce-mint",
+        "zh": "健壮薄荷"
       },
       "TAGS": [
         "plant",
@@ -4483,7 +4669,8 @@
       "ALMANAC": "RTID(peppermint@PlantAlmanac)",
       "PROPS": "RTID(peppermint@PlantProps)",
       "NAME": {
-        "en": "Pepper-mint"
+        "en": "Pepper-mint",
+        "zh": "热辣薄荷"
       },
       "TAGS": [
         "plant",
@@ -4510,7 +4697,8 @@
       "ALMANAC": "RTID(bombardmint@PlantAlmanac)",
       "PROPS": "RTID(bombardmint@PlantProps)",
       "NAME": {
-        "en": "Bombard-mint"
+        "en": "Bombard-mint",
+        "zh": "爆裂薄荷"
       },
       "TAGS": [
         "plant",
@@ -4537,7 +4725,8 @@
       "ALMANAC": "RTID(concealmint@PlantAlmanac)",
       "PROPS": "RTID(concealmint@PlantProps)",
       "NAME": {
-        "en": "Conceal-mint"
+        "en": "Conceal-mint",
+        "zh": "暗影薄荷"
       },
       "TAGS": [
         "plant",
@@ -4564,7 +4753,8 @@
       "ALMANAC": "RTID(ailmint@PlantAlmanac)",
       "PROPS": "RTID(ailmint@PlantProps)",
       "NAME": {
-        "en": "Ail-mint"
+        "en": "Ail-mint",
+        "zh": "剧毒薄荷"
       },
       "TAGS": [
         "plant",
@@ -4591,7 +4781,8 @@
       "ALMANAC": "RTID(enchantmint@PlantAlmanac)",
       "PROPS": "RTID(enchantmint@PlantProps)",
       "NAME": {
-        "en": "Enchant-mint"
+        "en": "Enchant-mint",
+        "zh": "魔法薄荷"
       },
       "TAGS": [
         "plant",
@@ -4618,7 +4809,8 @@
       "ALMANAC": "RTID(filamint@PlantAlmanac)",
       "PROPS": "RTID(filamint@PlantProps)",
       "NAME": {
-        "en": "Fila-mint"
+        "en": "Fila-mint",
+        "zh": "电能薄荷"
       },
       "TAGS": [
         "fly",
@@ -4645,7 +4837,8 @@
       "ALMANAC": "RTID(containmint@PlantAlmanac)",
       "PROPS": "RTID(containmint@PlantProps)",
       "NAME": {
-        "en": "Contain-mint"
+        "en": "Contain-mint",
+        "zh": "滞缓薄荷"
       },
       "TAGS": [
         "plant",
@@ -4672,7 +4865,8 @@
       "ALMANAC": "RTID(armamint@PlantAlmanac)",
       "PROPS": "RTID(armamint@PlantProps)",
       "NAME": {
-        "en": "Arma-mint"
+        "en": "Arma-mint",
+        "zh": "军械薄荷"
       },
       "TAGS": [
         "plant",
@@ -4699,7 +4893,8 @@
       "ALMANAC": "RTID(seashooter@PlantAlmanac)",
       "PROPS": "RTID(seashooter@PlantProps)",
       "NAME": {
-        "en": "Seashooter"
+        "en": "Seashooter",
+        "zh": "海豌豆"
       },
       "TAGS": [
         "amphibious"
@@ -4722,7 +4917,8 @@
       "ALMANAC": "RTID(shadowpeashooter@PlantAlmanac)",
       "PROPS": "RTID(shadowpeashooter@PlantProps)",
       "NAME": {
-        "en": "Shadow Peashooter"
+        "en": "Shadow Peashooter",
+        "zh": "暗影豌豆"
       },
       "TAGS": [
         "plant"
@@ -4745,7 +4941,8 @@
       "ALMANAC": "RTID(murkadamia@PlantAlmanac)",
       "PROPS": "RTID(murkadamia@PlantProps)",
       "NAME": {
-        "en": "Murkadamia Nut"
+        "en": "Murkadamia Nut",
+        "zh": "暗影夏威夷果"
       },
       "TAGS": [
         "plant"
@@ -4768,7 +4965,8 @@
       "ALMANAC": "RTID(noctarine@PlantAlmanac)",
       "PROPS": "RTID(noctarine@PlantProps)",
       "NAME": {
-        "en": "Noctarine"
+        "en": "Noctarine",
+        "zh": "暗影油桃"
       },
       "TAGS": [
         "plant",
@@ -4793,7 +4991,8 @@
       "ALMANAC": "RTID(snappea@PlantAlmanac)",
       "PROPS": "RTID(snappea@PlantProps)",
       "NAME": {
-        "en": "Snap Pea"
+        "en": "Snap Pea",
+        "zh": "大嘴豌豆"
       },
       "TAGS": [
         "plant"
@@ -4816,7 +5015,8 @@
       "ALMANAC": "RTID(asparagus@PlantAlmanac)",
       "PROPS": "RTID(asparagus@PlantProps)",
       "NAME": {
-        "en": "Asparajet"
+        "en": "Asparajet",
+        "zh": "芦笋战机"
       },
       "TAGS": [
         "fly"
@@ -4839,7 +5039,8 @@
       "ALMANAC": "RTID(pineapple@PlantAlmanac)",
       "PROPS": "RTID(pineapple@PlantProps)",
       "NAME": {
-        "en": "Spinapple"
+        "en": "Spinapple",
+        "zh": "旋转菠萝"
       },
       "TAGS": [
         "fly"
@@ -4862,7 +5063,8 @@
       "ALMANAC": "RTID(anthurium@PlantAlmanac)",
       "PROPS": "RTID(anthurium@PlantProps)",
       "NAME": {
-        "en": "Ampereum"
+        "en": "Ampereum",
+        "zh": "电离红掌"
       },
       "TAGS": [
         "plant"
@@ -4885,7 +5087,8 @@
       "ALMANAC": "RTID(bulbkekengi@PlantAlmanac)",
       "PROPS": "RTID(bulbkekengi@PlantProps)",
       "NAME": {
-        "en": "Bulbkekengi"
+        "en": "Bulbkekengi",
+        "zh": "灯笼草"
       },
       "TAGS": [
         "fly"
@@ -4909,7 +5112,8 @@
       "ALMANAC": "RTID(loquat@PlantAlmanac)",
       "PROPS": "RTID(loquat@PlantProps)",
       "NAME": {
-        "en": "Loquanado"
+        "en": "Loquanado",
+        "zh": "漩涡枇杷"
       },
       "TAGS": [
         "fly",
@@ -4933,7 +5137,8 @@
       "ALMANAC": "RTID(peacommando@PlantAlmanac)",
       "PROPS": "RTID(peacommando@PlantProps)",
       "NAME": {
-        "en": "Pea Commando"
+        "en": "Pea Commando",
+        "zh": "豌豆突击队"
       },
       "TAGS": [
         "fly"
@@ -4956,7 +5161,8 @@
       "ALMANAC": "RTID(wasabiwhip@PlantAlmanac)",
       "PROPS": "RTID(wasabiwhip@PlantProps)",
       "NAME": {
-        "en": "Wasabi Whip"
+        "en": "Wasabi Whip",
+        "zh": "炙热山葵"
       },
       "TAGS": [
         "plant"
@@ -4979,7 +5185,8 @@
       "ALMANAC": "RTID(poisonpeashooter@PlantAlmanac)",
       "PROPS": "RTID(poisonpeashooter@PlantProps)",
       "NAME": {
-        "en": "Goo Peashooter"
+        "en": "Goo Peashooter",
+        "zh": "黏毒豌豆"
       },
       "TAGS": [
         "plant"
@@ -5002,7 +5209,8 @@
       "ALMANAC": "RTID(darkmatterdragonfruit@PlantAlmanac)",
       "PROPS": "RTID(darkmatterdragonfruit@PlantProps)",
       "NAME": {
-        "en": "Dark Matter Dragonfruit"
+        "en": "Dark Matter Dragonfruit",
+        "zh": "暗物质火龙果"
       },
       "TAGS": [
         "plant"
@@ -5025,7 +5233,8 @@
       "ALMANAC": "RTID(mirrornut@PlantAlmanac)",
       "PROPS": "RTID(mirrornut@PlantProps)",
       "NAME": {
-        "en": "Mirror-nut"
+        "en": "Mirror-nut",
+        "zh": "镜面坚果"
       },
       "TAGS": [
         "plant"
@@ -5048,7 +5257,8 @@
       "ALMANAC": "RTID(inferno@PlantAlmanac)",
       "PROPS": "RTID(inferno@PlantProps)",
       "NAME": {
-        "en": "Inferno"
+        "en": "Inferno",
+        "zh": "地狱火蕨"
       },
       "TAGS": [
         "plant"
@@ -5071,7 +5281,8 @@
       "ALMANAC": "RTID(slingpea@PlantAlmanac)",
       "PROPS": "RTID(slingpea@PlantProps)",
       "NAME": {
-        "en": "Sling Pea"
+        "en": "Sling Pea",
+        "zh": "豌豆迫击炮"
       },
       "TAGS": [
         "plant"
@@ -5094,7 +5305,8 @@
       "ALMANAC": "RTID(chillypepper@PlantAlmanac)",
       "PROPS": "RTID(chillypepper@PlantProps)",
       "NAME": {
-        "en": "Chilly Pepper"
+        "en": "Chilly Pepper",
+        "zh": "寒冰辣椒"
       },
       "TAGS": [
         "plant",
@@ -5119,7 +5331,8 @@
       "ALMANAC": "RTID(witchhazel@PlantAlmanac)",
       "PROPS": "RTID(witchhazel@PlantProps)",
       "NAME": {
-        "en": "Witch Hazel"
+        "en": "Witch Hazel",
+        "zh": "女巫金缕梅"
       },
       "TAGS": [
         "plant"

@@ -1,0 +1,124 @@
+{
+  "PINATAS": [
+    {
+      "CODENAME": "default",
+      "RES": "Default",
+      "LABELCOLOR": "#800000",
+      "BANNER": "default",
+      "MUSIC": {
+        "Intro": {
+          "Res": "pinata/PartyIntro",
+          "Length": 2.964
+        },
+        "Loop": {
+          "Res": "pinata/PartyLoop",
+          "Length": 10.34
+        },
+        "Outro": {
+          "Res": "pinata/PartyOutro",
+          "Length": 3
+        }
+      }
+    },
+    {
+      "CODENAME": "halloween",
+      "RES": "Halloween",
+      "LABELCOLOR": "#800000",
+      "BANNER": "default",
+      "MUSIC": {
+        "Intro": {
+          "Res": "pinata/HalloweenIntro",
+          "Length": 2.405
+        },
+        "Loop": {
+          "Res": "pinata/HalloweenLoop",
+          "Length": 12.158
+        },
+        "Outro": {
+          "Res": "pinata/HalloweenOutro",
+          "Length": 3
+        }
+      }
+    },
+    {
+      "CODENAME": "birthday",
+      "RES": "Default",
+      "LABELCOLOR": "#800000",
+      "BANNER": "default",
+      "MUSIC": {
+        "Intro": {
+          "Res": "pinata/BirthdayzIntro",
+          "Length": 2.607
+        },
+        "Loop": {
+          "Res": "pinata/BirthdayzLoop",
+          "Length": 12.782
+        },
+        "Outro": {
+          "Res": "pinata/BirthdayzOutro",
+          "Length": 3
+        }
+      }
+    },
+    {
+      "CODENAME": "feastivus",
+      "RES": "Default",
+      "LABELCOLOR": "#800000",
+      "BANNER": "default",
+      "MUSIC": {
+        "Intro": {
+          "Res": "pinata/FeastivusIntro",
+          "Length": 2.161
+        },
+        "Loop": {
+          "Res": "pinata/FeastivusLoop",
+          "Length": 10.9
+        },
+        "Outro": {
+          "Res": "pinata/FeastivusOutro",
+          "Length": 3
+        }
+      }
+    },
+    {
+      "CODENAME": "summer",
+      "RES": "Default",
+      "LABELCOLOR": "#FFEB00",
+      "BANNER": "summer",
+      "MUSIC": {
+        "Intro": {
+          "Res": "pinata/BirthdayzIntro",
+          "Length": 2.538
+        },
+        "Loop": {
+          "Res": "pinata/BirthdayzLoop",
+          "Length": 12.428
+        },
+        "Outro": {
+          "Res": "pinata/BirthdayzOutro",
+          "Length": 3
+        }
+      }
+    },
+    {
+      "CODENAME": "twist",
+      "RES": "Default",
+      "LABELCOLOR": "#00FFF5",
+      "BANNER": "twist",
+      "MUSIC": {
+        "Intro": {
+          "Res": "pinata/SenorIntro",
+          "Length": 2.084
+        },
+        "Loop": {
+          "Res": "pinata/SenorLoop",
+          "Length": 10.24
+        },
+        "Outro": {
+          "Res": "pinata/SenorOutro",
+          "Length": 3
+        }
+      }
+    }
+  ]
+}

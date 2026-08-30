@@ -1,0 +1,19 @@
+{
+  "Games": [
+    {
+      "Go": "GoToArcadePlantDecoding",
+      "Title": {
+        "en": "Plant Decoding",
+        "zh": "植物解码"
+      },
+      "Description": {
+        "en": "Try multiple times, follow the clues,\nand crack the plant-codes!\n\nAnd don't forget right-clicking to clear a slot!\n\n You'll earn gems the first time you decode and succeed each day!\n\nThe fewer attempts you make, or the more complex the password is, \nthe greater the reward will be!",
+        "zh": "多次尝试，解读线索，\n破解植物密码！\n别忘了右键可以清除卡槽！\n每天第一次解码并成功可以获得钻石奖励！\n尝试越少，或密码越复杂，奖励越丰厚！"
+      },
+      "Play": {
+        "en": "DECODE!",
+        "zh": "开始解码！"
+      }
+    }
+  ]
+}
