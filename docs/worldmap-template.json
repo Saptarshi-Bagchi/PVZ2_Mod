@@ -1,0 +1,37 @@
+{
+  "$schema": "schemas/gpn-worldmap.schema.json",
+  "apiVersion": 1,
+  "worlds": {
+    "egypt": {
+      "map": {
+        "mode": "replace",
+        "reuseOriginalPositions": true,
+        "mainline": [
+          {
+            "id": "egypt-level-1",
+            "type": "level",
+            "levels": ["egypt1"],
+            "title": "1"
+          },
+          {
+            "id": "egypt-level-2",
+            "type": "level",
+            "levels": ["egypt2"],
+            "title": "2",
+            "children": ["egypt-plant-reward-1"]
+          }
+        ],
+        "branches": [
+          {
+            "id": "egypt-plant-reward-1",
+            "type": "plant",
+            "plantReward": "repeater",
+            "title": "Repeater",
+            "template": { "type": "plant" },
+            "relativePosition": { "x": 220, "y": 180 }
+          }
+        ]
+      }
+    }
+  }
+}
