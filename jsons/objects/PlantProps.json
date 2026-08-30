@@ -1,0 +1,28 @@
+{
+  "objects": [
+    {
+      "objclass": "PlantProperties",
+      "aliases": [
+        "fivepeater"
+      ],
+      "objdata": {
+        "ShootInterval": 1.35,
+        "ShootIntervalAdditional": 0.15,
+        "PeaType": "pea",
+        "PeaTypePlantfood": "pea",
+        "PlantfoodPeaCount": 30,
+        "Cooldown": 0,
+        "CooldownFrom": 0,
+        "SunCost": 0,
+        "BeghouledCost": 0,
+        "Toughness": 10000,
+        "Family": "Peashooter",
+        "MintBoostedProps": {
+          "ResistanceMult": 1,
+          "SpeedMult": 2,
+          "Plantfood": false
+        }
+      }
+    }
+  ]
+}

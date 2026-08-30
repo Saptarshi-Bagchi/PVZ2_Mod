@@ -1,0 +1,4675 @@
+{
+  "ZOMBIES": [
+    {
+      "_CARDSPRITENAME": "tutorialbasic",
+      "CODENAME": "tutorial",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(tutorial@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "Basic",
+      "NAME": {
+        "en": "Basic Zombie"
+      },
+      "SubZombieList": [
+        "birthday",
+        "birthday_armored",
+        "sportzball",
+        "stpatrick",
+        "easter",
+        "valentines",
+        "lunar",
+        "halloween",
+        "foodfight",
+        "feastivus",
+        "zoybean"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "tutorialarmor1",
+      "CODENAME": "tutorial_armor1",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(tutorial_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_armor1@ZombieProps)",
+      "RES": "Basic",
+      "NAME": {
+        "en": "Conehead Zombie"
+      },
+      "SubZombieList": [
+        "sportzball_armor1",
+        "stpatrick_armor1",
+        "easter_armor1",
+        "valentines_armor1",
+        "lunar_armor1",
+        "halloween_armor1",
+        "foodfight_armor1",
+        "feastivus_armor1",
+        "zoybean_armor1"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "tutorialarmor2",
+      "CODENAME": "tutorial_armor2",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(tutorial_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_armor2@ZombieProps)",
+      "RES": "Basic",
+      "NAME": {
+        "en": "Buckethead Zombie"
+      },
+      "SubZombieList": [
+        "sportzball_armor2",
+        "stpatrick_armor2",
+        "easter_armor2",
+        "valentines_armor2",
+        "lunar_armor2",
+        "halloween_armor2",
+        "foodfight_armor2",
+        "feastivus_armor2",
+        "zoybean_armor2"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "tutorialarmor4",
+      "CODENAME": "tutorial_armor4",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(tutorial_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_armor4@ZombieProps)",
+      "RES": "Basic",
+      "NAME": {
+        "en": "Brickhead Zombie"
+      },
+      "SubZombieList": [
+        "easter_armor4"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "tutorialflag",
+      "CODENAME": "tutorial_flag",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(tutorial_flag@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_flag@ZombieProps)",
+      "RES": "BasicFlag",
+      "NAME": {
+        "en": "Flag Zombie"
+      },
+      "SubZombieList": [
+        "birthday_flag",
+        "sportzball_flag",
+        "stpatrick_flag",
+        "easter_flag",
+        "valentines_flag",
+        "lunar_flag",
+        "halloween_flag",
+        "foodfight_flag",
+        "feastivus_flag"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "tutorialrally",
+      "CODENAME": "tutorial_flag_veteran",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(tutorial_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_flag_veteran@ZombieProps)",
+      "RES": "BasicRally",
+      "NAME": {
+        "en": "Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "duckytubebasic",
+      "CODENAME": "duckytube",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(duckytube@ZombieAlmanac)",
+      "PROPS": "RTID(duckytube@ZombieProps)",
+      "RES": "DuckyTube",
+      "NAME": {
+        "en": "Ducky Tube"
+      },
+      "SubZombieList": [
+        "duckytube_armor1",
+        "duckytube_armor2",
+        "duckytube_armor4",
+        "duckytube_flag",
+        "duckytube_flag_veteran"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "duckytubearmor1",
+      "CODENAME": "duckytube_armor1",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(duckytube_armor1@ZombieProps)",
+      "RES": "DuckyTube",
+      "NAME": {
+        "en": "Conehead Ducky Tube"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "duckytubearmor2",
+      "CODENAME": "duckytube_armor2",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(duckytube_armor2@ZombieProps)",
+      "RES": "DuckyTube",
+      "NAME": {
+        "en": "Buckethead Ducky Tube"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "duckytubearmor4",
+      "CODENAME": "duckytube_armor4",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(duckytube_armor4@ZombieProps)",
+      "RES": "DuckyTube",
+      "NAME": {
+        "en": "Brickhead Ducky Tube Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "duckytubeflag",
+      "CODENAME": "duckytube_flag",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(duckytube_flag@ZombieProps)",
+      "RES": "DuckyTubeFlag",
+      "NAME": {
+        "en": "Ducky Tube Flag Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "duckytuberally",
+      "CODENAME": "duckytube_flag_veteran",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(duckytube_flag_veteran@ZombieProps)",
+      "RES": "DuckyTubeRally",
+      "NAME": {
+        "en": "Ducky Tube Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "imp",
+      "CODENAME": "tutorial_imp",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(tutorial_imp@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_imp@ZombieProps)",
+      "RES": "Imp",
+      "NAME": {
+        "en": "Imp"
+      },
+      "SubZombieList": [
+        "sportzball_imp",
+        "easter_egg",
+        "easter_imp",
+        "valentines_imp",
+        "summer_imp",
+        "halloween_imp",
+        "feastivus_imp",
+        "holiday_imp"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "gargantuar",
+      "CODENAME": "tutorial_gargantuar",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(tutorial_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_gargantuar@ZombieProps)",
+      "RES": "Gargantuar",
+      "NAME": {
+        "en": "Gargantuar"
+      },
+      "SubZombieList": [
+        "sportzball_gargantuar",
+        "easter_gargantuar",
+        "valentines_gargantuar",
+        "summer_gargantuar",
+        "halloween_gargantuar",
+        "birthday_gargantuar",
+        "feastivus_gargantuar",
+        "holiday_gargantuar",
+        "zoybean_gargantuar"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "vasegargantuar",
+      "CODENAME": "vase_gargantuar",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(vase_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(vase_gargantuar@ZombieProps)",
+      "RES": "VaseGargantuar",
+      "NAME": {
+        "en": "Vase Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "bobsled",
+      "CODENAME": "bobsled",
+      "OBTAINWORLD": "modern",
+      "ALMANAC": "RTID(bobsled@ZombieAlmanac)",
+      "PROPS": "RTID(bobsled@ZombieProps)",
+      "RES": "BobSled",
+      "NAME": {
+        "en": "Zombie Bobsled Crew"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "bobsledteam",
+      "CODENAME": "bobsled_team",
+      "OBTAINWORLD": "modern",
+      "ALMANAC": "RTID(bobsled_team@ZombieAlmanac)",
+      "PROPS": "RTID(bobsled_team@ZombieProps)",
+      "RES": "BobSledTeam",
+      "NAME": {
+        "en": "Zombie Bobsled Team"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "modernnewspaper",
+      "CODENAME": "modern_newspaper",
+      "OBTAINWORLD": "modern",
+      "ALMANAC": "RTID(newspaper@ZombieAlmanac)",
+      "PROPS": "RTID(newspaper@ZombieProps)",
+      "RES": "ModernNewspaper",
+      "NAME": {
+        "en": "Newspaper Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "modernnewspaperveteran",
+      "CODENAME": "newspaper_veteran",
+      "OBTAINWORLD": "modern",
+      "ALMANAC": "RTID(newspaper_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(newspaper_veteran@ZombieProps)",
+      "RES": "ModernNewspaperVeteran",
+      "NAME": {
+        "en": "Sunday Edition Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "balloon",
+      "CODENAME": "modern_balloon",
+      "SUNCOST": 400,
+      "OBTAINWORLD": "modern",
+      "ALMANAC": "RTID(modern_balloon@ZombieAlmanac)",
+      "PROPS": "RTID(modern_balloon@ZombieProps)",
+      "RES": "Balloon",
+      "NAME": {
+        "en": "Balloon Zombie"
+      },
+      "SubZombieList": [
+        "sportzball_balloon"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "allstar",
+      "CODENAME": "modern_allstar",
+      "OBTAINWORLD": "modern",
+      "ALMANAC": "RTID(modern_allstar@ZombieAlmanac)",
+      "PROPS": "RTID(modern_allstar@ZombieProps)",
+      "RES": "Allstar",
+      "NAME": {
+        "en": "All-Star Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "modernsuperfan",
+      "CODENAME": "modern_superfanimp",
+      "OBTAINWORLD": "modern",
+      "ALMANAC": "RTID(modern_superfanimp@ZombieAlmanac)",
+      "PROPS": "RTID(modern_superfanimp@ZombieProps)",
+      "RES": "ModernSuperFan",
+      "NAME": {
+        "en": "Super-Fan Imp"
+      },
+      "SubZombieList": [
+        "lunar_superfanimp"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "sleighcart",
+      "CODENAME": "zomboni",
+      "OBTAINWORLD": "modern",
+      "ALMANAC": "RTID(zomboni@ZombieAlmanac)",
+      "PROPS": "RTID(zomboni@ZombieProps)",
+      "RES": "Zomboni",
+      "NAME": {
+        "en": "Zomboni"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "catapult",
+      "CODENAME": "catapult",
+      "OBTAINWORLD": "modern",
+      "ALMANAC": "RTID(catapult@ZombieAlmanac)",
+      "PROPS": "RTID(catapult@ZombieProps)",
+      "RES": "Catapult",
+      "NAME": {
+        "en": "Catapult Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "modernzomboss",
+      "CODENAME": "zombossmech_modern1",
+      "OBTAINWORLD": "modern",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_modern1@ZombieProps)",
+      "RES": "ModernZombossMech",
+      "NAME": {
+        "en": "Zombot Historical-tron"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "birthdaybasic",
+      "CODENAME": "birthday",
+      "OBTAINWORLD": "birthday",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "BirthdayBasic",
+      "NAME": {
+        "en": "Birthdayz Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "tutorialbasic",
+      "CODENAME": "birthday_armored",
+      "OBTAINWORLD": "birthday",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "BirthdayBasicArmored",
+      "NAME": {
+        "en": "Birthdayz Zombie (Without Party Hat)"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "birthdayflag",
+      "CODENAME": "birthday_flag",
+      "OBTAINWORLD": "birthday",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_flag@ZombieProps)",
+      "RES": "BirthdayFlag",
+      "NAME": {
+        "en": "Birthdayz Balloon Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "birthdaypharaohinner",
+      "CODENAME": "birthday_pharaoh_inner",
+      "OBTAINWORLD": "birthday",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(pharaoh_inner@ZombieProps)",
+      "RES": "BirthdayPharaohInner",
+      "NAME": {
+        "en": "Birthdayz Cake-faced Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "birthdaypharaoh",
+      "CODENAME": "birthday_pharaoh",
+      "OBTAINWORLD": "birthday",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(birthday_pharaoh@ZombieProps)",
+      "RES": "BirthdayPharaoh",
+      "NAME": {
+        "en": "Birthdayz Cake Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "piratebarrelpusher",
+      "CODENAME": "birthday_barrelroller",
+      "OBTAINWORLD": "birthday",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(birthday_barrelroller@ZombieProps)",
+      "RES": "PirateBarrelPusher",
+      "NAME": {
+        "en": "Birthdayz Barrel Roller Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "birthdaybarrel",
+      "CODENAME": "birthday_barrel",
+      "OBTAINWORLD": "birthday",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(pirate_barrel@ZombieProps)",
+      "RES": "BirthdayBarrel",
+      "NAME": {
+        "en": "Birthdayz Pirate Barrel"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "birthdayjetpack",
+      "CODENAME": "birthday_jetpack",
+      "OBTAINWORLD": "birthday",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(future_jetpack@ZombieProps)",
+      "RES": "BirthdayJetpack",
+      "NAME": {
+        "en": "Birthdayz Jetpack Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "birthdayjester",
+      "CODENAME": "birthday_juggler",
+      "OBTAINWORLD": "birthday",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(dark_juggler@ZombieProps)",
+      "RES": "BirthdayJester",
+      "NAME": {
+        "en": "Birthdayz Jester Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagetroglobite",
+      "CODENAME": "birthday_troglobite",
+      "OBTAINWORLD": "birthday",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_troglobite@ZombieProps)",
+      "RES": "BirthdayTroglobite",
+      "NAME": {
+        "en": "Birthdayz Present Box Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "birthdaygargantuar",
+      "CODENAME": "birthday_gargantuar",
+      "OBTAINWORLD": "birthday",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(birthday_gargantuar@ZombieProps)",
+      "RES": "BirthdayGargantuar",
+      "NAME": {
+        "en": "Surprise Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "sportzbasic",
+      "CODENAME": "sportzball",
+      "OBTAINWORLD": "sportz",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "SportzBasic",
+      "NAME": {
+        "en": "Sportz-ball Basic Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "sportzarmor1",
+      "CODENAME": "sportzball_armor1",
+      "OBTAINWORLD": "sportz",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(sportzball_armor1@ZombieProps)",
+      "RES": "SportzBasic",
+      "NAME": {
+        "en": "Sportz-ball Conehead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "sportzarmor2",
+      "CODENAME": "sportzball_armor2",
+      "OBTAINWORLD": "sportz",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(sportzball_armor2@ZombieProps)",
+      "RES": "SportzBasic",
+      "NAME": {
+        "en": "Sportz-ball Buckethead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "sportzflag",
+      "CODENAME": "sportzball_flag",
+      "OBTAINWORLD": "sportz",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_flag@ZombieProps)",
+      "RES": "SportzFlag",
+      "NAME": {
+        "en": "Sportz-ball Flag Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "sportzwizard",
+      "CODENAME": "sportzball_wizard",
+      "OBTAINWORLD": "sportz",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(dark_wizard@ZombieProps)",
+      "RES": "SportzWizard",
+      "NAME": {
+        "en": "Sportz-ball Referee"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "sportzballoon",
+      "CODENAME": "sportzball_balloon",
+      "OBTAINWORLD": "sportz",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(modern_balloon@ZombieProps)",
+      "RES": "SportzBalloon",
+      "NAME": {
+        "en": "Sportz-balloon Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "sportzimp",
+      "CODENAME": "sportzball_imp",
+      "OBTAINWORLD": "sportz",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(sportzball_imp@ZombieProps)",
+      "RES": "SportzImp",
+      "NAME": {
+        "en": "Soccer Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "sportzgargantuar",
+      "CODENAME": "sportzball_gargantuar",
+      "OBTAINWORLD": "sportz",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(sportzball_gargantuar@ZombieProps)",
+      "RES": "SportzGargantuar",
+      "NAME": {
+        "en": "Sportz-ball Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "foodfightbasic",
+      "CODENAME": "foodfight",
+      "OBTAINWORLD": "foodfight",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(foodfight@ZombieProps)",
+      "RES": "FoodFightBasic",
+      "NAME": {
+        "en": "Foodfight Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "foodfightarmor1",
+      "CODENAME": "foodfight_armor1",
+      "OBTAINWORLD": "foodfight",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(foodfight_armor1@ZombieProps)",
+      "RES": "FoodFightBasic",
+      "NAME": {
+        "en": "Conehead Foodfight Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "foodfightarmor2",
+      "CODENAME": "foodfight_armor2",
+      "OBTAINWORLD": "foodfight",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(foodfight_armor2@ZombieProps)",
+      "RES": "FoodFightBasic",
+      "NAME": {
+        "en": "Buckethead Foodfight Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "foodfightflag",
+      "CODENAME": "foodfight_flag",
+      "OBTAINWORLD": "foodfight",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(foodfight_flag@ZombieProps)",
+      "RES": "FoodFightFlag",
+      "NAME": {
+        "en": "Flag Foodfight Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "foodfightgobblerking",
+      "CODENAME": "foodfight_gobbler_king",
+      "OBTAINWORLD": "foodfight",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(foodfight_gobbler_king@ZombieProps)",
+      "RES": "FoodFightGobblerKing",
+      "NAME": {
+        "en": "Gobbler King"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "foodfightturkey",
+      "CODENAME": "foodfight_turkey",
+      "OBTAINWORLD": "foodfight",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(foodfight_turkey@ZombieProps)",
+      "RES": "FoodFightTurkey",
+      "NAME": {
+        "en": "Zombie Turkey"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "foodfightchefster",
+      "CODENAME": "foodfight_chefster",
+      "OBTAINWORLD": "foodfight",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(dark_juggler@ZombieProps)",
+      "RES": "FoodFightChefster",
+      "NAME": {
+        "en": "Chefster Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "valentinesbasic",
+      "CODENAME": "valentines",
+      "OBTAINWORLD": "valentines",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "ValentinesBasic",
+      "NAME": {
+        "en": "Valentines Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "valentinesarmor1",
+      "CODENAME": "valentines_armor1",
+      "OBTAINWORLD": "valentines",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_armor1@ZombieProps)",
+      "RES": "ValentinesBasic",
+      "NAME": {
+        "en": "Valentines Conehead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "valentinesarmor2",
+      "CODENAME": "valentines_armor2",
+      "OBTAINWORLD": "valentines",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_armor2@ZombieProps)",
+      "RES": "ValentinesBasic",
+      "NAME": {
+        "en": "Valentines Buckethead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "valentinesflag",
+      "CODENAME": "valentines_flag",
+      "OBTAINWORLD": "valentines",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_flag@ZombieProps)",
+      "RES": "ValentinesFlag",
+      "NAME": {
+        "en": "Valentines Flag"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "valentinesimp",
+      "CODENAME": "valentines_imp",
+      "OBTAINWORLD": "valentines",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_imp@ZombieProps)",
+      "RES": "ValentinesImp",
+      "NAME": {
+        "en": "Valentines Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "valentinesgargantuar",
+      "CODENAME": "valentines_gargantuar",
+      "OBTAINWORLD": "valentines",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(valentines_gargantuar@ZombieProps)",
+      "RES": "ValentinesGargantuar",
+      "NAME": {
+        "en": "Valentines Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "stpatricksbasic",
+      "CODENAME": "stpatrick",
+      "OBTAINWORLD": "stpatricks",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "StPatricksBasic",
+      "NAME": {
+        "en": "St. Patrick's Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "stpatricksarmor1",
+      "CODENAME": "stpatrick_armor1",
+      "OBTAINWORLD": "stpatricks",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(stpatrick_armor1@ZombieProps)",
+      "RES": "StPatricksBasic",
+      "NAME": {
+        "en": "St. Patrick's Conehead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "stpatricksarmor2",
+      "CODENAME": "stpatrick_armor2",
+      "OBTAINWORLD": "stpatricks",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(stpatrick_armor2@ZombieProps)",
+      "RES": "StPatricksBasic",
+      "NAME": {
+        "en": "St. Patrick's Buckethead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "stpatricksflag",
+      "CODENAME": "stpatrick_flag",
+      "OBTAINWORLD": "stpatricks",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_flag@ZombieProps)",
+      "RES": "StPatricksFlag",
+      "NAME": {
+        "en": "St. Patrick's Flag"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "stpatricksdodo",
+      "CODENAME": "stpatrick_dodo",
+      "OBTAINWORLD": "stpatricks",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_dodo@ZombieProps)",
+      "RES": "StPatricksDodoRider",
+      "NAME": {
+        "en": "St. Patrick's Dodo Rider"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "stpatricksimp",
+      "CODENAME": "stpatrick_imp",
+      "OBTAINWORLD": "stpatricks",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_imp@ZombieProps)",
+      "RES": "StPatricksImp",
+      "NAME": {
+        "en": "Leprechaun Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "LNYbasic",
+      "CODENAME": "lunar",
+      "OBTAINWORLD": "lunar",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "LNYBasic",
+      "NAME": {
+        "en": "Lunar Year Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "LNYarmor1",
+      "CODENAME": "lunar_armor1",
+      "OBTAINWORLD": "lunar",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(lunar_armor1@ZombieProps)",
+      "RES": "LNYBasic",
+      "NAME": {
+        "en": "Lunar Year Conehead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "LNYarmor2",
+      "CODENAME": "lunar_armor2",
+      "OBTAINWORLD": "lunar",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(lunar_armor2@ZombieProps)",
+      "RES": "LNYBasic",
+      "NAME": {
+        "en": "Lunar Year Buckethead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "LNYflag",
+      "CODENAME": "lunar_flag",
+      "OBTAINWORLD": "lunar",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_flag@ZombieProps)",
+      "RES": "LNYFlag",
+      "NAME": {
+        "en": "Lunar Year Flag"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "LNYwall",
+      "CODENAME": "lunar_camel_segment",
+      "OBTAINWORLD": "lunar",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(lunar_camel_segment@ZombieProps)",
+      "RES": "LNYWall",
+      "NAME": {
+        "en": "Lunar Wall Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "LNYwallonehump",
+      "CODENAME": "lunar_camel_onehump",
+      "OBTAINWORLD": "lunar",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(lunar_camel_onehump@ZombieProps)",
+      "RES": "LNYWall",
+      "NAME": {
+        "en": "Lunar Wall Zombies"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "modernsuperfanLNY",
+      "CODENAME": "lunar_superfanimp",
+      "OBTAINWORLD": "lunar",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(modern_superfanimp@ZombieProps)",
+      "RES": "LNYSuperFan",
+      "NAME": {
+        "en": "Lunar Super-Fan Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptbasic",
+      "CODENAME": "mummy",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(mummy@ZombieAlmanac)",
+      "PROPS": "RTID(mummy@ZombieProps)",
+      "RES": "EgyptBasic",
+      "NAME": {
+        "en": "Mummy Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptarmor1",
+      "CODENAME": "mummy_armor1",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(mummy_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(mummy_armor1@ZombieProps)",
+      "RES": "EgyptBasic",
+      "NAME": {
+        "en": "Conehead Mummy"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptarmor2",
+      "CODENAME": "mummy_armor2",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(mummy_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(mummy_armor2@ZombieProps)",
+      "RES": "EgyptBasic",
+      "NAME": {
+        "en": "Buckethead Mummy"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptarmor4",
+      "CODENAME": "mummy_armor4",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(mummy_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(mummy_armor4@ZombieProps)",
+      "RES": "EgyptBasic",
+      "NAME": {
+        "en": "Pyramid-Head Mummy"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptflag",
+      "CODENAME": "mummy_flag",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(mummy_flag@ZombieAlmanac)",
+      "PROPS": "RTID(mummy_flag@ZombieProps)",
+      "RES": "EgyptFlag",
+      "NAME": {
+        "en": "Flag Mummy Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptrally",
+      "CODENAME": "mummy_flag_veteran",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(mummy_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(mummy_flag_veteran@ZombieProps)",
+      "RES": "EgyptRally",
+      "NAME": {
+        "en": "Egypt Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptra",
+      "CODENAME": "ra",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(ra@ZombieAlmanac)",
+      "PROPS": "RTID(ra@ZombieProps)",
+      "RES": "EgyptRa",
+      "NAME": {
+        "en": "Ra Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptcamel",
+      "CODENAME": "camel_segment",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(camel_segment@ZombieProps)",
+      "RES": "EgyptCamel",
+      "NAME": {
+        "en": "Camel Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptcamelonehump",
+      "CODENAME": "camel_onehump",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(camel_onehump@ZombieAlmanac)",
+      "PROPS": "RTID(camel_onehump@ZombieProps)",
+      "RES": "EgyptCamel",
+      "NAME": {
+        "en": "Camel Zombies"
+      },
+      "SubZombieList": [
+        "camel_segment",
+        "camel_segment_touch",
+        "camel_onehump_touch",
+        "lunar_camel_segment",
+        "lunar_camel_onehump",
+        "feastivus_camel_segment",
+        "feastivus_camel_onehump"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "egyptcameltouch",
+      "CODENAME": "camel_segment_touch",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(camel_segment_touch@ZombieProps)",
+      "RES": "EgyptCamelTouch",
+      "NAME": {
+        "en": "Camel Touch Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptcamelonehumptouch",
+      "CODENAME": "camel_onehump_touch",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(camel_onehump_touch@ZombieProps)",
+      "RES": "EgyptCamelTouch",
+      "NAME": {
+        "en": "Camel Touch Zombies"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptexplorer",
+      "CODENAME": "explorer",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(explorer@ZombieAlmanac)",
+      "PROPS": "RTID(explorer@ZombieProps)",
+      "RES": "EgyptExplorer",
+      "NAME": {
+        "en": "Explorer Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egypttorchlight",
+      "CODENAME": "explorer_veteran",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(explorer_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(explorer_veteran@ZombieProps)",
+      "RES": "EgyptTorchlight",
+      "NAME": {
+        "en": "Torchlight Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egypttombraiser",
+      "CODENAME": "tomb_raiser",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(tomb_raiser@ZombieAlmanac)",
+      "PROPS": "RTID(tomb_raiser@ZombieProps)",
+      "RES": "EgyptTombRaiser",
+      "NAME": {
+        "en": "Tomb Raiser Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptpharaohinner",
+      "CODENAME": "pharaoh_inner",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(pharaoh_inner@ZombieProps)",
+      "RES": "EgyptPharaohInner",
+      "NAME": {
+        "en": "Pharoah"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptpharaohweak",
+      "CODENAME": "pharaoh_weak",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(pharaoh_weak@ZombieProps)",
+      "RES": "EgyptPharaohWeak",
+      "NAME": {
+        "en": "Weaker Pharoah Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptpharaoh",
+      "CODENAME": "pharaoh",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(pharaoh@ZombieAlmanac)",
+      "PROPS": "RTID(pharaoh@ZombieProps)",
+      "RES": "EgyptPharaoh",
+      "NAME": {
+        "en": "Pharoah Zombie"
+      },
+      "SubZombieList": [
+        "pharaoh_inner",
+        "pharaoh_weak",
+        "birthday_pharaoh_inner",
+        "birthday_pharaoh"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "egyptimp",
+      "CODENAME": "egypt_imp",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(egypt_imp@ZombieAlmanac)",
+      "PROPS": "RTID(egypt_imp@ZombieProps)",
+      "RES": "EgyptImp",
+      "NAME": {
+        "en": "Imp Mummy"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptgargantuar",
+      "CODENAME": "egypt_gargantuar",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(egypt_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(egypt_gargantuar@ZombieProps)",
+      "RES": "EgyptGargantuar",
+      "NAME": {
+        "en": "Mummified Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "egyptzomboss",
+      "CODENAME": "zombossmech_egypt",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(zombossmech_egypt@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_egypt@ZombieProps)",
+      "RES": "EgyptZombossMech",
+      "NAME": {
+        "en": "Zombot Sphinx-inator"
+      },
+      "SubZombieList": [
+        "zombossmech_egypt2"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "egyptzomboss",
+      "CODENAME": "zombossmech_egypt2",
+      "OBTAINWORLD": "egypt",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_egypt2@ZombieProps)",
+      "RES": "EgyptZombossMech",
+      "NAME": {
+        "en": "Zombot Sphinx-inator"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "piratebasic",
+      "CODENAME": "pirate",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(pirate@ZombieAlmanac)",
+      "PROPS": "RTID(pirate@ZombieProps)",
+      "RES": "PirateBasic",
+      "NAME": {
+        "en": "Pirate Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "piratearmor1",
+      "CODENAME": "pirate_armor1",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(pirate_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(pirate_armor1@ZombieProps)",
+      "RES": "PirateBasic",
+      "NAME": {
+        "en": "Conehead Pirate"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "piratearmor2",
+      "CODENAME": "pirate_armor2",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(pirate_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(pirate_armor2@ZombieProps)",
+      "RES": "PirateBasic",
+      "NAME": {
+        "en": "Buckethead Pirate"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "piratearmor4",
+      "CODENAME": "pirate_armor4",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(pirate_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(pirate_armor4@ZombieProps)",
+      "RES": "PirateBasic",
+      "NAME": {
+        "en": "Barrelhead Pirate"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "pirateflag",
+      "CODENAME": "pirate_flag",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(pirate_flag@ZombieAlmanac)",
+      "PROPS": "RTID(pirate_flag@ZombieProps)",
+      "RES": "PirateFlag",
+      "NAME": {
+        "en": "Jolly Roger Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "piraterally",
+      "CODENAME": "pirate_flag_veteran",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(pirate_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(pirate_flag_veteran@ZombieProps)",
+      "RES": "PirateRally",
+      "NAME": {
+        "en": "Rally Roger Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "pirateswashbuckler",
+      "CODENAME": "swashbuckler",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(swashbuckler@ZombieAlmanac)",
+      "PROPS": "RTID(swashbuckler@ZombieProps)",
+      "RES": "PirateSwashbuckler",
+      "NAME": {
+        "en": "Swashbuckler Zombie"
+      },
+      "SubZombieList": [
+        "feastivus_swashbuckler"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "pirateseagull",
+      "CODENAME": "seagull",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(seagull@ZombieAlmanac)",
+      "PROPS": "RTID(seagull@ZombieProps)",
+      "RES": "PirateSeagull",
+      "NAME": {
+        "en": "Seagull Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "piratepelican",
+      "CODENAME": "pelican",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(pelican@ZombieAlmanac)",
+      "PROPS": "RTID(pelican@ZombieProps)",
+      "RES": "PiratePelican",
+      "NAME": {
+        "en": "Pelican Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "piratebarrelpusher",
+      "CODENAME": "barrelroller",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(barrelroller@ZombieAlmanac)",
+      "PROPS": "RTID(barrelroller@ZombieProps)",
+      "RES": "PirateBarrelPusher",
+      "NAME": {
+        "en": "Barrel Roller Zombie"
+      },
+      "SubZombieList": [
+        "pirate_barrel",
+        "birthday_barrelroller",
+        "birthday_barrel"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "piratebarrel",
+      "CODENAME": "pirate_barrel",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(pirate_barrel@ZombieProps)",
+      "RES": "PirateBarrel",
+      "NAME": {
+        "en": "Pirate Barrel"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "pirateimpcannon",
+      "CODENAME": "cannon",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(cannon@ZombieAlmanac)",
+      "PROPS": "RTID(cannon@ZombieProps)",
+      "RES": "PirateImpCannon",
+      "NAME": {
+        "en": "Imp Cannon"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "piratecaptain",
+      "CODENAME": "pirate_captain",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(pirate_captain@ZombieAlmanac)",
+      "PROPS": "RTID(pirate_captain@ZombieProps)",
+      "RES": "PirateCaptain",
+      "NAME": {
+        "en": "Pirate Captain Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "pirateparrot",
+      "CODENAME": "pirate_captain_parrot",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(pirate_captain_parrot@ZombieAlmanac)",
+      "PROPS": "RTID(pirate_captain_parrot@ZombieProps)",
+      "RES": "PirateCaptainParrot",
+      "NAME": {
+        "en": "Zombie Parrot"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "pirateimp",
+      "CODENAME": "pirate_imp",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(pirate_imp@ZombieAlmanac)",
+      "PROPS": "RTID(pirate_imp@ZombieProps)",
+      "RES": "PirateImp",
+      "NAME": {
+        "en": "Imp Pirate Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "pirategargantuar",
+      "CODENAME": "pirate_gargantuar",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(pirate_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(pirate_gargantuar@ZombieProps)",
+      "RES": "PirateGargantuar",
+      "NAME": {
+        "en": "Gargantuar Pirate"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "piratezomboss",
+      "CODENAME": "zombossmech_pirate",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(zombossmech_pirate@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_pirate@ZombieProps)",
+      "RES": "PirateZombossMech",
+      "NAME": {
+        "en": "Zombot Plank Walker"
+      },
+      "SubZombieList": [
+        "zombossmech_pirate2"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "piratezomboss",
+      "CODENAME": "zombossmech_pirate2",
+      "OBTAINWORLD": "pirate",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_pirate2@ZombieProps)",
+      "RES": "PirateZombossMech",
+      "NAME": {
+        "en": "Zombot Plank Walker"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboybasic",
+      "CODENAME": "cowboy",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(cowboy@ZombieAlmanac)",
+      "PROPS": "RTID(cowboy@ZombieProps)",
+      "RES": "CowboyBasic",
+      "NAME": {
+        "en": "Cowboy Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboyarmor1",
+      "CODENAME": "cowboy_armor1",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(cowboy_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(cowboy_armor1@ZombieProps)",
+      "RES": "CowboyBasic",
+      "NAME": {
+        "en": "Conehead Cowboy"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboyarmor2",
+      "CODENAME": "cowboy_armor2",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(cowboy_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(cowboy_armor2@ZombieProps)",
+      "RES": "CowboyBasic",
+      "NAME": {
+        "en": "Buckethead Cowboy"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboyarmor4",
+      "CODENAME": "cowboy_armor4",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(cowboy_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(cowboy_armor4@ZombieProps)",
+      "RES": "CowboyBasic",
+      "NAME": {
+        "en": "Cart-head Cowboy"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboyflag",
+      "CODENAME": "cowboy_flag",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(cowboy_flag@ZombieAlmanac)",
+      "PROPS": "RTID(cowboy_flag@ZombieProps)",
+      "RES": "CowboyFlag",
+      "NAME": {
+        "en": "Flag Cowboy Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboyrally",
+      "CODENAME": "cowboy_flag_veteran",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(cowboy_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(cowboy_flag_veteran@ZombieProps)",
+      "RES": "CowboyRally",
+      "NAME": {
+        "en": "Cowboy Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboyprospector",
+      "CODENAME": "prospector",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(prospector@ZombieAlmanac)",
+      "PROPS": "RTID(prospector@ZombieProps)",
+      "RES": "CowboyProspector",
+      "NAME": {
+        "en": "Prospector Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboypiano",
+      "CODENAME": "piano",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(piano@ZombieAlmanac)",
+      "PROPS": "RTID(piano@ZombieProps)",
+      "RES": "CowboyPiano",
+      "NAME": {
+        "en": "Pianist Zombie"
+      },
+      "SubZombieList": [
+        "feastivus_piano"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "cowboyponcho",
+      "CODENAME": "poncho",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(poncho@ZombieAlmanac)",
+      "PROPS": "RTID(poncho@ZombieProps)",
+      "RES": "CowboyPoncho",
+      "NAME": {
+        "en": "Poncho Zombie"
+      },
+      "SubZombieList": [
+        "easter_poncho",
+        "poncho_no_plate",
+        "poncho_plate",
+        "feastivus_poncho",
+        "feastivus_poncho_plate",
+        "feastivus_poncho_no_plate"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "cowboyponchonoshield",
+      "CODENAME": "poncho_no_plate",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(poncho_no_plate@ZombieProps)",
+      "RES": "CowboyPoncho",
+      "NAME": {
+        "en": "Poncho Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboyponchoshield",
+      "CODENAME": "poncho_plate",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(poncho_plate@ZombieProps)",
+      "RES": "CowboyPoncho",
+      "NAME": {
+        "en": "Poncho Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboychickenfarmer",
+      "CODENAME": "chicken_farmer",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(chicken_farmer@ZombieAlmanac)",
+      "PROPS": "RTID(chicken_farmer@ZombieProps)",
+      "RES": "CowboyChickenFarmer",
+      "NAME": {
+        "en": "Chicken Wrangler Zombie"
+      },
+      "SubZombieList": [
+        "foodfight_gobbler_king"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "cowboychicken",
+      "CODENAME": "chicken",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(chicken@ZombieAlmanac)",
+      "PROPS": "RTID(chicken@ZombieProps)",
+      "RES": "CowboyChicken",
+      "NAME": {
+        "en": "Zombie Chicken"
+      },
+      "SubZombieList": [
+        "chicken_pumpkin",
+        "foodfight_turkey"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "cowboychickenpumpkin",
+      "CODENAME": "chicken_pumpkin",
+      "OBTAINWORLD": "market",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(chicken_pumpkin@ZombieProps)",
+      "RES": "CowboyChickenPumpkin",
+      "NAME": {
+        "en": "Jack O'Chicken"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboybull",
+      "CODENAME": "west_bull",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(west_bull@ZombieAlmanac)",
+      "PROPS": "RTID(west_bull@ZombieProps)",
+      "RES": "CowboyBull",
+      "NAME": {
+        "en": "Machine Bull"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboybullblack",
+      "CODENAME": "west_bull_veteran",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(west_bull_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(west_bull_veteran@ZombieProps)",
+      "RES": "CowboyBlackBull",
+      "NAME": {
+        "en": "Rodeo Legend"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboyimp",
+      "CODENAME": "west_bullrider",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(west_bullrider@ZombieAlmanac)",
+      "PROPS": "RTID(west_bullrider@ZombieProps)",
+      "RES": "CowboyImp",
+      "NAME": {
+        "en": "Zombie Bull Rider"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboygargantuar",
+      "CODENAME": "cowboy_gargantuar",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(cowboy_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(cowboy_gargantuar@ZombieProps)",
+      "RES": "CowboyGargantuar",
+      "NAME": {
+        "en": "Wild West Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "cowboyzomboss",
+      "CODENAME": "zombossmech_cowboy",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(zombossmech_cowboy@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_cowboy@ZombieProps)",
+      "RES": "CowboyZombossMech",
+      "NAME": {
+        "en": "Zombot War Wagon"
+      },
+      "SubZombieList": [
+        "zombossmech_cowboy2"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "cowboyzomboss",
+      "CODENAME": "zombossmech_cowboy2",
+      "OBTAINWORLD": "cowboy",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_cowboy2@ZombieProps)",
+      "RES": "CowboyZombossMech",
+      "NAME": {
+        "en": "Zombot War Wagon"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "easterbasic",
+      "CODENAME": "easter",
+      "OBTAINWORLD": "easter",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "EasterBasic",
+      "NAME": {
+        "en": "Easter Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "easterarmor1",
+      "CODENAME": "easter_armor1",
+      "OBTAINWORLD": "easter",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(easter_armor1@ZombieProps)",
+      "RES": "EasterBasic",
+      "NAME": {
+        "en": "Easter Conehead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "easterarmor2",
+      "CODENAME": "easter_armor2",
+      "OBTAINWORLD": "easter",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(easter_armor2@ZombieProps)",
+      "RES": "EasterBasic",
+      "NAME": {
+        "en": "Easter Buckethead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "easterarmor4",
+      "CODENAME": "easter_armor4",
+      "OBTAINWORLD": "easter",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(easter_armor4@ZombieProps)",
+      "RES": "EasterBasic",
+      "NAME": {
+        "en": "Easter Brickhead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "easterflag",
+      "CODENAME": "easter_flag",
+      "OBTAINWORLD": "easter",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_flag@ZombieProps)",
+      "RES": "EasterFlag",
+      "NAME": {
+        "en": "Easter Flag Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eastercamel",
+      "CODENAME": "easter_camel_segment",
+      "OBTAINWORLD": "easter",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(easter_camel_segment@ZombieProps)",
+      "RES": "EasterCamel",
+      "NAME": {
+        "en": "Easter Panel Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eastercamelonehump",
+      "CODENAME": "easter_camel_onehump",
+      "OBTAINWORLD": "easter",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(easter_camel_onehump@ZombieProps)",
+      "RES": "EasterCamel",
+      "NAME": {
+        "en": "Easter Panel Zombies"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "easterponcho",
+      "CODENAME": "easter_poncho",
+      "OBTAINWORLD": "",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(poncho@ZombieProps)",
+      "RES": "EasterPoncho",
+      "NAME": {
+        "en": "Easter Poncho Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "easterwizard",
+      "CODENAME": "easter_wizard",
+      "OBTAINWORLD": "easter",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(dark_wizard@ZombieProps)",
+      "RES": "EasterWizard",
+      "NAME": {
+        "en": "Easter Wizard"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "easteregg",
+      "CODENAME": "easter_egg",
+      "OBTAINWORLD": "easter",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(easter_egg@ZombieProps)",
+      "RES": "EasterEgg",
+      "NAME": {
+        "en": "Easter Egg"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "easterimp",
+      "CODENAME": "easter_imp",
+      "OBTAINWORLD": "easter",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_imp@ZombieProps)",
+      "RES": "EasterImp",
+      "NAME": {
+        "en": "Easter Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eastergargantuar",
+      "CODENAME": "easter_gargantuar",
+      "OBTAINWORLD": "easter",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(easter_gargantuar@ZombieProps)",
+      "RES": "EasterGargantuar",
+      "NAME": {
+        "en": "Easter Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidaybasic",
+      "CODENAME": "feastivus",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(feastivus@ZombieProps)",
+      "RES": "HolidayBasic",
+      "NAME": {
+        "en": "Feastivus Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidayarmor1",
+      "CODENAME": "feastivus_armor1",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(feastivus_armor1@ZombieProps)",
+      "RES": "HolidayBasic",
+      "NAME": {
+        "en": "Feastivus Conehead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidayarmor2",
+      "CODENAME": "feastivus_armor2",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(feastivus_armor2@ZombieProps)",
+      "RES": "HolidayBasic",
+      "NAME": {
+        "en": "Feastivus Buckethead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidayflag",
+      "CODENAME": "feastivus_flag",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(feastivus_flag@ZombieProps)",
+      "RES": "HolidayFlag",
+      "NAME": {
+        "en": "Feastivus Flag Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidaycamel",
+      "CODENAME": "feastivus_camel_segment",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(feastivus_camel_segment@ZombieProps)",
+      "RES": "HolidayCamel",
+      "NAME": {
+        "en": "Feastivus Camel Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidaycamelonehump",
+      "CODENAME": "feastivus_camel_onehump",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(feastivus_camel_onehump@ZombieProps)",
+      "RES": "HolidayCamel",
+      "NAME": {
+        "en": "Feastivus Camel Zombies"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidayswashbuckler",
+      "CODENAME": "feastivus_swashbuckler",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(swashbuckler@ZombieProps)",
+      "RES": "HolidaySwashbuckler",
+      "NAME": {
+        "en": "Feastivus Swashbuckler Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidaypiano",
+      "CODENAME": "feastivus_piano",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(piano@ZombieProps)",
+      "RES": "HolidayPiano",
+      "NAME": {
+        "en": "Feastivus Pianist Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidayponcho",
+      "CODENAME": "feastivus_poncho",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(poncho@ZombieProps)",
+      "RES": "HolidayPoncho",
+      "NAME": {
+        "en": "Feastivus Poncho Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidayponchonoshield",
+      "CODENAME": "feastivus_poncho_no_plate",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(poncho_no_plate@ZombieProps)",
+      "RES": "HolidayPoncho",
+      "NAME": {
+        "en": "Feastivus Poncho Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidayponchoshield",
+      "CODENAME": "feastivus_poncho_plate",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(poncho_plate@ZombieProps)",
+      "RES": "HolidayPoncho",
+      "NAME": {
+        "en": "Feastivus Poncho Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidayimp",
+      "CODENAME": "feastivus_imp",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_imp@ZombieProps)",
+      "RES": "HolidayImp",
+      "NAME": {
+        "en": "Feastivus Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidayimp2",
+      "CODENAME": "holiday_imp",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_imp@ZombieProps)",
+      "RES": "HolidayImp2",
+      "NAME": {
+        "en": "Holiday Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidaygargantuar",
+      "CODENAME": "feastivus_gargantuar",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(feastivus_gargantuar@ZombieProps)",
+      "RES": "HolidayGargantuar",
+      "NAME": {
+        "en": "Feastivus Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "holidaygargantuar2",
+      "CODENAME": "holiday_gargantuar",
+      "OBTAINWORLD": "feastivus",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(holiday_gargantuar@ZombieProps)",
+      "RES": "HolidayGargantuar2",
+      "NAME": {
+        "en": "Holiday Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futurebasic",
+      "CODENAME": "future",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(future@ZombieAlmanac)",
+      "PROPS": "RTID(future@ZombieProps)",
+      "RES": "FutureBasic",
+      "NAME": {
+        "en": "Future Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futurearmor1",
+      "CODENAME": "future_armor1",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(future_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(future_armor1@ZombieProps)",
+      "RES": "FutureBasic",
+      "NAME": {
+        "en": "Future Conehead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futurearmor2",
+      "CODENAME": "future_armor2",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(future_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(future_armor2@ZombieProps)",
+      "RES": "FutureBasic",
+      "NAME": {
+        "en": "Future Buckethead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futurearmor4",
+      "CODENAME": "future_armor4",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(future_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(future_armor4@ZombieProps)",
+      "RES": "FutureBasic",
+      "NAME": {
+        "en": "Holo Head Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futureflag",
+      "CODENAME": "future_flag",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(future_flag@ZombieAlmanac)",
+      "PROPS": "RTID(future_flag@ZombieProps)",
+      "RES": "FutureFlag",
+      "NAME": {
+        "en": "Future Flag Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futurerally",
+      "CODENAME": "future_flag_veteran",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(future_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(future_flag_veteran@ZombieProps)",
+      "RES": "FutureRally",
+      "NAME": {
+        "en": "Robo-Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futurejetpack",
+      "CODENAME": "future_jetpack",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(future_jetpack@ZombieAlmanac)",
+      "PROPS": "RTID(future_jetpack@ZombieProps)",
+      "RES": "FutureJetpack",
+      "NAME": {
+        "en": "Jetpack Zombie"
+      },
+      "SubZombieList": [
+        "birthday_jetpack"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "futurejetpackveteran",
+      "CODENAME": "future_jetpack_veteran",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(future_jetpack_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(future_jetpack_veteran@ZombieProps)",
+      "RES": "FutureJetpackVeteran",
+      "NAME": {
+        "en": "Blastronaut Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futurejetpackdisco",
+      "CODENAME": "future_jetpack_disco",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(future_jetpack_disco@ZombieAlmanac)",
+      "PROPS": "RTID(future_jetpack_disco@ZombieProps)",
+      "RES": "FutureJetpackDisco",
+      "NAME": {
+        "en": "Disco Jetpack Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futureprotector",
+      "CODENAME": "future_protector",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(future_protector@ZombieAlmanac)",
+      "PROPS": "RTID(future_protector@ZombieProps)",
+      "RES": "FutureProtector",
+      "NAME": {
+        "en": "Force Shield Zombie"
+      },
+      "SubZombieList": [
+        "future_protector_shield",
+        "future_infinut_shield",
+        "modern_moonflower_shield"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "futureprotectorshield",
+      "CODENAME": "future_protector_shield",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(future_protector_shield@ZombieProps)",
+      "RES": "FutureProtectorShield",
+      "NAME": {
+        "en": "Shield"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futureinfinutshield",
+      "CODENAME": "future_infinut_shield",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(future_infinut_shield@ZombieProps)",
+      "RES": "FutureInfiNutShield",
+      "NAME": {
+        "en": "Infi-nut Shield"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "modernmoonflowershield",
+      "CODENAME": "modern_moonflower_shield",
+      "OBTAINWORLD": "frontyard",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(modern_moonflower_shield@ZombieProps)",
+      "RES": "ModernMoonflowerShield",
+      "NAME": {
+        "en": "Moonflower Shield"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futuremechcone",
+      "CODENAME": "mech_cone",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(mech_cone@ZombieAlmanac)",
+      "PROPS": "RTID(mech_cone@ZombieProps)",
+      "RES": "FutureMechCone",
+      "NAME": {
+        "en": "Robo-Cone Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futuremechfootball",
+      "CODENAME": "football_mech",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(football_mech@ZombieAlmanac)",
+      "PROPS": "RTID(football_mech@ZombieProps)",
+      "RES": "FutureMechFootball",
+      "NAME": {
+        "en": "Mecha-Football Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futuremechdisco",
+      "CODENAME": "disco_mech",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(disco_mech@ZombieAlmanac)",
+      "PROPS": "RTID(disco_mech@ZombieProps)",
+      "RES": "FutureMechDisco",
+      "NAME": {
+        "en": "Disco-tron 3000"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futureimp",
+      "CODENAME": "future_imp",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(future_imp@ZombieAlmanac)",
+      "PROPS": "RTID(future_imp@ZombieProps)",
+      "RES": "FutureImp",
+      "NAME": {
+        "en": "Bug Bot Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futuregargantuar",
+      "CODENAME": "future_gargantuar",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(future_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(future_gargantuar@ZombieProps)",
+      "RES": "FutureGargantuar",
+      "NAME": {
+        "en": "Gargantuar Prime"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "futurezomboss",
+      "CODENAME": "zombossmech_future",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(zombossmech_future@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_future@ZombieProps)",
+      "RES": "FutureZombossMech",
+      "NAME": {
+        "en": "Zombot Tommorrow-tron"
+      },
+      "SubZombieList": [
+        "zombossmech_future2",
+        "zombossmech_modern1"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "futurezomboss",
+      "CODENAME": "zombossmech_future2",
+      "OBTAINWORLD": "future",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_future2@ZombieProps)",
+      "RES": "FutureZombossMech",
+      "NAME": {
+        "en": "Zombot Tommorrow-tron"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkbasic",
+      "CODENAME": "dark",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark@ZombieAlmanac)",
+      "PROPS": "RTID(dark@ZombieProps)",
+      "RES": "DarkBasic",
+      "NAME": {
+        "en": "Peasant Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkarmor1",
+      "CODENAME": "dark_armor1",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(dark_armor1@ZombieProps)",
+      "RES": "DarkBasic",
+      "NAME": {
+        "en": "Conehead Peasant"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkarmor2",
+      "CODENAME": "dark_armor2",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(dark_armor2@ZombieProps)",
+      "RES": "DarkBasic",
+      "NAME": {
+        "en": "Buckethead Peasant"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkarmor3",
+      "CODENAME": "dark_armor3",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_armor3@ZombieAlmanac)",
+      "PROPS": "RTID(dark_armor3@ZombieProps)",
+      "RES": "DarkBasic",
+      "NAME": {
+        "en": "Knight Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkarmor4",
+      "CODENAME": "dark_armor4",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(dark_armor4@ZombieProps)",
+      "RES": "DarkBasic",
+      "NAME": {
+        "en": "Turret-headed Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkflag",
+      "CODENAME": "dark_flag",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_flag@ZombieAlmanac)",
+      "PROPS": "RTID(dark_flag@ZombieProps)",
+      "RES": "DarkFlag",
+      "NAME": {
+        "en": "Peasant Flag Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkrally",
+      "CODENAME": "dark_flag_veteran",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(dark_flag_veteran@ZombieProps)",
+      "RES": "DarkRally",
+      "NAME": {
+        "en": "Peasant Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkjester",
+      "CODENAME": "dark_juggler",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_juggler@ZombieAlmanac)",
+      "PROPS": "RTID(dark_juggler@ZombieProps)",
+      "RES": "DarkJester",
+      "NAME": {
+        "en": "Jester Zombie"
+      },
+      "SubZombieList": [
+        "foodfight_chefster",
+        "birthday_juggler"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "darkwizard",
+      "CODENAME": "dark_wizard",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_wizard@ZombieAlmanac)",
+      "PROPS": "RTID(dark_wizard@ZombieProps)",
+      "RES": "DarkWizard",
+      "NAME": {
+        "en": "Wizard Zombie"
+      },
+      "SubZombieList": [
+        "easter_wizard"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "darkwizardveteran",
+      "CODENAME": "dark_wizard_veteran",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_wizard_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(dark_wizard_veteran@ZombieProps)",
+      "RES": "DarkWizardVeteran",
+      "NAME": {
+        "en": "Master Enchanter Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkking",
+      "CODENAME": "dark_king",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_king@ZombieAlmanac)",
+      "PROPS": "RTID(dark_king@ZombieProps)",
+      "RES": "DarkKing",
+      "NAME": {
+        "en": "Zombie King"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkkingveteran",
+      "CODENAME": "dark_king_veteran",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_king_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(dark_king_veteran@ZombieProps)",
+      "RES": "DarkKingVeteran",
+      "NAME": {
+        "en": "Arthur King Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkdragonimp",
+      "CODENAME": "dark_imp_dragon",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_imp_dragon@ZombieAlmanac)",
+      "PROPS": "RTID(dark_imp_dragon@ZombieProps)",
+      "RES": "DragonImp",
+      "NAME": {
+        "en": "Imp Dragon Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkimp",
+      "CODENAME": "dark_imp",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_imp@ZombieAlmanac)",
+      "PROPS": "RTID(dark_imp@ZombieProps)",
+      "RES": "DarkImp",
+      "NAME": {
+        "en": "Imp Monk Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkgargantuar",
+      "CODENAME": "dark_gargantuar",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(dark_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(dark_gargantuar@ZombieProps)",
+      "RES": "DarkGargantuar",
+      "NAME": {
+        "en": "Dark Ages Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "darkzomboss",
+      "CODENAME": "zombossmech_dark",
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(zombossmech_dark@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_dark@ZombieProps)",
+      "RES": "DarkZombossMech",
+      "NAME": {
+        "en": "Zombot Dark Dragon"
+      },
+      "SubZombieList": [
+        "zombossmech_dark2"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "darkzomboss",
+      "CODENAME": "zombossmech_dark2",
+      "CannotCarryPlantfoodsInWaves": true,
+      "OBTAINWORLD": "dark",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_dark2@ZombieProps)",
+      "RES": "DarkZombossMech",
+      "NAME": {
+        "en": "Zombot Dark Dragon"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachbasic",
+      "CODENAME": "beach",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach@ZombieAlmanac)",
+      "PROPS": "RTID(beach@ZombieProps)",
+      "RES": "BeachBasic",
+      "NAME": {
+        "en": "Pompadour Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beacharmor1",
+      "CODENAME": "beach_armor1",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(beach_armor1@ZombieProps)",
+      "RES": "BeachBasic",
+      "NAME": {
+        "en": "Pompadour Conehead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beacharmor2",
+      "CODENAME": "beach_armor2",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(beach_armor2@ZombieProps)",
+      "RES": "BeachBasic",
+      "NAME": {
+        "en": "Pompadour Buckethead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beacharmor4",
+      "CODENAME": "beach_armor4",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(beach_armor4@ZombieProps)",
+      "RES": "BeachBasic",
+      "NAME": {
+        "en": "Crab-head Pompadour"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachfemale",
+      "CODENAME": "beach_fem",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_fem@ZombieAlmanac)",
+      "PROPS": "RTID(beach_fem@ZombieProps)",
+      "RES": "BeachFemale",
+      "NAME": {
+        "en": "Bikini Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachfemalearmor1",
+      "CODENAME": "beach_fem_armor1",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_fem_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(beach_fem_armor1@ZombieProps)",
+      "RES": "BeachFemale",
+      "NAME": {
+        "en": "Bikini Conehead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachfemalearmor2",
+      "CODENAME": "beach_fem_armor2",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_fem_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(beach_fem_armor2@ZombieProps)",
+      "RES": "BeachFemale",
+      "NAME": {
+        "en": "Bikini Buckethead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachfemalearmor4",
+      "CODENAME": "beach_fem_armor4",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_fem_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(beach_fem_armor4@ZombieProps)",
+      "RES": "BeachFemale",
+      "NAME": {
+        "en": "Crab-head Bikini"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachflag",
+      "CODENAME": "beach_flag",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_flag@ZombieAlmanac)",
+      "PROPS": "RTID(beach_flag@ZombieProps)",
+      "RES": "BeachFlag",
+      "NAME": {
+        "en": "Beach Flag Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachrally",
+      "CODENAME": "beach_flag_veteran",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(beach_flag_veteran@ZombieProps)",
+      "RES": "BeachRally",
+      "NAME": {
+        "en": "Beach Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachsnorkel",
+      "CODENAME": "beach_snorkel",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_snorkel@ZombieAlmanac)",
+      "PROPS": "RTID(beach_snorkel@ZombieProps)",
+      "RES": "BeachSnorkel",
+      "NAME": {
+        "en": "Snorkel Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachsurfer",
+      "CODENAME": "beach_surfer",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_surfer@ZombieAlmanac)",
+      "PROPS": "RTID(beach_surfer@ZombieProps)",
+      "RES": "BeachSurfer",
+      "NAME": {
+        "en": "Surfer Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachsurferveteran",
+      "CODENAME": "beach_surfer_veteran",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_surfer_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(beach_surfer_veteran@ZombieProps)",
+      "RES": "BeachSurferVeteran",
+      "NAME": {
+        "en": "Motor Surfer Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachoctopus",
+      "CODENAME": "beach_octopus",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_octopus@ZombieAlmanac)",
+      "PROPS": "RTID(beach_octopus@ZombieProps)",
+      "RES": "BeachOctopus",
+      "NAME": {
+        "en": "Octopus Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachfisher",
+      "CODENAME": "beach_fisherman",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_fisherman@ZombieAlmanac)",
+      "PROPS": "RTID(beach_fisherman@ZombieProps)",
+      "RES": "BeachFisher",
+      "NAME": {
+        "en": "Fisherman Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachimp",
+      "CODENAME": "beach_imp",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_imp@ZombieAlmanac)",
+      "PROPS": "RTID(beach_imp@ZombieProps)",
+      "RES": "BeachImp",
+      "NAME": {
+        "en": "Imp Mermaid Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachgargantuar",
+      "CODENAME": "beach_gargantuar",
+      "OBTAINWORLD": "beach",
+      "ALMANAC": "RTID(beach_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(beach_gargantuar@ZombieProps)",
+      "RES": "BeachGargantuar",
+      "NAME": {
+        "en": "Deep Sea Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "beachzomboss",
+      "CODENAME": "zombossmech_beach",
+      "OBTAINWORLD": "water",
+      "ALMANAC": "RTID(zombossmech_beach@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_beach@ZombieProps)",
+      "RES": "BeachZombossMech",
+      "NAME": {
+        "en": "Zombot Sharktronic Sub"
+      },
+      "SubZombieList": [
+        "zombossmech_beach2"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "beachzomboss",
+      "CODENAME": "zombossmech_beach2",
+      "OBTAINWORLD": "water",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_beach2@ZombieProps)",
+      "RES": "BeachZombossMech",
+      "NAME": {
+        "en": "Zombot Sharktronic Sub"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagebasic",
+      "CODENAME": "iceage",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage@ZombieAlmanac)",
+      "PROPS": "RTID(iceage@ZombieProps)",
+      "RES": "IceageBasic",
+      "NAME": {
+        "en": "Cave Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagearmor1",
+      "CODENAME": "iceage_armor1",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_armor1@ZombieProps)",
+      "RES": "IceageBasic",
+      "NAME": {
+        "en": "Cave Conehead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagearmor2",
+      "CODENAME": "iceage_armor2",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_armor2@ZombieProps)",
+      "RES": "IceageBasic",
+      "NAME": {
+        "en": "Cave Buckethead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagearmor3",
+      "CODENAME": "iceage_armor3",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_armor3@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_armor3@ZombieProps)",
+      "RES": "IceageBasic",
+      "NAME": {
+        "en": "Blockhead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagearmor4",
+      "CODENAME": "iceage_armor4",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_armor4@ZombieProps)",
+      "RES": "IceageBasic",
+      "NAME": {
+        "en": "Mammoth-headed Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceageflag",
+      "CODENAME": "iceage_flag",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_flag@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_flag@ZombieProps)",
+      "RES": "IceageFlag",
+      "NAME": {
+        "en": "Cave Flag Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagerally",
+      "CODENAME": "iceage_flag_veteran",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_flag_veteran@ZombieProps)",
+      "RES": "IceageRally",
+      "NAME": {
+        "en": "Cave Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagehunter",
+      "CODENAME": "iceage_hunter",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_hunter@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_hunter@ZombieProps)",
+      "RES": "IceageHunter",
+      "NAME": {
+        "en": "Hunter Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagehunterveteran",
+      "CODENAME": "iceage_hunter_veteran",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_hunter_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_hunter_veteran@ZombieProps)",
+      "RES": "IceageHunterVeteran",
+      "NAME": {
+        "en": "Hunter Leader Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagedodo",
+      "CODENAME": "iceage_dodo",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_dodo@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_dodo@ZombieProps)",
+      "RES": "IceageDodoRider",
+      "NAME": {
+        "en": "Dodo Rider Zombie"
+      },
+      "SubZombieList": [
+        "stpatrick_dodo"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "iceagetroglobite",
+      "CODENAME": "iceage_troglobite",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_troglobite@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_troglobite@ZombieProps)",
+      "RES": "IceageTroglobite",
+      "NAME": {
+        "en": "Troglobite"
+      },
+      "SubZombieList": [
+        "iceage_troglobite_1block",
+        "iceage_troglobite_2block"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "iceagetroglobite",
+      "CODENAME": "iceage_troglobite_1block",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_troglobite_1block@ZombieProps)",
+      "RES": "IceageTroglobite",
+      "NAME": {
+        "en": "Troglobite One Block"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagetroglobite",
+      "CODENAME": "iceage_troglobite_2block",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_troglobite_2block@ZombieProps)",
+      "RES": "IceageTroglobite",
+      "NAME": {
+        "en": "Troglobite Two Blocks"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagetroglobiteveteran",
+      "CODENAME": "iceage_troglobite_veteran",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_troglobite_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_troglobite_veteran@ZombieProps)",
+      "RES": "IceageTroglobiteVeteran",
+      "NAME": {
+        "en": "Troglobite Warchief"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceageweaselhoarder",
+      "CODENAME": "iceage_weaselhoarder",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_weaselhoarder@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_weaselhoarder@ZombieProps)",
+      "RES": "IceageWeaselHoarder",
+      "NAME": {
+        "en": "Weasel Hoarder"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceageweasel",
+      "CODENAME": "iceage_weasel",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_weasel@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_weasel@ZombieProps)",
+      "RES": "IceageWeasel",
+      "NAME": {
+        "en": "Ice Weasel"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceageimp",
+      "CODENAME": "iceage_imp",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_imp@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_imp@ZombieProps)",
+      "RES": "IceageImp",
+      "NAME": {
+        "en": "Yeti Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagegargantuar",
+      "CODENAME": "iceage_gargantuar",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(iceage_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(iceage_gargantuar@ZombieProps)",
+      "RES": "IceageGargantuar",
+      "NAME": {
+        "en": "Sloth Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "iceagezomboss",
+      "CODENAME": "zombossmech_iceage",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(zombossmech_iceage@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_iceage@ZombieProps)",
+      "RES": "IceageZombossMech",
+      "NAME": {
+        "en": "Zombot Tuskmaster 10,000 BC"
+      },
+      "SubZombieList": [
+        "zombossmech_iceage2"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "iceagezomboss",
+      "CODENAME": "zombossmech_iceage2",
+      "OBTAINWORLD": "ice",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_iceage2@ZombieProps)",
+      "RES": "IceageZombossMech",
+      "NAME": {
+        "en": "Zombot Tuskmaster 10,000 BC"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcitybasic",
+      "CODENAME": "lostcity",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity@ZombieProps)",
+      "RES": "LostcityBasic",
+      "NAME": {
+        "en": "Adventurer Zombie"
+      },
+      "SubZombieList": [
+        "summer_basic",
+        "summer_armor1",
+        "summer_armor2",
+        "summer_flag"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "lostcityarmor1",
+      "CODENAME": "lostcity_armor1",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_armor1@ZombieProps)",
+      "RES": "LostcityBasic",
+      "NAME": {
+        "en": "Conehead Adventurer"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcityarmor2",
+      "CODENAME": "lostcity_armor2",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_armor2@ZombieProps)",
+      "RES": "LostcityBasic",
+      "NAME": {
+        "en": "Buckethead Adventurer"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcityarmor4",
+      "CODENAME": "lostcity_armor4",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_armor4@ZombieProps)",
+      "RES": "LostcityBasic",
+      "NAME": {
+        "en": "Tent-headed Adventurer"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcityflag",
+      "CODENAME": "lostcity_flag",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_flag@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_flag@ZombieProps)",
+      "RES": "LostcityFlag",
+      "NAME": {
+        "en": "Flag Adventurer"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcityrally",
+      "CODENAME": "lostcity_flag_veteran",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_flag_veteran@ZombieProps)",
+      "RES": "LostcityRally",
+      "NAME": {
+        "en": "Rally Adventurer"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcitylostpilot",
+      "CODENAME": "lostcity_lostpilot",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_lostpilot@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_lostpilot@ZombieProps)",
+      "RES": "LostcityLostPilot",
+      "NAME": {
+        "en": "Lost Pilot Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcitylostpilotveteran",
+      "CODENAME": "lostcity_lostpilot_veteran",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_lostpilot_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_lostpilot_veteran@ZombieProps)",
+      "RES": "LostcityLostPilotVeteran",
+      "NAME": {
+        "en": "Rescue Pilot Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcityexcavator",
+      "CODENAME": "lostcity_excavator",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_excavator@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_excavator@ZombieProps)",
+      "RES": "LostcityExcavator",
+      "NAME": {
+        "en": "Excavator Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcityjane",
+      "CODENAME": "lostcity_jane",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_jane@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_jane@ZombieProps)",
+      "RES": "LostcityJane",
+      "NAME": {
+        "en": "Parasol Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcitybug",
+      "CODENAME": "lostcity_bug",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_bug@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_bug@ZombieProps)",
+      "RES": "LostcityBasic",
+      "NAME": {
+        "en": "Bug Zombie"
+      },
+      "SubZombieList": [
+        "lostcity_bug_armor1",
+        "lostcity_bug_armor2",
+        "lostcity_bug_armor4",
+        "summer_bug",
+        "summer_bug_armor1",
+        "summer_bug_armor2",
+        "summer_bug_armor4"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "lostcitybugarmor1",
+      "CODENAME": "lostcity_bug_armor1",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_bug_armor1@ZombieProps)",
+      "RES": "LostcityBasic",
+      "NAME": {
+        "en": "Conehead Bug Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcitybugarmor2",
+      "CODENAME": "lostcity_bug_armor2",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_bug_armor2@ZombieProps)",
+      "RES": "LostcityBasic",
+      "NAME": {
+        "en": "Buckethead Bug Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcitybugarmor4",
+      "CODENAME": "lostcity_bug_armor4",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_bug_armor4@ZombieProps)",
+      "RES": "LostcityBasic",
+      "NAME": {
+        "en": "Tent-headed Bug Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcityrelichunter",
+      "CODENAME": "lostcity_relichunter",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_relichunter@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_relichunter@ZombieProps)",
+      "RES": "LostcityRelicHunter",
+      "NAME": {
+        "en": "Relic Hunter Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcityimpporter",
+      "CODENAME": "lostcity_impporter",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_impporter@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_impporter@ZombieProps)",
+      "RES": "LostcityImpPorter",
+      "NAME": {
+        "en": "Imp Porter Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcitycrystalskull",
+      "CODENAME": "lostcity_crystalskull",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_crystalskull@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_crystalskull@ZombieProps)",
+      "RES": "LostcityCrystalSkull",
+      "NAME": {
+        "en": "Turquoise Skull Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcityimp",
+      "CODENAME": "lostcity_imp",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_imp@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_imp@ZombieProps)",
+      "RES": "LostcityImp",
+      "NAME": {
+        "en": "Lost City Imp Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcitygargantuar",
+      "CODENAME": "lostcity_gargantuar",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(lostcity_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(lostcity_gargantuar@ZombieProps)",
+      "RES": "LostcityGargantuar",
+      "NAME": {
+        "en": "Porter Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lostcityzomboss",
+      "CODENAME": "zombossmech_lostcity",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(zombossmech_lostcity@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_lostcity@ZombieProps)",
+      "RES": "LostcityZombossMech",
+      "NAME": {
+        "en": "Zombot Aerostatic Gondola"
+      },
+      "SubZombieList": [
+        "zombossmech_lostcity2"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "lostcityzomboss",
+      "CODENAME": "zombossmech_lostcity2",
+      "OBTAINWORLD": "lostcity",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_lostcity2@ZombieProps)",
+      "RES": "LostcityZombossMech",
+      "NAME": {
+        "en": "Zombot Aerostatic Gondola"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "zoybeanbasic",
+      "CODENAME": "zoybean",
+      "OBTAINWORLD": "zoybean",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zoybean@ZombieProps)",
+      "RES": "ZoybeanBasic",
+      "NAME": {
+        "en": "Zomboid"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "zoybeanarmor1",
+      "CODENAME": "zoybean_armor1",
+      "OBTAINWORLD": "zoybean",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zoybean_armor1@ZombieProps)",
+      "RES": "ZoybeanBasic",
+      "NAME": {
+        "en": "Carrot-head Zomboid"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "zoybeanarmor2",
+      "CODENAME": "zoybean_armor2",
+      "OBTAINWORLD": "zoybean",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zoybean_armor2@ZombieProps)",
+      "RES": "ZoybeanBasic",
+      "NAME": {
+        "en": "Melonhead Zomboid"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "zoybeangargantuar",
+      "CODENAME": "zoybean_gargantuar",
+      "OBTAINWORLD": "zoybean",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zoybean_gargantuar@ZombieProps)",
+      "RES": "ZoybeanGargantuar",
+      "NAME": {
+        "en": "Gargantuar Zomboid"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "summerbasic",
+      "CODENAME": "summer_basic",
+      "OBTAINWORLD": "summer",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(summer@ZombieProps)",
+      "RES": "SummerBasic",
+      "NAME": {
+        "en": "Summer Night Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "summerarmor1",
+      "CODENAME": "summer_armor1",
+      "OBTAINWORLD": "summer",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(summer_armor1@ZombieProps)",
+      "RES": "SummerBasic",
+      "NAME": {
+        "en": "Conehead Summer Night Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "summerarmor2",
+      "CODENAME": "summer_armor2",
+      "OBTAINWORLD": "summer",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(summer_armor2@ZombieProps)",
+      "RES": "SummerBasic",
+      "NAME": {
+        "en": "Buckethead Summer Night Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "summerflag",
+      "CODENAME": "summer_flag",
+      "OBTAINWORLD": "summer",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(summer_flag@ZombieProps)",
+      "RES": "SummerFlag",
+      "NAME": {
+        "en": "Flag Summer Night Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "summerbug",
+      "CODENAME": "summer_bug",
+      "OBTAINWORLD": "summer",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(summer_bug@ZombieProps)",
+      "RES": "SummerBasic",
+      "NAME": {
+        "en": "Firefly Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "summerbugarmor1",
+      "CODENAME": "summer_bug_armor1",
+      "OBTAINWORLD": "summer",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(summer_bug_armor1@ZombieProps)",
+      "RES": "SummerBasic",
+      "NAME": {
+        "en": "Conehead Firefly"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "summerbugarmor2",
+      "CODENAME": "summer_bug_armor2",
+      "OBTAINWORLD": "summer",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(summer_bug_armor2@ZombieProps)",
+      "RES": "SummerBasic",
+      "NAME": {
+        "en": "Buckethead Firefly"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "summerimp",
+      "CODENAME": "summer_imp",
+      "OBTAINWORLD": "summer",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_imp@ZombieProps)",
+      "RES": "SummerImp",
+      "NAME": {
+        "en": "Sausage Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "summergargantuar",
+      "CODENAME": "summer_gargantuar",
+      "OBTAINWORLD": "summer",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(summer_gargantuar@ZombieProps)",
+      "RES": "SummerGargantuar",
+      "NAME": {
+        "en": "King of the Grill"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "halloweenbasic",
+      "CODENAME": "halloween",
+      "OBTAINWORLD": "halloween",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(halloween@ZombieProps)",
+      "RES": "HalloweenBasic",
+      "NAME": {
+        "en": "Skeleton-costume Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "halloweenarmor1",
+      "CODENAME": "halloween_armor1",
+      "OBTAINWORLD": "halloween",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(halloween_armor1@ZombieProps)",
+      "RES": "HalloweenBasic",
+      "NAME": {
+        "en": "Conehead Skeleton-costume"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "halloweenarmor2",
+      "CODENAME": "halloween_armor2",
+      "OBTAINWORLD": "halloween",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(halloween_armor2@ZombieProps)",
+      "RES": "HalloweenBasic",
+      "NAME": {
+        "en": "Buckethead Skeleton-costume"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "halloweenflag",
+      "CODENAME": "halloween_flag",
+      "OBTAINWORLD": "halloween",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(halloween_flag@ZombieProps)",
+      "RES": "HalloweenFlag",
+      "NAME": {
+        "en": "Flag Scarecrow"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "halloweenimp",
+      "CODENAME": "halloween_imp",
+      "OBTAINWORLD": "halloween",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial_imp@ZombieProps)",
+      "RES": "HalloweenImp",
+      "NAME": {
+        "en": "Halloween Imp Mummy"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "halloweengargantuar",
+      "CODENAME": "halloween_gargantuar",
+      "OBTAINWORLD": "halloween",
+      "ALMANAC": "RTID(halloween_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(halloween_gargantuar@ZombieProps)",
+      "RES": "HalloweenGargantuar",
+      "NAME": {
+        "en": "Frankenstein's Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfubasic",
+      "CODENAME": "kongfu",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu@ZombieProps)",
+      "RES": "KongfuBasic",
+      "NAME": {
+        "en": "Kongfu Zombie"
+      },
+      "SubZombieList": [
+        "kongfu_armor3"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "kongfuarmor1",
+      "CODENAME": "kongfu_armor1",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_armor1@ZombieProps)",
+      "RES": "KongfuBasic",
+      "NAME": {
+        "en": "Kongfu Conehead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfuarmor2",
+      "CODENAME": "kongfu_armor2",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_armor2@ZombieProps)",
+      "RES": "KongfuBasic",
+      "NAME": {
+        "en": "Kongfu Kettlehead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfuarmor3",
+      "CODENAME": "kongfu_armor3",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_armor3@ZombieProps)",
+      "RES": "KongfuBasic",
+      "NAME": {
+        "en": "Kongfu Helmet Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfuarmor4",
+      "CODENAME": "kongfu_armor4",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_armor4@ZombieProps)",
+      "RES": "KongfuBasic",
+      "NAME": {
+        "en": "Kongfu Censer-headed Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfuflag",
+      "CODENAME": "kongfu_flag",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_flag@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_flag@ZombieProps)",
+      "RES": "KongfuFlag",
+      "NAME": {
+        "en": "Flag Kongfu Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfurally",
+      "CODENAME": "kongfu_flag_veteran",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_flag_veteran@ZombieProps)",
+      "RES": "KongfuRally",
+      "NAME": {
+        "en": "Kongfu Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfuhammer",
+      "CODENAME": "kongfu_hammer",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_hammer@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_hammer@ZombieProps)",
+      "RES": "KongfuHammer",
+      "NAME": {
+        "en": "Hammer Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfutorch",
+      "CODENAME": "kongfu_torch",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_torch@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_torch@ZombieProps)",
+      "RES": "KongfuTorch",
+      "NAME": {
+        "en": "Expeditionist Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfubomb",
+      "CODENAME": "kongfu_bomb",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_bomb@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_bomb@ZombieProps)",
+      "RES": "KongfuBomb",
+      "NAME": {
+        "en": "Bomb Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfugong",
+      "CODENAME": "kongfu_gong",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_gong@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_gong@ZombieProps)",
+      "RES": "KongfuGong",
+      "NAME": {
+        "en": "Gong Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfudrink",
+      "CODENAME": "kongfu_drink",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_drink@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_drink@ZombieProps)",
+      "RES": "KongfuDrink",
+      "NAME": {
+        "en": "Drinking Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfuchi",
+      "CODENAME": "kongfu_chi",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_chi@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_chi@ZombieProps)",
+      "RES": "KongfuChi",
+      "NAME": {
+        "en": "Qigong Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfurocketimp",
+      "CODENAME": "kongfu_rocket_imp",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_rocket_imp@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_rocket_imp@ZombieProps)",
+      "RES": "RocketImp",
+      "NAME": {
+        "en": "Rocket Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "monkbasic",
+      "CODENAME": "monk",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(monk@ZombieAlmanac)",
+      "PROPS": "RTID(monk@ZombieProps)",
+      "RES": "MonkBasic",
+      "NAME": {
+        "en": "Monk Zombie"
+      },
+      "SubZombieList": [
+        "monk_armor3"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "monkarmor1",
+      "CODENAME": "monk_armor1",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(monk_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(monk_armor1@ZombieProps)",
+      "RES": "MonkBasic",
+      "NAME": {
+        "en": "Monk Conehead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "monkarmor2",
+      "CODENAME": "monk_armor2",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(monk_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(monk_armor2@ZombieProps)",
+      "RES": "MonkBasic",
+      "NAME": {
+        "en": "Monk Kettlehead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "monkarmor3",
+      "CODENAME": "monk_armor3",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(monk_armor3@ZombieProps)",
+      "RES": "MonkBasic",
+      "NAME": {
+        "en": "Monk Helmet Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "monkarmor4",
+      "CODENAME": "monk_armor4",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(monk_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(monk_armor4@ZombieProps)",
+      "RES": "MonkBasic",
+      "NAME": {
+        "en": "Monk Censer-headed Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "monkflag",
+      "CODENAME": "monk_flag",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(monk_flag@ZombieAlmanac)",
+      "PROPS": "RTID(monk_flag@ZombieProps)",
+      "RES": "MonkFlag",
+      "NAME": {
+        "en": "Flag Monk Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "monkrally",
+      "CODENAME": "monk_flag_veteran",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(monk_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(monk_flag_veteran@ZombieProps)",
+      "RES": "MonkRally",
+      "NAME": {
+        "en": "Monk Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "monkblade",
+      "CODENAME": "monk_blade",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(monk_blade@ZombieAlmanac)",
+      "PROPS": "RTID(monk_blade@ZombieProps)",
+      "RES": "MonkBlade",
+      "NAME": {
+        "en": "Blade Monk Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "monknunchaku",
+      "CODENAME": "monk_nunchaku",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(monk_nunchaku@ZombieAlmanac)",
+      "PROPS": "RTID(monk_nunchaku@ZombieProps)",
+      "RES": "MonkNunchaku",
+      "NAME": {
+        "en": "Nunchaku Monk Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "monktorch",
+      "CODENAME": "monk_torch",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(monk_torch@ZombieAlmanac)",
+      "PROPS": "RTID(monk_torch@ZombieProps)",
+      "RES": "MonkTorch",
+      "NAME": {
+        "en": "Torch Monk Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "monkdrink",
+      "CODENAME": "monk_drink",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(monk_drink@ZombieAlmanac)",
+      "PROPS": "RTID(monk_drink@ZombieProps)",
+      "RES": "MonkDrink",
+      "NAME": {
+        "en": "Drinking Monk Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "monkdrinkveteran",
+      "CODENAME": "monk_drink_veteran",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(monk_drink_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(monk_drink_veteran@ZombieProps)",
+      "RES": "MonkDrinkVeteran",
+      "NAME": {
+        "en": "Pitch-pot Monk Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfumonkimp",
+      "CODENAME": "monk_imp",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(monk_imp@ZombieAlmanac)",
+      "PROPS": "RTID(monk_imp@ZombieProps)",
+      "RES": "KongfuMonkImp",
+      "NAME": {
+        "en": "Kongfu Monk Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "abbotbasic",
+      "CODENAME": "abbot",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(abbot@ZombieAlmanac)",
+      "PROPS": "RTID(abbot@ZombieProps)",
+      "RES": "AbbotBasic",
+      "NAME": {
+        "en": "Abbot Zombie"
+      },
+      "SubZombieList": [
+        "abbot_armor3"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "abbotarmor1",
+      "CODENAME": "abbot_armor1",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(abbot_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(abbot_armor1@ZombieProps)",
+      "RES": "AbbotBasic",
+      "NAME": {
+        "en": "Abbot Conehead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "abbotarmor2",
+      "CODENAME": "abbot_armor2",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(abbot_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(abbot_armor2@ZombieProps)",
+      "RES": "AbbotBasic",
+      "NAME": {
+        "en": "Abbot Kettlehead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "abbotarmor3",
+      "CODENAME": "abbot_armor3",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(abbot_armor3@ZombieProps)",
+      "RES": "AbbotBasic",
+      "NAME": {
+        "en": "Abbot Helmet Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "abbotarmor4",
+      "CODENAME": "abbot_armor4",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(abbot_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(abbot_armor4@ZombieProps)",
+      "RES": "AbbotBasic",
+      "NAME": {
+        "en": "Abbot Censer-headed Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "abbotflag",
+      "CODENAME": "abbot_flag",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(abbot_flag@ZombieAlmanac)",
+      "PROPS": "RTID(abbot_flag@ZombieProps)",
+      "RES": "AbbotFlag",
+      "NAME": {
+        "en": "Flag Abbot Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "abbotrally",
+      "CODENAME": "abbot_flag_veteran",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(abbot_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(abbot_flag_veteran@ZombieProps)",
+      "RES": "AbbotRally",
+      "NAME": {
+        "en": "Abbot Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "abbottorch",
+      "CODENAME": "abbot_torch",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(abbot_torch@ZombieAlmanac)",
+      "PROPS": "RTID(abbot_torch@ZombieProps)",
+      "RES": "AbbotTorch",
+      "NAME": {
+        "en": "Torch Abbot"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "abbotfan",
+      "CODENAME": "abbot_fan",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(abbot_fan@ZombieAlmanac)",
+      "PROPS": "RTID(abbot_fan@ZombieProps)",
+      "RES": "AbbotFan",
+      "NAME": {
+        "en": "Fan Swinging Abbot"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "abbot3sectionstaff",
+      "CODENAME": "abbot_3section_staff",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(abbot_3section_staff@ZombieAlmanac)",
+      "PROPS": "RTID(abbot_3section_staff@ZombieProps)",
+      "RES": "Abbot3SectionStaff",
+      "NAME": {
+        "en": "Three-section Staff Abbot"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "abbotchi",
+      "CODENAME": "abbot_chi",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(abbot_chi@ZombieAlmanac)",
+      "PROPS": "RTID(abbot_chi@ZombieProps)",
+      "RES": "AbbotChi",
+      "NAME": {
+        "en": "Qigong Abbot"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "abbotimp",
+      "CODENAME": "abbot_imp",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(abbot_imp@ZombieAlmanac)",
+      "PROPS": "RTID(abbot_imp@ZombieProps)",
+      "RES": "AbbotImp",
+      "NAME": {
+        "en": "Abbot Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfubronzestatue",
+      "CODENAME": "kongfu_bronze_statue",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_bronze_statue@ZombieProps)",
+      "RES": "KongfuBronzeStatue",
+      "NAME": {
+        "en": "Bronze Statue"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfubronzestrong",
+      "CODENAME": "kongfu_bronze_strong",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_bronze_strong@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_bronze_strong@ZombieProps)",
+      "RES": "KongfuBronzeStrong",
+      "NAME": {
+        "en": "Bronze of Toughness"
+      },
+      "SubZombieList": [
+        "kongfu_bronze_statue"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "kongfubronzehook",
+      "CODENAME": "kongfu_bronze_hook",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_bronze_hook@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_bronze_hook@ZombieProps)",
+      "RES": "KongfuBronzeHook",
+      "NAME": {
+        "en": "Bronze of Hook"
+      },
+      "SubZombieList": [
+        "kongfu_bronze_statue"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "kongfubronzechi",
+      "CODENAME": "kongfu_bronze_chi",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_bronze_chi@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_bronze_chi@ZombieProps)",
+      "RES": "KongfuBronzeChi",
+      "NAME": {
+        "en": "Bronze of Qigong"
+      },
+      "SubZombieList": [
+        "kongfu_bronze_statue"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "kongfubossbomb",
+      "CODENAME": "kongfu_boss_explode",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_boss_explode@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_boss_explode@ZombieProps)",
+      "RES": "KongfuBossExplode",
+      "NAME": {
+        "en": "Devil of Dynamite"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfubossblade",
+      "CODENAME": "kongfu_boss_blade",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_boss_blade@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_boss_blade@ZombieProps)",
+      "RES": "KongfuBossBlade",
+      "NAME": {
+        "en": "Blade-Wielding Hero"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "kongfubosschi",
+      "CODENAME": "kongfu_boss_chi",
+      "OBTAINWORLD": "kongfu",
+      "ALMANAC": "RTID(kongfu_boss_chi@ZombieAlmanac)",
+      "PROPS": "RTID(kongfu_boss_chi@ZombieProps)",
+      "RES": "KongfuBossChi",
+      "NAME": {
+        "en": "Qigong Master"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesbasic",
+      "CODENAME": "eighties",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties@ZombieAlmanac)",
+      "PROPS": "RTID(eighties@ZombieProps)",
+      "RES": "EightiesBasic",
+      "NAME": {
+        "en": "Neon Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesarmor1",
+      "CODENAME": "eighties_armor1",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_armor1@ZombieProps)",
+      "RES": "EightiesBasic",
+      "NAME": {
+        "en": "Neon Conehead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesarmor2",
+      "CODENAME": "eighties_armor2",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_armor2@ZombieProps)",
+      "RES": "EightiesBasic",
+      "NAME": {
+        "en": "Neon Buckethead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesarmor4",
+      "CODENAME": "eighties_armor4",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_armor4@ZombieProps)",
+      "RES": "EightiesBasic",
+      "NAME": {
+        "en": "Spotlight Neon Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesflag",
+      "CODENAME": "eighties_flag",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_flag@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_flag@ZombieProps)",
+      "RES": "EightiesFlag",
+      "NAME": {
+        "en": "Neon Flag Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesrally",
+      "CODENAME": "eighties_flag_veteran",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_flag_veteran@ZombieProps)",
+      "RES": "EightiesRally",
+      "NAME": {
+        "en": "Neon Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiespunk",
+      "CODENAME": "eighties_punk",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_punk@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_punk@ZombieProps)",
+      "RES": "EightiesPunk",
+      "NAME": {
+        "en": "Punk Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiespunkveteran",
+      "CODENAME": "eighties_punk_veteran",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_punk_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_punk_veteran@ZombieProps)",
+      "RES": "EightiesPunkVeteran",
+      "NAME": {
+        "en": "Skunk Punk"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesskunk",
+      "CODENAME": "eighties_skunk",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_skunk@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_skunk@ZombieProps)",
+      "RES": "EightiesSkunk",
+      "NAME": {
+        "en": "Zombie Skunk"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesglitter",
+      "CODENAME": "eighties_glitter",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_glitter@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_glitter@ZombieProps)",
+      "RES": "EightiesGlitter",
+      "NAME": {
+        "en": "Glitter Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesmc",
+      "CODENAME": "eighties_mc",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_mc@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_mc@ZombieProps)",
+      "RES": "EightiesMC",
+      "NAME": {
+        "en": "MC Zom-B"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesbreakdancer",
+      "CODENAME": "eighties_breakdancer",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_breakdancer@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_breakdancer@ZombieProps)",
+      "RES": "EightiesBreakDancer",
+      "NAME": {
+        "en": "Breakdancer Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesarcade",
+      "CODENAME": "eighties_arcade",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_arcade@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_arcade@ZombieProps)",
+      "RES": "EightiesArcade",
+      "NAME": {
+        "en": "Arcade Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eighties8bitbasic",
+      "CODENAME": "eighties_8bit",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_8bit@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_8bit@ZombieProps)",
+      "RES": "Eighties8Bit",
+      "NAME": {
+        "en": "8-Bit Zombie"
+      },
+      "SubZombieList": [
+        "eighties_8bit_armor1",
+        "eighties_8bit_armor2"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "eighties8bitarmor1",
+      "CODENAME": "eighties_8bit_armor1",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_8bit_armor1@ZombieProps)",
+      "RES": "Eighties8Bit",
+      "NAME": {
+        "en": "8-Bit Conehead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eighties8bitarmor2",
+      "CODENAME": "eighties_8bit_armor2",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_8bit_armor2@ZombieProps)",
+      "RES": "Eighties8Bit",
+      "NAME": {
+        "en": "8-Bit Buckethead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesboombox",
+      "CODENAME": "eighties_boombox",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_boombox@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_boombox@ZombieProps)",
+      "RES": "EightiesBoomBox",
+      "NAME": {
+        "en": "Boombox Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesimp",
+      "CODENAME": "eighties_imp",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_imp@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_imp@ZombieProps)",
+      "RES": "EightiesImp",
+      "NAME": {
+        "en": "Impunk"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightiesgargantuar",
+      "CODENAME": "eighties_gargantuar",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(eighties_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(eighties_gargantuar@ZombieProps)",
+      "RES": "EightiesGargantuar",
+      "NAME": {
+        "en": "Hair Metal Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "eightieszomboss",
+      "CODENAME": "zombossmech_eighties",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(zombossmech_eighties@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_eighties@ZombieProps)",
+      "RES": "EightiesZombossMech",
+      "NAME": {
+        "en": "Zombot Multi-stage Masher"
+      },
+      "SubZombieList": [
+        "zombossmech_eighties2"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "eightieszomboss",
+      "CODENAME": "zombossmech_eighties2",
+      "OBTAINWORLD": "eighties",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_eighties2@ZombieProps)",
+      "RES": "EightiesZombossMech",
+      "NAME": {
+        "en": "Zombot Multi-stage Masher"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "dinobasic",
+      "CODENAME": "dino",
+      "OBTAINWORLD": "dino",
+      "ALMANAC": "RTID(dino@ZombieAlmanac)",
+      "PROPS": "RTID(dino@ZombieProps)",
+      "RES": "DinoBasic",
+      "NAME": {
+        "en": "Jurassic Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "dinoarmor1",
+      "CODENAME": "dino_armor1",
+      "OBTAINWORLD": "dino",
+      "ALMANAC": "RTID(dino_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(dino_armor1@ZombieProps)",
+      "RES": "DinoBasic",
+      "NAME": {
+        "en": "Jurassic Conehead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "dinoarmor2",
+      "CODENAME": "dino_armor2",
+      "OBTAINWORLD": "dino",
+      "ALMANAC": "RTID(dino_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(dino_armor2@ZombieProps)",
+      "RES": "DinoBasic",
+      "NAME": {
+        "en": "Jurassic Buckethead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "dinoarmor3",
+      "CODENAME": "dino_armor3",
+      "OBTAINWORLD": "dino",
+      "ALMANAC": "RTID(dino_armor3@ZombieAlmanac)",
+      "PROPS": "RTID(dino_armor3@ZombieProps)",
+      "RES": "DinoBasic",
+      "NAME": {
+        "en": "Jurassic Fossilhead"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "dinoarmor4",
+      "CODENAME": "dino_armor4",
+      "OBTAINWORLD": "dino",
+      "ALMANAC": "RTID(dino_armor4@ZombieAlmanac)",
+      "PROPS": "RTID(dino_armor4@ZombieProps)",
+      "RES": "DinoBasic",
+      "NAME": {
+        "en": "Amberhead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "dinoflag",
+      "CODENAME": "dino_flag",
+      "OBTAINWORLD": "dino",
+      "ALMANAC": "RTID(dino_flag@ZombieAlmanac)",
+      "PROPS": "RTID(dino_flag@ZombieProps)",
+      "RES": "DinoFlag",
+      "NAME": {
+        "en": "Jurassic Flag Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "dinorally",
+      "CODENAME": "dino_flag_veteran",
+      "OBTAINWORLD": "dino",
+      "ALMANAC": "RTID(dino_flag_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(dino_flag_veteran@ZombieProps)",
+      "RES": "DinoRally",
+      "NAME": {
+        "en": "Jurassic Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "dinobully",
+      "CODENAME": "dino_bully",
+      "OBTAINWORLD": "dino",
+      "ALMANAC": "RTID(dino_bully@ZombieAlmanac)",
+      "PROPS": "RTID(dino_bully@ZombieProps)",
+      "RES": "DinoBully",
+      "NAME": {
+        "en": "Jurassic Bully"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "dinobullyveteran",
+      "CODENAME": "dino_bully_veteran",
+      "OBTAINWORLD": "dino",
+      "ALMANAC": "RTID(dino_bully_veteran@ZombieAlmanac)",
+      "PROPS": "RTID(dino_bully_veteran@ZombieProps)",
+      "RES": "DinoBullyVeteran",
+      "NAME": {
+        "en": "Jurassic Rockpuncher"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "dinoimp",
+      "CODENAME": "dino_imp",
+      "OBTAINWORLD": "dino",
+      "ALMANAC": "RTID(dino_imp@ZombieAlmanac)",
+      "PROPS": "RTID(dino_imp@ZombieProps)",
+      "RES": "DinoImp",
+      "NAME": {
+        "en": "Jurassic Imp"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "dinogargantuar",
+      "CODENAME": "dino_gargantuar",
+      "OBTAINWORLD": "dino",
+      "ALMANAC": "RTID(dino_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(dino_gargantuar@ZombieProps)",
+      "RES": "DinoGargantuar",
+      "NAME": {
+        "en": "Jurassic Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "dinozomboss",
+      "CODENAME": "zombossmech_dino",
+      "OBTAINWORLD": "dino",
+      "ALMANAC": "RTID(zombossmech_dino@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_dino@ZombieProps)",
+      "RES": "DinoZombossMech",
+      "NAME": {
+        "en": "Zombot Dinotronic Mechasaur"
+      },
+      "SubZombieList": [
+        "zombossmech_dino2"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "dinozomboss",
+      "CODENAME": "zombossmech_dino2",
+      "OBTAINWORLD": "dino",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(zombossmech_dino2@ZombieProps)",
+      "RES": "DinoZombossMech",
+      "NAME": {
+        "en": "Zombot Dinotronic Mechasaur"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skynormalbasic",
+      "CODENAME": "sky_unarmed",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(sky@ZombieProps)",
+      "RES": "SkyBasicUnarmed",
+      "NAME": {
+        "en": "Unarmed Pilot Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skynormalflag",
+      "CODENAME": "sky_unarmed_flag",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(sky_flag@ZombieProps)",
+      "RES": "SkyFlagUnarmed",
+      "NAME": {
+        "en": "Unarmed Flag Pilot"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skybasic",
+      "CODENAME": "sky",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(sky@ZombieAlmanac)",
+      "PROPS": "RTID(sky@ZombieProps)",
+      "RES": "SkyBasic",
+      "NAME": {
+        "en": "Pilot Zombie"
+      },
+      "SubZombieList": [
+        "sky_unarmed"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "skyarmor1",
+      "CODENAME": "sky_armor1",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(sky_armor1@ZombieAlmanac)",
+      "PROPS": "RTID(sky_armor1@ZombieProps)",
+      "RES": "SkyBasic",
+      "NAME": {
+        "en": "Conehead Pilot"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skyarmor2",
+      "CODENAME": "sky_armor2",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(sky_armor2@ZombieAlmanac)",
+      "PROPS": "RTID(sky_armor2@ZombieProps)",
+      "RES": "SkyBasic",
+      "NAME": {
+        "en": "Buckethead Pilot"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skyflag",
+      "CODENAME": "sky_flag",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(sky_flag@ZombieAlmanac)",
+      "PROPS": "RTID(sky_flag@ZombieProps)",
+      "RES": "SkyFlag",
+      "NAME": {
+        "en": "Flag Pilot"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skybattleplane",
+      "CODENAME": "sky_battleplane",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(sky_battleplane@ZombieAlmanac)",
+      "PROPS": "RTID(sky_battleplane@ZombieProps)",
+      "RES": "SkyBattlePlane",
+      "NAME": {
+        "en": "Battleplane Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skydropship",
+      "CODENAME": "sky_dropship",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(sky_dropship@ZombieAlmanac)",
+      "PROPS": "RTID(sky_dropship@ZombieProps)",
+      "RES": "SkyDropShip",
+      "NAME": {
+        "en": "Transport Boat"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skytwinupper",
+      "CODENAME": "sky_twin_upper",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(sky_twin_upper@ZombieProps)",
+      "RES": "SkyTwinUpper",
+      "NAME": {
+        "en": "Double-Cabin Aircraft (Upper)"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skytwinlower",
+      "CODENAME": "sky_twin_lower",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(sky_twin_lower@ZombieProps)",
+      "RES": "SkyTwinLower",
+      "NAME": {
+        "en": "Double-Cabin Aircraft (Lower)"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skytwin",
+      "CODENAME": "sky_twin",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(sky_twin@ZombieAlmanac)",
+      "PROPS": "RTID(sky_twin@ZombieProps)",
+      "RES": "SkyTwinLower",
+      "NAME": {
+        "en": "Double-Cabin Aircraft"
+      },
+      "SubZombieList": [
+        "sky_twin_upper",
+        "sky_twin_lower",
+        "sky_airraid_twin"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "skytwin",
+      "CODENAME": "sky_airraid_twin",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(sky_airraid_twin@ZombieProps)",
+      "RES": "SkyAirRaidTwin",
+      "NAME": {
+        "en": "Double-Cabin Aircraft"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skyelectric",
+      "CODENAME": "sky_electric",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(sky_electric@ZombieAlmanac)",
+      "PROPS": "RTID(sky_electric@ZombieProps)",
+      "RES": "SkyElectric",
+      "NAME": {
+        "en": "Lightning Gun Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skyarbiterx",
+      "CODENAME": "sky_arbiterx",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(sky_arbiterx@ZombieAlmanac)",
+      "PROPS": "RTID(sky_arbiterx@ZombieProps)",
+      "RES": "SkyArbiterX",
+      "NAME": {
+        "en": "Arbiter - Model X"
+      },
+      "SubZombieList": [
+        "sky_airraid_arbiterx"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "skyarbiterx",
+      "CODENAME": "sky_airraid_arbiterx",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(sky_airraid_arbiterx@ZombieProps)",
+      "RES": "SkyAirRaidArbiterX",
+      "NAME": {
+        "en": "Arbiter - Model X"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skydronemaker",
+      "CODENAME": "sky_dronemaker",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(sky_dronemaker@ZombieAlmanac)",
+      "PROPS": "RTID(sky_dronemaker@ZombieProps)",
+      "RES": "SkyDroneMaker",
+      "NAME": {
+        "en": "Drone Engineer"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skydrone",
+      "CODENAME": "sky_drone",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(sky_drone@ZombieProps)",
+      "RES": "SkyDrone",
+      "NAME": {
+        "en": "Drone"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "skyimp",
+      "CODENAME": "sky_imp",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(sky_imp@ZombieAlmanac)",
+      "PROPS": "RTID(sky_imp@ZombieProps)",
+      "RES": "SkyImp",
+      "NAME": {
+        "en": "Imp Paratrooper"
+      },
+      "SubZombieList": [
+        "sky_dropship"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "skygargantuar",
+      "CODENAME": "sky_gargantuar",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(sky_gargantuar@ZombieAlmanac)",
+      "PROPS": "RTID(sky_gargantuar@ZombieProps)",
+      "RES": "SkyGargantuar",
+      "NAME": {
+        "en": "Airborne Gargantuar"
+      },
+      "SubZombieList": [
+        "sky_gargantuar_armor2_thrower"
+      ]
+    },
+    {
+      "_CARDSPRITENAME": "skygargantuar",
+      "CODENAME": "sky_gargantuar_armor2_thrower",
+      "OBTAINWORLD": "sky",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(sky_gargantuar_armor2_thrower@ZombieProps)",
+      "RES": "SkyGargantuarArmor2Thrower",
+      "NAME": {
+        "en": "Airborne Gargantuar"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lawnbasic",
+      "CODENAME": "lawn",
+      "OBTAINWORLD": "",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "Basic",
+      "NAME": {
+        "en": "Lawn Basic Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lawnarmor1",
+      "CODENAME": "lawn_armor1",
+      "OBTAINWORLD": "",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "Basic",
+      "NAME": {
+        "en": "Lawn Conehead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lawnarmor2",
+      "CODENAME": "lawn_armor2",
+      "OBTAINWORLD": "",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "Basic",
+      "NAME": {
+        "en": "Lawn Buckethead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lawnarmor3",
+      "CODENAME": "lawn_armor3",
+      "OBTAINWORLD": "",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "Basic",
+      "NAME": {
+        "en": "Lawn Helmet Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lawnarmor4",
+      "CODENAME": "lawn_armor4",
+      "OBTAINWORLD": "",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "Basic",
+      "NAME": {
+        "en": "Lawn Brickhead Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lawnflag",
+      "CODENAME": "lawn_flag",
+      "OBTAINWORLD": "",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "Basic",
+      "NAME": {
+        "en": "Lawn Flag Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lawnrally",
+      "CODENAME": "lawn_flag_veteran",
+      "OBTAINWORLD": "",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "Basic",
+      "NAME": {
+        "en": "Lawn Rally Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lawnimp",
+      "CODENAME": "lawn_imp",
+      "OBTAINWORLD": "",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "Basic",
+      "NAME": {
+        "en": "Lawn Imp Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "lawngargantuar",
+      "CODENAME": "lawn_gargantuar",
+      "OBTAINWORLD": "",
+      "ALMANAC": "RTID(empty@ZombieAlmanac)",
+      "PROPS": "RTID(tutorial@ZombieProps)",
+      "RES": "Basic",
+      "NAME": {
+        "en": "Lawn Gargantuar Zombie"
+      }
+    },
+    {
+      "_CARDSPRITENAME": "yeti",
+      "CODENAME": "treasureyeti",
+      "OBTAINWORLD": "market",
+      "ALMANAC": "RTID(treasureyeti@ZombieAlmanac)",
+      "PROPS": "RTID(treasureyeti@ZombieProps)",
+      "RES": "Yeti",
+      "NAME": {
+        "en": "Treasure Yeti"
+      }
+    }
+  ],
+  "ALMANAC": [
+    "tutorial",
+    "tutorial_armor1",
+    "tutorial_armor2",
+    "tutorial_armor4",
+    "tutorial_flag",
+    "tutorial_flag_veteran",
+    "duckytube",
+    "tutorial_imp",
+    "tutorial_gargantuar",
+    "vase_gargantuar",
+    "mummy",
+    "mummy_armor1",
+    "mummy_armor2",
+    "mummy_armor4",
+    "mummy_flag",
+    "mummy_flag_veteran",
+    "ra",
+    "camel_onehump",
+    "explorer",
+    "explorer_veteran",
+    "tomb_raiser",
+    "pharaoh",
+    "egypt_imp",
+    "egypt_gargantuar",
+    "zombossmech_egypt",
+    "pirate",
+    "pirate_armor1",
+    "pirate_armor2",
+    "pirate_armor4",
+    "pirate_flag",
+    "pirate_flag_veteran",
+    "swashbuckler",
+    "seagull",
+    "pelican",
+    "barrelroller",
+    "pirate_imp",
+    "cannon",
+    "pirate_captain",
+    "pirate_captain_parrot",
+    "pirate_gargantuar",
+    "zombossmech_pirate",
+    "cowboy",
+    "cowboy_armor1",
+    "cowboy_armor2",
+    "cowboy_armor4",
+    "cowboy_flag",
+    "cowboy_flag_veteran",
+    "prospector",
+    "piano",
+    "poncho",
+    "chicken_farmer",
+    "chicken",
+    "west_bull",
+    "west_bull_veteran",
+    "west_bullrider",
+    "cowboy_gargantuar",
+    "zombossmech_cowboy",
+    "future",
+    "future_armor1",
+    "future_armor2",
+    "future_armor4",
+    "future_flag",
+    "future_flag_veteran",
+    "future_jetpack",
+    "future_jetpack_veteran",
+    "future_jetpack_disco",
+    "future_protector",
+    "future_imp",
+    "mech_cone",
+    "disco_mech",
+    "football_mech",
+    "future_gargantuar",
+    "zombossmech_future",
+    "dark",
+    "dark_armor1",
+    "dark_armor2",
+    "dark_armor3",
+    "dark_armor4",
+    "dark_flag",
+    "dark_flag_veteran",
+    "dark_imp",
+    "dark_juggler",
+    "dark_gargantuar",
+    "dark_wizard",
+    "dark_wizard_veteran",
+    "dark_king",
+    "dark_king_veteran",
+    "dark_imp_dragon",
+    "zombossmech_dark",
+    "beach",
+    "beach_armor1",
+    "beach_armor2",
+    "beach_armor4",
+    "beach_flag",
+    "beach_flag_veteran",
+    "beach_fem",
+    "beach_fem_armor1",
+    "beach_fem_armor2",
+    "beach_fem_armor4",
+    "beach_snorkel",
+    "beach_imp",
+    "beach_surfer",
+    "beach_surfer_veteran",
+    "beach_gargantuar",
+    "beach_octopus",
+    "beach_fisherman",
+    "zombossmech_beach",
+    "iceage",
+    "iceage_armor1",
+    "iceage_armor2",
+    "iceage_armor3",
+    "iceage_armor4",
+    "iceage_flag",
+    "iceage_flag_veteran",
+    "iceage_hunter",
+    "iceage_hunter_veteran",
+    "iceage_imp",
+    "iceage_dodo",
+    "iceage_troglobite",
+    "iceage_troglobite_veteran",
+    "iceage_weaselhoarder",
+    "iceage_weasel",
+    "iceage_gargantuar",
+    "zombossmech_iceage",
+    "lostcity",
+    "lostcity_armor1",
+    "lostcity_armor2",
+    "lostcity_armor4",
+    "lostcity_flag",
+    "lostcity_flag_veteran",
+    "lostcity_imp",
+    "lostcity_lostpilot",
+    "lostcity_lostpilot_veteran",
+    "lostcity_excavator",
+    "lostcity_jane",
+    "lostcity_bug",
+    "lostcity_gargantuar",
+    "lostcity_impporter",
+    "lostcity_relichunter",
+    "lostcity_crystalskull",
+    "zombossmech_lostcity",
+    "kongfu",
+    "kongfu_armor1",
+    "kongfu_armor2",
+    "kongfu_armor4",
+    "kongfu_flag",
+    "kongfu_flag_veteran",
+    "kongfu_torch",
+    "kongfu_hammer",
+    "kongfu_bomb",
+    "kongfu_gong",
+    "kongfu_drink",
+    "kongfu_chi",
+    "kongfu_rocket_imp",
+    "monk",
+    "monk_armor1",
+    "monk_armor2",
+    "monk_armor4",
+    "monk_flag",
+    "monk_flag_veteran",
+    "monk_blade",
+    "monk_torch",
+    "monk_nunchaku",
+    "monk_drink",
+    "monk_drink_veteran",
+    "monk_imp",
+    "abbot",
+    "abbot_armor1",
+    "abbot_armor2",
+    "abbot_armor4",
+    "abbot_flag",
+    "abbot_flag_veteran",
+    "abbot_torch",
+    "abbot_fan",
+    "abbot_chi",
+    "abbot_3section_staff",
+    "abbot_imp",
+    "kongfu_bronze_strong",
+    "kongfu_bronze_hook",
+    "kongfu_bronze_chi",
+    "kongfu_boss_explode",
+    "kongfu_boss_blade",
+    "kongfu_boss_chi",
+    "eighties",
+    "eighties_armor1",
+    "eighties_armor2",
+    "eighties_armor4",
+    "eighties_flag",
+    "eighties_flag_veteran",
+    "eighties_punk",
+    "eighties_punk_veteran",
+    "eighties_skunk",
+    "eighties_glitter",
+    "eighties_mc",
+    "eighties_imp",
+    "eighties_gargantuar",
+    "eighties_breakdancer",
+    "eighties_arcade",
+    "eighties_8bit",
+    "eighties_boombox",
+    "zombossmech_eighties",
+    "dino",
+    "dino_armor1",
+    "dino_armor2",
+    "dino_armor3",
+    "dino_armor4",
+    "dino_flag",
+    "dino_flag_veteran",
+    "dino_bully",
+    "dino_bully_veteran",
+    "dino_imp",
+    "dino_gargantuar",
+    "zombossmech_dino",
+    "sky",
+    "sky_armor1",
+    "sky_armor2",
+    "sky_flag",
+    "sky_battleplane",
+    "sky_twin",
+    "sky_electric",
+    "sky_dronemaker",
+    "sky_arbiterx",
+    "sky_imp",
+    "sky_gargantuar",
+    "modern_newspaper",
+    "newspaper_veteran",
+    "modern_balloon",
+    "modern_allstar",
+    "modern_superfanimp",
+    "zomboni",
+    "bobsled_team",
+    "bobsled",
+    "catapult",
+    "treasureyeti"
+  ]
+}

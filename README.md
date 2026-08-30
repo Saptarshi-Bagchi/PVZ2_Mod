@@ -14,21 +14,20 @@ jsons/
   levels/                 # Custom or patched level files
   objects/                # Plant/zombie types, props, and Almanac data
   worldmap/               # Experimental runtime world-map data
-reference/original/       # Original exports used as read-only references
+reference/original/       # Untouched backups of the exported game data
 ```
 
-Files under `reference/` are intentionally kept outside `jsons/` so GP-Next does not load the full exports as patches.
+The exported originals are backed up under `reference/original/`. The copies under `jsons/` are active full-data files: edits to them are loaded by GP-Next after **Save & Reload**.
 
 ## Recommended workflow
 
-1. Export the original game type from GP-Next's Data page.
-2. Find the target entry and confirm its codename and field names.
-3. Copy only the entry/fields you intend to change into the matching `jsons/` folder.
-4. Use strict `.json` or hand-friendly `.json5` as appropriate.
-5. Click **Save & Reload** in GP-Next.
-6. Check the Data page and Log for the live result and errors.
+1. Edit the matching full-data file under `jsons/`.
+2. Click **Save & Reload** in GP-Next.
+3. Check the Data page and Log for the live result and errors.
 
-Prefer small `merge` patches. Do not put complete original exports in `jsons/` unless you intentionally want to take over an entire data type.
+This project is set up for direct editing of full exports. Keep the files in `reference/original/` unchanged so you can recover from mistakes. Full-data files are convenient but can overwrite whole arrays and may need to be re-exported after a game update.
+
+For a smaller, more update-friendly mod, replace a full file with a minimal `merge` patch later. Do not mix a full export and a minimal patch for the same type unless you understand the load order.
 
 ## Plant development
 
