@@ -3,9 +3,12 @@
   "name": "PVZ2 Reimagined",
   "version": "0.1.0",
   "priority": 100,
-  "description": "A reimagined Plants vs. Zombies 2 experience for Gardendless.",
+  "description": "A PvZ2 Gardendless mod project.",
   "author": "Blazing&Zed",
   "packFormatVersion": 1,
-  "gameVersion": "1.0.0",
-  "gpNextVersion": ">=1.0.1"
+  "gameVersion": "0.7.1",
+  "gpNextVersion": ">=1.0.0",
+  "requiredGpNextFeatures": [
+    "runtime.dynamicPlantRegistry"
+  ]
 }

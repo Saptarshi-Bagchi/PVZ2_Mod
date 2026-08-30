@@ -1,0 +1,18 @@
+# Generated/reference exports
+reference/
+
+# GP-Next local/manual edits
+__gpn_edits/
+
+# Runtime and temporary files
+*.log
+*.tmp
+*.bak
+
+# Packaged release files
+*.zip
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+.vscode/
