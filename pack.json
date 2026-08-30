@@ -9,6 +9,7 @@
   "gameVersion": "0.7.1",
   "gpNextVersion": ">=1.0.0",
   "requiredGpNextFeatures": [
-    "runtime.dynamicPlantRegistry"
+    "runtime.dynamicPlantRegistry",
+    "experimental.worldMapJson"
   ]
 }
