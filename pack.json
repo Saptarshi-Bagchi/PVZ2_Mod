@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "priority": 100,
   "description": "A reimagined Plants vs. Zombies 2 experience for Gardendless.",
-  "author": "blazi",
+  "author": "Blazing&Zed",
   "packFormatVersion": 1,
-  "gameVersion": "0.7.1",
-  "gpNextVersion": ">=1.0.0"
+  "gameVersion": "1.0.0",
+  "gpNextVersion": ">=1.0.1"
 }
