@@ -1,0 +1,994 @@
+{
+  "egypt": {
+    "data": {
+      "epicTarget": "epic_egypt"
+    },
+    "map": {
+      "mode": "replace",
+      "reuseOriginalPositions": true,
+      "mainline": [
+        {
+          "id": "Level1",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt1"
+          ],
+          "title": "1",
+          "template": {
+            "levelId": "egypt1"
+          },
+          "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": "Level2",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt2"
+          ],
+          "title": "2",
+          "template": {
+            "levelId": "egypt2"
+          },
+          "relativePosition": {
+            "x": 118.76,
+            "y": -84.75,
+            "z": 1
+          }
+        },
+        {
+          "id": "CabbagePult",
+          "type": "plant",
+          "template": {
+            "type": "plant",
+            "plantDisplayed": 4
+          },
+          "plantReward": "cabbagepult",
+          "position": {
+            "x": 251.37,
+            "y": -137.54,
+            "z": 2
+          }
+        },
+        {
+          "id": "Level3",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt3"
+          ],
+          "title": "3",
+          "template": {
+            "levelId": "egypt3"
+          },
+          "relativePosition": {
+            "x": 163.49,
+            "y": -15.07,
+            "z": 1
+          }
+        },
+        {
+          "id": "Bloomerang",
+          "type": "plant",
+          "template": {
+            "type": "plant",
+            "plantDisplayed": 5
+          },
+          "plantReward": "bloomerang",
+          "position": {
+            "x": 562.13,
+            "y": -124.83,
+            "z": 4
+          }
+        },
+        {
+          "id": "Level4",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt4"
+          ],
+          "title": "4",
+          "template": {
+            "levelId": "egypt4"
+          },
+          "relativePosition": {
+            "x": 115.74,
+            "y": 75.04,
+            "z": 1
+          }
+        },
+        {
+          "id": "Level5",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt5"
+          ],
+          "title": "5",
+          "template": {
+            "levelId": "egypt5"
+          },
+          "relativePosition": {
+            "x": 146.64,
+            "y": 78.05,
+            "z": 1
+          }
+        },
+        {
+          "id": "IcebergLettuce",
+          "type": "plant",
+          "template": {
+            "type": "plant",
+            "plantDisplayed": 6
+          },
+          "plantReward": "iceburg",
+          "position": {
+            "x": 987.43,
+            "y": 57.49,
+            "z": 7
+          }
+        },
+        {
+          "id": "Level6",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt6"
+          ],
+          "title": "6",
+          "template": {
+            "levelId": "egypt6"
+          },
+          "relativePosition": {
+            "x": 132.08,
+            "y": -54.16,
+            "z": 1
+          },
+          "children": [
+            "Level6_1"
+          ]
+        },
+        {
+          "id": "Level7",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt7"
+          ],
+          "title": "7",
+          "template": {
+            "levelId": "egypt7"
+          },
+          "relativePosition": {
+            "x": 126.57,
+            "y": -68.11,
+            "z": 1
+          }
+        },
+        {
+          "id": "GiftBox0",
+          "type": "giftBox",
+          "template": {
+            "type": "giftBox"
+          },
+          "position": {
+            "x": 1378.65,
+            "y": -134.75,
+            "z": 12
+          }
+        },
+        {
+          "id": "Level8",
+          "type": "level",
+          "appearance": "gargantuar",
+          "levels": [
+            "egypt8"
+          ],
+          "title": "8",
+          "template": {
+            "levelId": "egypt8"
+          },
+          "relativePosition": {
+            "x": 162.68,
+            "y": -46.6,
+            "z": -2
+          }
+        },
+        {
+          "id": "Level9",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt9"
+          ],
+          "title": "9",
+          "template": {
+            "levelId": "egypt9"
+          },
+          "relativePosition": {
+            "x": 166.49,
+            "y": 85.08,
+            "z": 3
+          }
+        },
+        {
+          "id": "GraveBuster",
+          "type": "plant",
+          "template": {
+            "type": "plant",
+            "plantDisplayed": 12
+          },
+          "plantReward": "gravebuster",
+          "position": {
+            "x": 1850.7,
+            "y": -13.19,
+            "z": 14
+          }
+        },
+        {
+          "id": "Level10",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt10"
+          ],
+          "title": "10",
+          "template": {
+            "levelId": "egypt10"
+          },
+          "relativePosition": {
+            "x": 167.22,
+            "y": 52.69,
+            "z": 1
+          }
+        },
+        {
+          "id": "Level11",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt11"
+          ],
+          "title": "11",
+          "template": {
+            "levelId": "egypt11"
+          },
+          "relativePosition": {
+            "x": 140.38,
+            "y": -66.46,
+            "z": 1
+          }
+        },
+        {
+          "id": "Giftbox1",
+          "type": "giftBox",
+          "template": {
+            "type": "giftBox"
+          },
+          "position": {
+            "x": 2285.79,
+            "y": -104.43,
+            "z": 17
+          }
+        },
+        {
+          "id": "Level12",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt12"
+          ],
+          "title": "12",
+          "template": {
+            "levelId": "egypt12"
+          },
+          "relativePosition": {
+            "x": 157.74,
+            "y": -46.31,
+            "z": 1
+          }
+        },
+        {
+          "id": "Level13",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt13"
+          ],
+          "title": "13",
+          "template": {
+            "levelId": "egypt13"
+          },
+          "relativePosition": {
+            "x": 170.32,
+            "y": 27.07,
+            "z": 1
+          }
+        },
+        {
+          "id": "BonkChoy",
+          "type": "plant",
+          "template": {
+            "type": "plant",
+            "plantDisplayed": 7
+          },
+          "plantReward": "bonkchoy",
+          "position": {
+            "x": 2752.46,
+            "y": -50.4,
+            "z": 20
+          }
+        },
+        {
+          "id": "Level14",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt14"
+          ],
+          "title": "14",
+          "template": {
+            "levelId": "egypt14"
+          },
+          "relativePosition": {
+            "x": 157.17,
+            "y": 66.82,
+            "z": 1
+          }
+        },
+        {
+          "id": "Level15",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt15"
+          ],
+          "title": "15",
+          "template": {
+            "levelId": "egypt15"
+          },
+          "relativePosition": {
+            "x": 169.42,
+            "y": -37.16,
+            "z": 1
+          }
+        },
+        {
+          "id": "Giftbox2",
+          "type": "giftBox",
+          "template": {
+            "type": "giftBox"
+          },
+          "position": {
+            "x": 3199.28,
+            "y": -79.8,
+            "z": 23
+          }
+        },
+        {
+          "id": "Level16",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt16"
+          ],
+          "title": "16",
+          "template": {
+            "levelId": "egypt16"
+          },
+          "relativePosition": {
+            "x": 162.08,
+            "y": -66.77,
+            "z": 1
+          }
+        },
+        {
+          "id": "Level17",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt17"
+          ],
+          "title": "17",
+          "template": {
+            "levelId": "egypt17"
+          },
+          "relativePosition": {
+            "x": 170.82,
+            "y": 23.32,
+            "z": 1
+          }
+        },
+        {
+          "id": "PFBoost",
+          "type": "upgrade",
+          "template": {
+            "type": "upgrade",
+            "upgradeDisplayed": 2
+          },
+          "upgradeReward": "upgrade_pf_slots_lvl1",
+          "position": {
+            "x": 3657.46,
+            "y": -56.88,
+            "z": 26
+          }
+        },
+        {
+          "id": "Level18",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt18"
+          ],
+          "title": "18",
+          "template": {
+            "levelId": "egypt18"
+          },
+          "relativePosition": {
+            "x": 120.71,
+            "y": 68.63,
+            "z": 1
+          }
+        },
+        {
+          "id": "Level19",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt19"
+          ],
+          "title": "19",
+          "template": {
+            "levelId": "egypt19"
+          },
+          "relativePosition": {
+            "x": 166,
+            "y": 27,
+            "z": 1
+          }
+        },
+        {
+          "id": "Repeater",
+          "type": "plant",
+          "template": {
+            "type": "plant",
+            "plantDisplayed": 8
+          },
+          "plantReward": "repeater",
+          "position": {
+            "x": 4110.93,
+            "y": 11.63,
+            "z": 29
+          }
+        },
+        {
+          "id": "Level20",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt20"
+          ],
+          "title": "20",
+          "template": {
+            "levelId": "egypt20"
+          },
+          "relativePosition": {
+            "x": 147.38,
+            "y": -73.75,
+            "z": 1
+          },
+          "children": [
+            "Level20-1"
+          ]
+        },
+        {
+          "id": "Level21",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt21"
+          ],
+          "title": "21",
+          "template": {
+            "levelId": "egypt21"
+          },
+          "relativePosition": {
+            "x": 133.36,
+            "y": -55.92,
+            "z": 4
+          },
+          "children": [
+            "Level21-1"
+          ]
+        },
+        {
+          "id": "SunBoost",
+          "type": "upgrade",
+          "template": {
+            "type": "upgrade",
+            "upgradeDisplayed": 0
+          },
+          "upgradeReward": "upgrade_starting_sun_lvl1",
+          "position": {
+            "x": 4541,
+            "y": -155.1,
+            "z": 35
+          }
+        },
+        {
+          "id": "Level22",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt22"
+          ],
+          "title": "22",
+          "template": {
+            "levelId": "egypt22"
+          },
+          "relativePosition": {
+            "x": 153.25,
+            "y": 29.76,
+            "z": 1
+          },
+          "children": [
+            "Level22-1"
+          ]
+        },
+        {
+          "id": "Giftbox3",
+          "type": "giftBox",
+          "template": {
+            "type": "giftBox"
+          },
+          "position": {
+            "x": 4864.78,
+            "y": -126.72,
+            "z": 38
+          }
+        },
+        {
+          "id": "Level23",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt23"
+          ],
+          "title": "23",
+          "template": {
+            "levelId": "egypt23"
+          },
+          "relativePosition": {
+            "x": 128.55,
+            "y": 54.98,
+            "z": 1
+          }
+        },
+        {
+          "id": "Level24",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt24"
+          ],
+          "title": "24",
+          "template": {
+            "levelId": "egypt24"
+          },
+          "relativePosition": {
+            "x": 143.12,
+            "y": 76.13,
+            "z": 2
+          },
+          "children": [
+            "Level24-1"
+          ]
+        },
+        {
+          "id": "TwinSunflower",
+          "type": "plant",
+          "template": {
+            "type": "plant",
+            "plantDisplayed": 25
+          },
+          "plantReward": "twinsunflower",
+          "position": {
+            "x": 5298.93,
+            "y": -38.67,
+            "z": 42
+          }
+        },
+        {
+          "id": "Level25",
+          "type": "level",
+          "appearance": "zomboss",
+          "levels": [
+            "egypt25"
+          ],
+          "title": "25",
+          "template": {
+            "levelId": "egypt25"
+          },
+          "relativePosition": {
+            "x": 431.14,
+            "y": -156.6,
+            "z": 2
+          }
+        },
+        {
+          "id": "Level26",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt26"
+          ],
+          "title": "26",
+          "template": {
+            "levelId": "egypt26"
+          },
+          "relativePosition": {
+            "x": 456.85,
+            "y": 155.9,
+            "z": 1
+          }
+        },
+        {
+          "id": "Level27",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt27"
+          ],
+          "title": "27",
+          "template": {
+            "levelId": "egypt27"
+          },
+          "relativePosition": {
+            "x": 170.22,
+            "y": 53.14,
+            "z": 1
+          }
+        },
+        {
+          "id": "Giftbox4",
+          "type": "giftBox",
+          "template": {
+            "type": "giftBox"
+          },
+          "position": {
+            "x": 6493.26,
+            "y": 9.57,
+            "z": 47
+          }
+        },
+        {
+          "id": "Level28",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt28"
+          ],
+          "title": "28",
+          "template": {
+            "levelId": "egypt28"
+          },
+          "relativePosition": {
+            "x": 81.06,
+            "y": -35.97,
+            "z": 1
+          }
+        },
+        {
+          "id": "Level29",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt29"
+          ],
+          "title": "29",
+          "template": {
+            "levelId": "egypt29"
+          },
+          "relativePosition": {
+            "x": 143.09,
+            "y": -48.09,
+            "z": 1
+          },
+          "children": [
+            "Level30"
+          ]
+        },
+        {
+          "id": "Level29-1",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "appease1_0"
+          ],
+          "title": "29-1",
+          "template": {
+            "levelId": "appease1_0"
+          },
+          "relativePosition": {
+            "x": -92.2,
+            "y": -59.86,
+            "z": 9
+          }
+        },
+        {
+          "id": "Level29-2",
+          "type": "epicPortal",
+          "template": {
+            "type": "epicPortal"
+          },
+          "portalLevels": [
+            "appease1_1"
+          ],
+          "position": {
+            "x": 6534.32,
+            "y": -185.84,
+            "z": 59
+          }
+        }
+      ],
+      "branches": [
+        {
+          "id": "Level20-1",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt20_1"
+          ],
+          "title": "20-1",
+          "template": {
+            "levelId": "egypt20_1"
+          },
+          "relativePosition": {
+            "x": -89.42,
+            "y": -52.88,
+            "z": 1
+          }
+        },
+        {
+          "id": "Level21-1",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt21_1"
+          ],
+          "title": "21-1",
+          "template": {
+            "levelId": "egypt21_1"
+          },
+          "relativePosition": {
+            "x": 102.42,
+            "y": 62.39,
+            "z": -2
+          }
+        },
+        {
+          "id": "Level22-1",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt22_1"
+          ],
+          "title": "22-1",
+          "template": {
+            "levelId": "egypt22_1"
+          },
+          "relativePosition": {
+            "x": 130.48,
+            "y": -73.1,
+            "z": 1
+          }
+        },
+        {
+          "id": "Level24-1",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt24_1"
+          ],
+          "title": "24-1",
+          "template": {
+            "levelId": "egypt24_1"
+          },
+          "relativePosition": {
+            "x": 121.1,
+            "y": 50.19,
+            "z": -1
+          }
+        },
+        {
+          "id": "Level30",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt30"
+          ],
+          "title": "30",
+          "template": {
+            "levelId": "egypt30"
+          },
+          "relativePosition": {
+            "x": 184.04,
+            "y": -16.33,
+            "z": 1
+          },
+          "children": [
+            "Giftbox5"
+          ]
+        },
+        {
+          "id": "Giftbox5",
+          "type": "giftBox",
+          "template": {
+            "type": "giftBox"
+          },
+          "position": {
+            "x": 7058.66,
+            "y": -107.78,
+            "z": 51
+          },
+          "children": [
+            "Level31"
+          ]
+        },
+        {
+          "id": "Level31",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "egypt31"
+          ],
+          "title": "31",
+          "template": {
+            "levelId": "egypt31"
+          },
+          "relativePosition": {
+            "x": 154.83,
+            "y": 14.31,
+            "z": 1
+          },
+          "children": [
+            "Level32"
+          ]
+        },
+        {
+          "id": "Level32",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt32"
+          ],
+          "title": "32",
+          "template": {
+            "levelId": "egypt32"
+          },
+          "relativePosition": {
+            "x": 144.73,
+            "y": 47.08,
+            "z": 1
+          },
+          "children": [
+            "Level33"
+          ]
+        },
+        {
+          "id": "Level33",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt33"
+          ],
+          "title": "33",
+          "template": {
+            "levelId": "egypt33"
+          },
+          "relativePosition": {
+            "x": 191.23,
+            "y": 37.75,
+            "z": 1
+          },
+          "children": [
+            "Level34"
+          ]
+        },
+        {
+          "id": "Level34",
+          "type": "level",
+          "appearance": "minigame",
+          "levels": [
+            "egypt34"
+          ],
+          "title": "34",
+          "template": {
+            "levelId": "egypt34"
+          },
+          "relativePosition": {
+            "x": 177.73,
+            "y": 16.36,
+            "z": 2
+          },
+          "children": [
+            "Giftbox6"
+          ]
+        },
+        {
+          "id": "Giftbox6",
+          "type": "giftBox",
+          "template": {
+            "type": "giftBox"
+          },
+          "position": {
+            "x": 7913.39,
+            "y": -11.9,
+            "z": 57
+          },
+          "children": [
+            "Level35"
+          ]
+        },
+        {
+          "id": "Level35",
+          "type": "level",
+          "appearance": "zomboss",
+          "levels": [
+            "egypt35"
+          ],
+          "title": "35",
+          "template": {
+            "levelId": "egypt35"
+          },
+          "relativePosition": {
+            "x": 456.77,
+            "y": -183.37,
+            "z": -2
+          }
+        },
+        {
+          "id": "Level6_1",
+          "type": "level",
+          "appearance": "normal",
+          "levels": [
+            "squash0"
+          ],
+          "title": "6-1",
+          "template": {
+            "levelId": "squash0"
+          },
+          "relativePosition": {
+            "x": -84.51,
+            "y": -93.68,
+            "z": 52
+          },
+          "children": [
+            "Level6_2"
+          ]
+        },
+        {
+          "id": "Level6_2",
+          "type": "epicPortal",
+          "template": {
+            "type": "epicPortal"
+          },
+          "portalLevels": [
+            "squash1"
+          ],
+          "position": {
+            "x": 1154.26,
+            "y": -181.82,
+            "z": 61
+          }
+        }
+      ]
+    }
+  }
+}

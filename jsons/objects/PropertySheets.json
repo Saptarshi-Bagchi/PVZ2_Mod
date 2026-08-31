@@ -4670,6 +4670,27 @@
     },
     {
       "############ Zombie Conditions END ############": 0
+    },
+    {
+      "objclass": "LuxisLibProperties",
+      "aliases": [
+        "LuxisLibProps"
+      ],
+      "objdata": {
+        "WorldOrder": [
+          "egypt",
+          "pirate",
+          "cowboy",
+          "future",
+          "dark",
+          "beach",
+          "iceage",
+          "lostcity",
+          "eighties",
+          "dino",
+          "modern"
+        ]
+      }
     }
   ]
 }
